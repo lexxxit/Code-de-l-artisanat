@@ -1,7 +1,7 @@
 # Article 35 ter
 
 Toute indication inexacte donnée de mauvaise foi en vue de l'immatriculation ou de l'inscription au registre des métiers est
-punie d'une amende de 360 à 20.000 F et d'un emprisonnement d'un mois à six mois ou de l'une de ces deux peines seulement.
+punie d'une amende de 25.000 F et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement.
 
 Les peines prévues à l'alinéa précédent sont prononcées par le tribunal correctionnel du lieu de l'exploitation de
 l'entreprise artisanale, sur réquisition du procureur de la République.
@@ -19,19 +19,20 @@ prud'hommes, aux tribunaux de commerce et aux chambres de commerce.
 
 	  - Décret n°52-849 1952-07-16
 
-	**Créé par**:
-
-	  - Décret n°55-656 1955-05-20 art. 1 JORF 22 mai 1955
-
 	**Cité par**:
 
 	  - Ordonnance n°58-1352 du 27 décembre 1958 - art. 3 (Ab)
 	  - Loi n°96-603 du 5 juillet 1996 - art. 25 (V)
 
-	**Modifié par**:
-
-	  - Décret n°62-235 1962-03-01 art. 37 JORF 4 mars 1962
-
 	**Cite**:
 
 	  - Loi n°77-1468 1977-12-30
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Loi n°96-603 du 5 juillet 1996 - art. 25 (V) JORF 6 juillet 1996
