@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1983-04-20
+Version Consolidée au 1983-10-06
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
