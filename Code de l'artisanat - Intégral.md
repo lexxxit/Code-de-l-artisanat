@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1996-07-06
+Version Consolidée au 1999-05-29
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -114,8 +114,8 @@ Le transfert du siège d'une chambre de métiers est autorisé par arrêté du m
 
 Sont déclarés démissionnaires d'office par le préfet, après avis de la chambre de métiers, les membres des chambres de
 métiers qui cessent au cours de leur mandat de répondre aux conditions d'éligibilité prévues par l'article 11 du présent
-code, ceux qui ont perdu la qualité d'artisan ou de compagnon au titre de laquelle ils ont été élus et ceux qui ne relèvent
-plus de la catégorie à laquelle ils appartenaient au moment de leur élection.
+code, ceux qui ont perdu la qualité d'artisan au titre de laquelle ils ont été élus et ceux qui ne relèvent plus de la
+catégorie à laquelle ils appartenaient au moment de leur élection.
 
 **Liens relatifs à cet article**
 
@@ -123,13 +123,13 @@ plus de la catégorie à laquelle ils appartenaient au moment de leur élection.
 
 	  - Décret n°52-849 1952-07-16
 
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
 	**Modifié par**:
 
-	  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
+	  - Décret n°99-433 1999-05-27 art. 1 II JORF 29 mai 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°99-433 1999-05-27 art. 36 (modalités d'application - dispositions transitoires)
 
 	**Cite**:
 
@@ -139,45 +139,6 @@ plus de la catégorie à laquelle ils appartenaient au moment de leur élection.
 
 	  - Code de l'artisanat - art. 81 bis (M)
 	  - Code de l'artisanat - art. 82-1 (Ab)
-
-
-###### Article 16
-
-Il est pourvu au remplacement des membres décédés ou démissionnaires lors du renouvellement partiel le plus prochain.
-
-Toutefois, lorsqu'une chambre de métiers se trouve, par l'effet de vacances survenues pour une cause quelconque, réduite aux
-trois quarts de ses membres, il est, dans le délai de deux mois à dater de la dernière vacance, procédé à des élections
-complémentaires. Dans l'année qui précède le renouvellement partiel, les élections complémentaires sont reportées à l'époque
-de ce renouvellement, à moins que la chambre n'ait perdu plus de la moitié de ses membres.
-
-Les membres nommés dans une élection complémentaire ne demeurent en fonction que pendant la durée du mandat qui avait été
-confié à leurs prédécesseurs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Modifié par**:
-
-	  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-433 1999-05-27 art. 36 (modalités d'application - dispositions transitoires)
-
-	**Abrogé par**:
-
-	  - Décret n°99-433 1999-05-27 art. 37 JORF 29 mai 1999
-
-	**Cité par**:
-
-	  - Décret n°99-433 du 27 mai 1999 - art. 37 (Ab)
 
 
 ###### Article 17
