@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1992-09-29
+Version Consolidée au 1992-12-13
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
