@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1971-08-14
+Version Consolidée au 1971-09-21
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -108,78 +108,6 @@ sections qu'elle le juge utile.
 	**Cité par**:
 
 	  - Décret n°2009-444 du 20 avril 2009 (V)
-
-
-###### Article 7
-
-A. (1) - Chaque chambre de métiers est constituée :
-
-1° Par vingt-quatre chefs d'entreprise du secteur des métiers, tel qu'il est défini aux articles 1er à 5 du décret du 1er
-mars 1962. Ces membres sont au nombre de quatre pour chacune des six catégories suivantes :
-
-I. - Alimentation ;
-
-II. - Bâtiment ;
-
-III. - Bois et ameublement ;
-
-IV. - Métaux, mécanique, électricité ;
-
-V. - Cuir, textile, vêtement ;
-
-VI. - Hygiène, divers.
-
-Ils sont élus chacun par les électeurs de leur catégorie.
-
-2° Par dix chefs d'entreprise élus par les organisations syndicales de ce secteur dans les conditions prévues par le décret
-du 19 novembre 1959 modifié.
-
-3° Par six compagnons élus par l'ensemble des compagnons des entreprises du secteur des métiers dans la circonscription de la
-chambre.
-
-B. (2) - Toutefois, il n'est apporté aucune modification à la composition de la chambre de métiers interdépartementale de
-Paris et de la chambre de métiers interdépartementale des Yvelines, de l'Essonne et du Val-d'Oise. Cette composition demeure
-celle qui a été fixée respectivement par les décrets n°s 68-82 et 68-83 du 26 janvier 1968 ayant institué ces chambres.
-
-**Nota:**
-
-(1) Dispositions réglementaires, Constitution art. 37.
-
-(2) Le décret n° 76-595 du 30 juin 1976 a, par son article 5, abrogé le paragraphe B du présent article, en tant qu'il
-concerne la chambre de métiers interdépartementale de Paris et à compter d'une date qui sera fixée ultérieurement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°55-656 1955-05-20 art. 5 JORF 22 mai 1955
-
-	**Modifié par**:
-
-	  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
-	  - Décret n°64-1362 du 30 décembre 1964 - art. 1 () JORF 1er janvier 1965
-	  - Décret n°68-82 1968-01-26 art. 14 JORF 28 janvier 1968
-
-	**Cite**:
-
-	  - Décret n°59-1315 1959-11-19
-	  - Décret n°62-235 1962-03-01 art. 1 à 5
-	  - Décret n°68-82 1968-01-26
-	  - Décret n°68-83 1968-01-26
-
-	**Abrogé par**:
-
-	  - Décret n°71-782 1971-09-16 art. 6 JORF 21 septembre 1971
-
-	**Cité par**:
-
-	  - Décret n°83-517 du 24 juin 1983 - art. 9 (M)
-	  - ORDONNANCE n°2015-1540 du 26 novembre 2015 - art. 3 (V)
-	  - Code de l'artisanat - art. 8 (M)
 
 
 ###### Article 15
@@ -440,61 +368,6 @@ chapitre spécial et ne peut, en aucun cas, être supérieur à la moitié de la
 
 
 # Titre II : Des chambres de métiers et de l'artisanat
-
-## Chapitre I : Institution et organisation.
-
-###### Article 8
-
-I - Les membres des chambres de métiers des collèges désignés aux 1° et 3° de l'article 7 ci-dessus sont élus pour six ans,
-respectivement par les chefs d'entreprise et par les compagnons du secteur des métiers, tel qu'il est défini aux articles 1er
-à 5 du décret du 1er mars 1962. Ils sont renouvelés par moitié tous les trois ans.
-
-Lors de la constitution d'une chambre de métiers ou de son renouvellement général, ces deux catégories de membres sont
-réparties chacune en deux séries et l'ordre de renouvellement est fixé par le sort. Pour les membres chefs d'entreprise, le
-renouvellement triennal a lieu par moitié dans chaque catégorie professionnelle. Les membres chefs d'entreprise sont élus par
-les chefs d'entreprise de leur catégorie exerçant dans la circonscription de la chambre de métiers et inscrits sur ses listes
-électorales.
-
-Les membres compagnons sont élus par les compagnons employés dans les entreprises du secteur des métiers de la
-circonscription de la chambre et inscrits sur ses listes électorales.
-
-Il n'est procédé qu'à un seul tour de scrutin. L'élection a lieu à la majorité relative. Si plusieurs candidats obtiennent le
-même nombre de suffrages le plus âgé est élu.
-
-II - Les membres des chambres de métiers du collège désigné au 2° de l'article 7 ci-dessus sont élus pour trois ans.
-
-III - (paragraphe abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Modifié par**:
-
-	  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
-	  - Décret n°64-1362 du 30 décembre 1964 - art. 2 () JORF 1er janvier 1965
-
-	**Cité par**:
-
-	  - Décret n°59-1315 du 19 novembre 1959 - art. 15 (Ab)
-	  - Loi n°2015-991 du 7 août 2015 - art. 5
-	  - ORDONNANCE n°2015-1540 du 26 novembre 2015 - art. 3 (V)
-
-	**Cite**:
-
-	  - Décret n°62-235 1962-03-01
-	  - Code de l'artisanat - art. 7 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°71-782 1971-09-16 art. 6 JORF 21 septembre 1971
-
 
 ## Chapitre II : Fonctionnement.
 
