@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1965-01-01
+Version Consolidée au 1966-03-11
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -530,39 +530,6 @@ du poste.
 	**Abrogé par**:
 
 	  - Décret n°73-358 du 26 mars 1973, v. init.
-
-
-## Chapitre III : Attributions.
-
-###### Article 24
-
-(texte non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Modifié par**:
-
-	  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
-
-	**Abrogé par**:
-
-	  - Décret n°66-137 1966-03-07 art. 11 JORF 11 mars 1966
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°66-137 du 7 mars 1966 - art. 11 (M)
-
-	**Cité par**:
-
-	  - Décret n°66-137 du 7 mars 1966 - art. 11 (V)
 
 
 # Titre III : Du registre des métiers.
