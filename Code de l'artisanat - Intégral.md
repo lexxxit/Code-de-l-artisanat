@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1994-08-10
+Version Consolidée au 1995-05-11
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -800,10 +800,10 @@ primes aux maîtres d'apprentissage méritants pour encourager l'apprentissage d
 
 ###### Article 51
 
-Les conditions d'admission à l'examen de maîtrise, les modalités et la procédure de cet examen, ainsi que la composition des
-commissions d'examen sont déterminées par un règlement d'examen de maîtrise établi par la chambre de métiers, après avis des
-organisations artisanales syndicales et approuvé par le ministre chargé de l'enseignement technique, après consultation du
-comité départemental de l'enseignement technique.
+Les conditions d'admission aux examens du brevet de maîtrise et des autres titres homologués de formation communs aux
+chambres de métiers, les modalités et la procédure de ces examens, ainsi que la composition des commissions d'examen sont
+déterminées par des règlements d'examen établis par l'assemblée permanente des chambres de métiers, après avis des
+organisations artisanales syndicales, et approuvés par le ministre chargé de l'artisanat.
 
 Conformément aux dispositions de l'article 1026 du code général des impôts, les certificats et brevets de maîtrise sont
 exempts de tout droit de timbre.
@@ -818,9 +818,9 @@ exempts de tout droit de timbre.
 
 	  - Décret n°52-849 1952-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+	  - Décret n°95-699 du 9 mai 1995 - art. 1 () JORF 11 mai 1995
 
 	**Cité par**:
 
