@@ -1,111 +1,7 @@
 # Code de l'artisanat  
-Version Consolidée au 1957-01-11
+Version Consolidée au 1962-03-04
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
-
-###### Article 1
-
-(texte non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Abrogé par**:
-
-	  - Décret n°62-235 1962-03-01 art. 37 JORF 4 mars 1962
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°62-235 1962-03-01 art. 6 à art. 13
-
-	**Cité par**:
-
-	  - Code de l'artisanat - art. 74 (V)
-
-
-###### Article 1 bis
-
-(texte non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Abrogé par**:
-
-	  - Décret n°62-235 1962-03-01 art. 37 JORF 4 mars 1962
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°62-235 1962-03-01 art. 6 à art. 13
-
-
-###### Article 2
-
-(texte non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Abrogé par**:
-
-	  - Décret n°62-235 1962-03-01 art. 37 JORF 4 mars 1962
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°62-235 1962-03-01 art. 6 à art. 13
-
-	**Cité par**:
-
-	  - Code de l'artisanat - art. 4 (M)
-
-
-###### Article 3
-
-(texte non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Abrogé par**:
-
-	  - Décret n°62-235 1962-03-01 art. 37 JORF 4 mars 1962
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°62-235 1962-03-01 art. 6 à art. 13
-
-	**Cité par**:
-
-	  - Code de l'artisanat - art. 4 (M)
-
 
 ###### Article 4
 
@@ -616,9 +512,20 @@ du poste.
 
 # Titre III : Du registre des métiers.
 
-###### Article 30
+###### Article 35 ter
 
-(Texte abrogé, non reproduit).
+Toute indication inexacte donnée de mauvaise foi en vue de l'immatriculation ou de l'inscription au registre des métiers est
+punie d'une amende de 360 à 20.000 F et d'un emprisonnement d'un mois à six mois ou de l'une de ces deux peines seulement.
+
+Les peines prévues à l'alinéa précédent sont prononcées par le tribunal correctionnel du lieu de l'exploitation de
+l'entreprise artisanale, sur réquisition du procureur de la République.
+
+Dans les cas prévus aux alinéas 1er et 2, le jugement ordonne, le cas échéant, l'immatriculation, la radiation, ou la
+rectification des indications inexactes.
+
+Dans le cas prévu à l'alinéa 2, le coupable peut, en outre, être privé par le tribunal correctionnel, pendant un temps qui
+n'excédera pas cinq ans, du droit de vote et d'éligibilité aux chambres de métiers et, éventuellement, aux conseils de
+prud'hommes, aux tribunaux de commerce et aux chambres de commerce.
 
 **Liens relatifs à cet article**
 
@@ -628,153 +535,20 @@ du poste.
 
 	**Créé par**:
 
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Modifié par**:
-
-	  - Décret n°55-658 1955-05-20 art. 1 JORF 22 mai 1955
-
-	**Abrogé par**:
-
-	  - Décret n°62-235 1962-03-01 art. 37 JORF 4 mars 1962
+	  - Décret n°55-656 1955-05-20 art. 1 JORF 22 mai 1955
 
 	**Cité par**:
 
-	  - Décret n°2017-343 du 16 mars 2017 - art. 40 (V)
-
-
-###### Article 31
-
-(Texte abrogé, non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+	  - Ordonnance n°58-1352 du 27 décembre 1958 - art. 3 (Ab)
+	  - Loi n°96-603 du 5 juillet 1996 - art. 25 (V)
 
 	**Modifié par**:
 
-	  - Décret n°55-658 1955-05-20 art. 1 JORF 22 mai 1955
-
-	**Abrogé par**:
-
 	  - Décret n°62-235 1962-03-01 art. 37 JORF 4 mars 1962
 
+	**Cite**:
 
-###### Article 32
-
-(Texte abrogé, non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Modifié par**:
-
-	  - Décret n°55-658 1955-05-20 art. 1 JORF 22 mai 1955
-
-	**Abrogé par**:
-
-	  - Décret n°62-235 1962-03-01 art. 37 JORF 4 mars 1962
-
-
-###### Article 33
-
-(Texte abrogé, non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Modifié par**:
-
-	  - Décret n°55-658 1955-05-20 art. 1 JORF 22 mai 1955
-
-	**Abrogé par**:
-
-	  - Décret n°62-235 1962-03-01 art. 37 JORF 4 mars 1962
-
-
-###### Article 34
-
-(Texte abrogé, non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Modifié par**:
-
-	  - Décret n°55-658 1955-05-20 art. 1 JORF 22 mai 1955
-
-	**Abrogé par**:
-
-	  - Décret n°62-235 1962-03-01 art. 37 JORF 4 mars 1962
-
-
-###### Article 35
-
-(Texte abrogé, non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Modifié par**:
-
-	  - Décret n°55-658 1955-05-20 art. 1 JORF 22 mai 1955
-
-	**Abrogé par**:
-
-	  - Décret n°62-235 1962-03-01 art. 37 JORF 4 mars 1962
-
-
-###### Article 35 bis
-
-(Texte abrogé, non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 du 16 juillet 1952, v. init.
-
-	**Créé par**:
-
-	  - Décret n°55-658 du 20 mai 1955, v. init.
-
-	**Abrogé par**:
-
-	  - Décret n°62-235 du 1 mars 1962, v. init.
+	  - Loi n°77-1468 1977-12-30
 
 
 # Titre IV : De l'apprentissage artisanal.
@@ -802,25 +576,6 @@ l'atelier et sous la responsabilité de ces dernières, est complété par l'ens
 	**Modifié par**:
 
 	  - Décret n°55-656 1955-05-20 art. 4 JORF 22 mai 1955
-
-
-###### Article 37
-
-(texte non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Abrogé par**:
-
-	  - Décret n°62-235 1962-03-01 art. 37 JORF 4 mars 1962
 
 
 ###### Article 38
