@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1955-05-22
+Version Consolidée au 1956-01-29
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -263,6 +263,33 @@ sections qu'elle le juge utile.
 	**Abrogé par**:
 
 	  - Décret n°68-47 du 13 janvier 1968 - art. 39, v. init.
+
+
+###### Article 14
+
+(texte non reproduit).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°52-849 1952-07-16
+
+	**Créé par**:
+
+	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+	**Modifié par**:
+
+	  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
+
+	**Abrogé par**:
+
+	  - Décret n°68-47 1968-01-13 art. 39 JORF 18 janvier 1968
+
+	**Cité par**:
+
+	  - Décret n°68-47 du 13 janvier 1968 - art. 39 (Ab)
 
 
 ###### Article 15
