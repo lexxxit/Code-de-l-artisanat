@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1968-01-28
+Version Consolidée au 1971-08-14
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -1567,39 +1567,6 @@ recours en cas d'inexécution des engagements.
 	**Abrogé par**:
 
 	  - Décret n°83-316 du 15 avril 1983 - art. 1 () JORF 20 avril 1983
-
-
-## Chapitre III : Crédit spécial aux artisans ruraux.
-
-###### Article 72
-
-Les caisses de crédit agricole mutuel admettent comme sociétaires, outre les personnes et collectivités énumérées à l'article
-616 du Code rural, les chefs d'entreprises immatriculées au répertoire des métiers, travaillant en milieu rural et consacrant
-la majeure partie de leur activité à la satisfaction des besoins des exploitations, institutions et groupements
-professionnels agricoles.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 616
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-	  - Loi n°58-346 1958-04-03 (validation)
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Modifié par**:
-
-	  - Décret n°68-474 1968-05-28 art. 1, art. 2 JORF 29 mai 1968
-
-	**Abrogé par**:
-
-	  - Décret n°71-671 1971-08-11 art. 3 JORF 14 août 1971
 
 
 # Titre VI : Des adjudications et des marchés
