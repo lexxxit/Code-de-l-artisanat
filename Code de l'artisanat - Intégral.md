@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1966-03-11
+Version Consolidée au 1968-01-18
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -108,84 +108,6 @@ sections qu'elle le juge utile.
 	**Cité par**:
 
 	  - Décret n°2009-444 du 20 avril 2009 (V)
-
-
-###### Article 9
-
-(texte non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Modifié par**:
-
-	  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
-	  - Décret n°64-1362 du 30 décembre 1964 - art. 3 () JORF 1er janvier 1965
-
-	**Abrogé par**:
-
-	  - Décret n°68-47 1968-01-13 art. 39 JORF 18 janvier 1968
-
-	**Cité par**:
-
-	  - Décret n°68-47 du 13 janvier 1968 - art. 39 (Ab)
-
-
-###### Article 10
-
-(texte non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 du 16 juillet 1952, v. init.
-
-	**Créé par**:
-
-	  - Décret n°52-849 du 16 juillet 1952, v. init.
-
-	**Modifié par**:
-
-	  - Décret n°55-657 du 20 mai 1955, v. init.
-
-	**Abrogé par**:
-
-	  - Décret n°68-47 du 13 janvier 1968 - art. 39, v. init.
-
-
-###### Article 14
-
-(texte non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Modifié par**:
-
-	  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
-
-	**Abrogé par**:
-
-	  - Décret n°68-47 1968-01-13 art. 39 JORF 18 janvier 1968
-
-	**Cité par**:
-
-	  - Décret n°68-47 du 13 janvier 1968 - art. 39 (Ab)
 
 
 ###### Article 15
@@ -319,6 +241,113 @@ mandat et le remboursement des frais de déplacement et de représentation.
 	  - Code de la sécurité sociale. - art. D311-1 (V)
 
 
+###### Article 20
+
+Les chambres de métiers se réunissent en assemblée générale au moins deux fois par an. Toutefois, sur proposition du bureau
+ou sur demande d'un tiers des membres, elles sont convoquées pour une assemblée générale extraordinaire par le président ou,
+en cas de refus de celui-ci, par le préfet.
+
+Les membres de l'assemblée générale sont convoqués au moins huit jours avant la date de la réunion. La convocation qui est
+adressée au domicile des intéressés indique l'ordre du jour.
+
+Les membres qui, pendant deux sessions successives, se sont abstenus de se rendre aux assemblées générales sans motif reconnu
+légitime sont déclarés démissionnaires par le préfet, après avis de la chambre.
+
+La démission de membre de la chambre est adressée au préfet. Elle est définitive à partir de son acceptation par le préfet
+ou, à défaut de cette acceptation, un mois après un nouvel envoi de la démission par lettre recommandée avec demande d'avis
+de réception.
+
+Ont entrée aux séances des chambres de métiers avec voix consultative :
+
+Les ministres de l'industrie, de l'éducation nationale et du travail, ou les fonctionnaires délégués par eux à cet effet ;
+
+Le préfet du département ou son représentant ;
+
+L'inspecteur d'académie et l'inspecteur de l'enseignement technique ;
+
+L'inspecteur de l'orientation professionnelle ;
+
+Le directeur départemental du travail et de la main-d'oeuvre de la circonscription de la chambre de métiers.
+
+Les chambres de métiers ne peuvent délibérer que si le nombre des membres présents dépasse la moitié de celui des membres en
+exercice. Les décisions sont prises à la majorité absolue des membres présents. En cas de partage des voix, celle du
+président est prépondérante.
+
+Les chambres de métiers ne peuvent délibérer au sujet des décimes mis à leur disposition par l'article 1603 du Code Général
+des Impôts que si le nombre des membres chefs d'entreprise présents est au moins égal à la moitié du nombre des mêmes membres
+en exercice. En cette matière, ceux-ci ont seuls voix délibérative.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1603
+
+	**Codifié par**:
+
+	  - Décret n°52-849 1952-07-16
+
+	**Créé par**:
+
+	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+	**Modifié par**:
+
+	  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
+	  - Décret n°64-1362 du 30 décembre 1964 - art. 7 () JORF 1er janvier 1965
+	  - Décret n°68-47 du 13 janvier 1968 - art. 33 () JORF 18 janvier 1968
+
+	**Cité par**:
+
+	  - Code de l'artisanat - art. 81 bis (M)
+	  - Code de l'artisanat - art. 82-1 (Ab)
+
+
+###### Article 21
+
+Les chambres de métiers désignent, dans leur circonscription, des membres associés répondant aux conditions d'éligibilité
+prévues à l'article 4 à raison d'un par canton, après consultation des organisations syndicales représentatives du secteur
+des métiers du département. Toutefois, lorsque la situation locale le justifie, le préfet peut, pour l'application du présent
+article, réunir plusieurs cantons pour lesquels il ne sera désigné qu'un seul membre associé. Dans les villes divisées en
+arrondissements il est désigné un membre associé pour chacun d'eux.
+
+Les membres associés sont habilités à renseigner et à conseiller les ressortissants de la chambre de métiers et à les
+assister éventuellement dans les formalités qui leur incombent.
+
+A cette fin, la chambre leur donne régulièrement communication de ses délibérations, des décisions de son président, et d'une
+façon générale, leur adresse toute documentation utile à l'exercice de leur mission. Ils sont réunis une fois par an, sur
+convocation du président, pour être informés de l'activité de la chambre et formuler toutes suggestions utiles dans les
+limites de la compétence de celle-ci.
+
+Les membres associés sont désignés pour une période de six ans. Ils sont renouvelables par moitié tous les trois ans à la
+suite des élections triennales aux chambres de métiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°52-849 1952-07-16
+
+	**Créé par**:
+
+	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+	**Modifié par**:
+
+	  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
+	  - Décret n°64-1362 du 30 décembre 1964 - art. 8 () JORF 1er janvier 1965
+	  - Décret n°68-47 du 13 janvier 1968 - art. 35 () JORF 18 janvier 1968
+
+	**Cité par**:
+
+	  - Décret n°2006-379 du 27 mars 2006 - art. 30 (V)
+	  - Code de l'artisanat - art. 18 (M)
+
+	**Cite**:
+
+	  - Code de l'artisanat - art. 4 (M)
+
+
 ## Chapitre IV : Ressources.
 
 ###### Article 25
@@ -371,29 +400,6 @@ associations professionnelles ;
 	  - Décret n°2017-483 du 6 avril 2017 - art. 2
 	  - Code de l'artisanat - art. 77 (V)
 	  - Code de l'artisanat - art. 81 bis (M)
-
-
-###### Article 27
-
-(texte non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Abrogé par**:
-
-	  - Décret n°68-47 1968-01-13 art. 39 JORF 18 janvier 1968
-
-	**Cité par**:
-
-	  - Décret n°68-47 du 13 janvier 1968 - art. 39 (Ab)
 
 
 ## Chapitre V : Contrôle financier.
