@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1968-01-18
+Version Consolidée au 1968-01-28
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -108,6 +108,78 @@ sections qu'elle le juge utile.
 	**Cité par**:
 
 	  - Décret n°2009-444 du 20 avril 2009 (V)
+
+
+###### Article 7
+
+A. (1) - Chaque chambre de métiers est constituée :
+
+1° Par vingt-quatre chefs d'entreprise du secteur des métiers, tel qu'il est défini aux articles 1er à 5 du décret du 1er
+mars 1962. Ces membres sont au nombre de quatre pour chacune des six catégories suivantes :
+
+I. - Alimentation ;
+
+II. - Bâtiment ;
+
+III. - Bois et ameublement ;
+
+IV. - Métaux, mécanique, électricité ;
+
+V. - Cuir, textile, vêtement ;
+
+VI. - Hygiène, divers.
+
+Ils sont élus chacun par les électeurs de leur catégorie.
+
+2° Par dix chefs d'entreprise élus par les organisations syndicales de ce secteur dans les conditions prévues par le décret
+du 19 novembre 1959 modifié.
+
+3° Par six compagnons élus par l'ensemble des compagnons des entreprises du secteur des métiers dans la circonscription de la
+chambre.
+
+B. (2) - Toutefois, il n'est apporté aucune modification à la composition de la chambre de métiers interdépartementale de
+Paris et de la chambre de métiers interdépartementale des Yvelines, de l'Essonne et du Val-d'Oise. Cette composition demeure
+celle qui a été fixée respectivement par les décrets n°s 68-82 et 68-83 du 26 janvier 1968 ayant institué ces chambres.
+
+**Nota:**
+
+(1) Dispositions réglementaires, Constitution art. 37.
+
+(2) Le décret n° 76-595 du 30 juin 1976 a, par son article 5, abrogé le paragraphe B du présent article, en tant qu'il
+concerne la chambre de métiers interdépartementale de Paris et à compter d'une date qui sera fixée ultérieurement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°52-849 1952-07-16
+
+	**Créé par**:
+
+	  - Décret n°55-656 1955-05-20 art. 5 JORF 22 mai 1955
+
+	**Modifié par**:
+
+	  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
+	  - Décret n°64-1362 du 30 décembre 1964 - art. 1 () JORF 1er janvier 1965
+	  - Décret n°68-82 1968-01-26 art. 14 JORF 28 janvier 1968
+
+	**Cite**:
+
+	  - Décret n°59-1315 1959-11-19
+	  - Décret n°62-235 1962-03-01 art. 1 à 5
+	  - Décret n°68-82 1968-01-26
+	  - Décret n°68-83 1968-01-26
+
+	**Abrogé par**:
+
+	  - Décret n°71-782 1971-09-16 art. 6 JORF 21 septembre 1971
+
+	**Cité par**:
+
+	  - Décret n°83-517 du 24 juin 1983 - art. 9 (M)
+	  - ORDONNANCE n°2015-1540 du 26 novembre 2015 - art. 3 (V)
+	  - Code de l'artisanat - art. 8 (M)
 
 
 ###### Article 15
@@ -346,60 +418,6 @@ suite des élections triennales aux chambres de métiers.
 	**Cite**:
 
 	  - Code de l'artisanat - art. 4 (M)
-
-
-## Chapitre IV : Ressources.
-
-###### Article 25
-
-Il est pourvu aux dépenses des chambres de métiers au moyen des ressources prévues et recouvrées conformément aux
-dispositions des articles 1603, 1604 et 1934 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1603, 1604, 1934
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Cité par**:
-
-	  - Code de l'artisanat - art. 77 (V)
-
-
-###### Article 26
-
-Les chambres de métiers peuvent recevoir :
-
-1° Des subventions de l'Etat, des départements des communes des chambres de commerce et autres établissements publics et des
-associations professionnelles ;
-
-2° Des dons et legs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 1952-07-16
-
-	**Créé par**:
-
-	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
-
-	**Cité par**:
-
-	  - Décret n°2008-1416 du 19 décembre 2008 (V)
-	  - Décret n°2009-94 du 26 janvier 2009 (V)
-	  - Décret n°2017-483 du 6 avril 2017 - art. 2
-	  - Code de l'artisanat - art. 77 (V)
-	  - Code de l'artisanat - art. 81 bis (M)
 
 
 ## Chapitre V : Contrôle financier.
