@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1992-12-13
+Version Consolidée au 1993-02-23
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -91,19 +91,17 @@ Elles sont des établissements publics.
 Il peut être créé une ou plusieurs chambres de métiers par département. Une chambre de métiers peut se diviser en autant de
 sections qu'elle le juge utile.
 
+Le transfert du siège d'une chambre de métiers est autorisé par arrêté du ministre chargé de l'artisanat.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°52-849 1952-07-16
 
-	**Créé par**:
-
-	  - Décret n°55-656 1955-05-20 art. 5 JORF 22 mai 1955
-
 	**Modifié par**:
 
-	  - Décret n°55-657 1955-05-20 art. 2 JORF 22 mai 1955
+	  - Décret n°93-229 du 22 février 1993 - art. 1 () JORF 23 février 1993
 
 	**Cité par**:
 
