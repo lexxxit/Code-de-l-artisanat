@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1971-09-21
+Version Consolidée au 1972-04-29
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -967,6 +967,72 @@ conditions prévues ci-après sur les avances consenties par l'Etat.
 
 
 ## Chapitre Ier : Crédit artisanal individuel.
+
+###### Article 55
+
+Peuvent seuls bénéficier des prêts prévus aux articles précédents les artisans de nationalité française dont l'entreprise
+n'excède pas l'importance des limites qui ont été fixées par une commission spéciale du crédit artisanal et qui peuvent être
+modifiées par décret contresigné du ministre de l'économie et des finances et du ministre chargé de l'artisanat.
+
+Le montant maximum de ces prêts est déterminé par des arrêtés pris par les mêmes ministres.
+
+La qualité artisanale des demandeurs est certifiée par les chambres de métiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°52-849 1952-07-16
+	  - Loi n°58-346 1958-04-03 (validation)
+
+	**Créé par**:
+
+	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+	**Modifié par**:
+
+	  - Décret n°54-649 1954-06-11 art. 2 JORF 18 juin 1954 rectificatif JORF 13 juillet 1954
+	  - Décret n°72-322 1972-04-20 art. 1, art. 2 JORF 29 avril 1972
+
+	**Abrogé par**:
+
+	  - Décret n°83-316 du 15 avril 1983 - art. 1 () JORF 20 avril 1983
+
+
+###### Article 56
+
+Les prêts individuels aux artisans sont de deux catégories :
+
+Les uns, dont la durée ne peut dépasser dix années sont destinés à faciliter l'acquisition, l'aménagement, l'installation, la
+réfection totale ou partielle, la dotation en outillage ou en matériel d'une entreprise artisanale.
+
+Les autres, remboursables mensuellement sur une période de dix-huit mois au plus, peuvent être affectés à des opérations non
+prévues dans la catégorie précédente.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1968-06-12 *montant maximum des prêts*
+
+	**Codifié par**:
+
+	  - Décret n°52-849 1952-07-16
+	  - Loi n°58-346 1958-04-03 (validation)
+
+	**Créé par**:
+
+	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+	**Modifié par**:
+
+	  - Décret n°54-649 1954-06-11 art. 3 JORF 18 juin 1954 rectificatif JORF 13 juillet 1954
+	  - Décret n°72-322 1972-04-20 art. 1, art. 3 JORF 29 avril 1972
+
+	**Abrogé par**:
+
+	  - Décret n°83-316 du 15 avril 1983 - art. 1 () JORF 20 avril 1983
+
 
 ###### Article 57
 
