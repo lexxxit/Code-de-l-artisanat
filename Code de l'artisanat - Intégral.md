@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 1983-10-06
+Version Consolidée au 1989-08-19
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -108,6 +108,136 @@ sections qu'elle le juge utile.
 	**Cité par**:
 
 	  - Décret n°2009-444 du 20 avril 2009 (V)
+
+
+###### Article 11
+
+Sont éligibles comme membres de chambre de métiers les chefs d'entreprise et les compagnons inscrits sur les listes
+électorales de la chambre de métiers exerçant en cette qualité depuis trois ans au moins dont deux dans la circonscription de
+la chambre de métiers.
+
+Toutefois, sont également éligibles par le collège des chefs d'entreprise, dans la catégorie correspondant à leur ancienne
+profession ainsi que par le collège des organisations syndicales, les anciens chefs d'entreprise du secteur des métiers ayant
+exercé en cette qualité pendant quinze ans dont les trois dernières années dans la circonscription de la chambre de métiers
+et à condition :
+
+Que la cessation de leur activité ne soit pas antérieure de plus de cinq ans à la date du scrutin ;
+
+Qu'ils n'aient exercé aucune activité professionnelle depuis cette cessation ;
+
+Qu'ils soient domiciliés dans la circonscription de cette chambre de métiers ;
+
+Qu'ils remplissent les conditions requises pour l'inscription sur les listes électorales applicables aux élections au
+suffrage universel.
+
+Dans le calcul des quinze ans et des trois ans prévus ci-dessus entre en compte éventuellement la durée d'immatriculation à
+l'ancien registre des métiers.
+
+Les fonctions de membre d'une chambre de métiers sont incompatibles avec tout emploi salarié autre que celui de chef
+d'entreprise ou de compagnon dans une entreprise artisanale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°52-849 1952-07-16
+
+	**Créé par**:
+
+	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+	**Modifié par**:
+
+	  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
+	  - Décret n°64-1362 du 30 décembre 1964 - art. 4 () JORF 1er janvier 1965
+	  - Décret n°68-47 du 13 janvier 1968 - art. 30 () JORF 18 janvier 1968
+	  - Décret n°74-850 1974-10-14 art. 1 JORF 15 octobre 1974
+	  - Décret n°89-579 1989-08-16 art. 3 JORF 19 août 1989
+
+	**Abrogé par**:
+
+	  - Décret n°92-1043 du 28 septembre 1992 - art. 55 (Ab) JORF 29 septembre 1992
+
+	**Cité par**:
+
+	  - Code de l'artisanat - art. 15 (M)
+
+
+###### Article 12
+
+Les déclarations de candidature résultent d'un document écrit, signé personnellement par le candidat et déposé à la
+préfecture.
+
+Elles sont recevables jusqu'au quinzième jour précédant celui du scrutin. Lorsque le dernier jour du délai imparti est un
+samedi, un dimanche ou un jour férié ou chômé, ce délai est prorogé jusqu'au premier jour ouvrable suivant.
+
+La déclaration de candidature doit indiquer sur quelle liste électorale le candidat est inscrit ainsi que son numéro
+d'inscription sur ladite liste.
+
+Les déclarations de candidature enregistrées sont immédiatement affichées à la préfecture et dans les différents locaux où
+aura lieu le vote.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°52-849 1952-07-16
+
+	**Créé par**:
+
+	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+	**Modifié par**:
+
+	  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
+	  - Décret n°64-1362 du 30 décembre 1964 - art. 5 () JORF 1er janvier 1965
+	  - Décret n°71-782 1971-09-16 art. 5 JORF 21 septembre 1971
+	  - Décret n°74-850 1974-10-14 art. 2, art. 3 JORF 15 octobre 1974
+	  - Décret n°77-234 1977-03-14 art. 2 JORF 16 mars 1977
+	  - Décret n°89-579 1989-08-16 art. 4 JORF 19 août 1989
+
+	**Abrogé par**:
+
+	  - Décret n°92-1043 du 28 septembre 1992 - art. 55 (Ab) JORF 29 septembre 1992
+
+
+###### Article 13
+
+Le préfet doit mettre à la disposition de la commission d'organisation des élections instituée par l'article 12-1 du décret
+n° 68-47 du 13 janvier 1968, les enveloppes nécessaires à l'expédition des circulaires et des bulletins de vote qui seront
+envoyés en franchise aux électeurs.
+
+Quiconque se sert de la franchise prévue à l'alinéa précédent pour adresser aux électeurs tout document autre que ceux visés
+ci-dessus est puni d'une amende de 150 à 15.000 F [*sanctions*] et d'un emprisonnement de six jours à un an, ou de l'une de
+ces deux peines seulement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°52-849 1952-07-16
+
+	**Créé par**:
+
+	  - Décret n°52-849 1952-07-16 JORF 20 juillet 1952 rectificatif JORF 27 juillet 1952
+
+	**Modifié par**:
+
+	  - Décret n°55-657 1955-05-20 art. 3 JORF 22 mai 1955
+	  - Décret n°89-579 1989-08-16 art. 6 JORF 19 août 1989
+
+	**Cite**:
+
+	  - Décret n°68-47 du 13 janvier 1968 - art. 12-1 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°68-47 du 13 janvier 1968 - art. 12-4 (Ab)
+	  - Décret n°92-1043 du 28 septembre 1992 - art. 55 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°92-1043 du 28 septembre 1992 - art. 55 (Ab) JORF 29 septembre 1992
 
 
 ###### Article 15
