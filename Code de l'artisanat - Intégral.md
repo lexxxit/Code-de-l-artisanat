@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2005-07-27
+Version Consolidée au 2006-03-30
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -1264,7 +1264,15 @@ besoins de leur entreprise.
 
 ###### Article 81 bis
 
-L'article 5 est applicable à Mayotte.
+Les articles 5,6,
+15,
+17,18,19,19 bis, 20,21,23 et 26 du code de l'artisanat s'appliquent à Mayotte. 
+
+Pour l'application à Mayotte de l'article 19 bis, les mots : 
+
+" sous réserve des dispositions du statut du personnel des chambres de métiers et de l'artisanat établi en application de la
+loi n° 52-1311 du 10 décembre 1952 " sont remplacés par les mots : " Sous réserve des dispositions applicables aux personnels
+de la chambre de métiers et de l'artisanat de Mayotte ".
 
 **Liens relatifs à cet article**
 
@@ -1272,13 +1280,19 @@ L'article 5 est applicable à Mayotte.
 
 	  - Décret n°52-849 1952-07-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-43 du 20 janvier 2005 - art. 5 () JORF 22 janvier 2005 en vigueur le 1er février 2005
+	  - Décret n°2006-379 du 27 mars 2006 - art. 7 () JORF 30 mars 2006
 
 	**Cite**:
 
-	  - Code de l'artisanat - art. 5 (M)
+	  - Code de l'artisanat - art. 15 (V)
+	  - Code de l'artisanat - art. 17 (V)
+	  - Code de l'artisanat - art. 19 bis (V)
+	  - Code de l'artisanat - art. 20 (V)
+	  - Code de l'artisanat - art. 23 (V)
+	  - Code de l'artisanat - art. 26 (V)
+	  - Code de l'artisanat - art. 5 (V)
 
 
 # Titre IX : Dispositions diverses.
