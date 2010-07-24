@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2010-06-14
+Version Consolidée au 2010-07-25
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -79,6 +79,197 @@ de l'artisanat de leur circonscription.
 
 ## Chapitre I : Institution et organisation.
 
+###### Article 5-1
+
+Le réseau des chambres de métiers et de l'artisanat se compose de l'assemblée permanente des chambres de métiers et de
+l'artisanat, des chambres de métiers et de l'artisanat de région, ainsi que des chambres régionales de métiers et de
+l'artisanat et des chambres de métiers et de l'artisanat départementales, qui sont des établissements publics placés sous la
+tutelle de l'Etat et administrés par des dirigeants et collaborateurs d'entreprise élus. 
+
+Le réseau des chambres de métiers et de l'artisanat contribue au développement économique des entreprises immatriculées au
+répertoire des métiers ainsi qu'au développement des territoires, en remplissant en faveur des acteurs économiques et en
+partenariat avec les structures existantes toute mission d'intérêt général en faveur du secteur de l'artisanat. 
+
+Sont associées au réseau, dans des conditions fixées par décret en Conseil d'Etat, les chambres de métiers régies par les
+articles 103 et suivants du code professionnel local maintenu en vigueur par la loi du 1er juin 1924 mettant en vigueur la
+législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi du 1 juin 1924
+
+	**Créé par**:
+
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 12
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-1540 du 26 novembre 2015 - art. 3 (V)
+	  - Code de la sécurité sociale. - art. D311-1 (V)
+	  - Code du travail - art. L5143-1 (V)
+	  - Code du travail - art. L6323-29 (VD)
+
+
+###### Article 5-2
+
+I. - La circonscription de la chambre de métiers et de l'artisanat de région et de la chambre régionale de métiers et de
+l'artisanat est la région et, en Corse, celle de la collectivité territoriale. Son siège est fixé, après avis des chambres
+départementales rattachées, par décision de l'autorité administrative compétente.
+
+II. - Dans chaque région comportant un seul département, la chambre de métiers et de l'artisanat devient chambre de métiers
+et de l'artisanat de région et exerce ses fonctions à une date fixée par décret.
+
+III. - Si plus de la moitié des chambres de métiers et de l'artisanat d'une région le décident, elles se regroupent en une
+chambre de métiers et de l'artisanat de région. Cette chambre se substitue à la chambre régionale de métiers et de
+l'artisanat et ne peut se composer de plus de sections que de chambres entrant dans ce regroupement. Les chambres qui n'ont
+pas choisi de se regrouper deviennent des chambres de métiers et de l'artisanat départementales et sont rattachées à la
+chambre de métiers et de l'artisanat de région. Les chambres de métiers et de l'artisanat de région sont instituées par
+décret pris sur le rapport du ministre chargé de l'artisanat.
+
+Dans les circonscriptions régionales autres que celles relevant de l'alinéa précédent, les chambres de métiers et de
+l'artisanat deviennent des chambres de métiers et de l'artisanat départementales. Elles sont rattachées aux chambres
+régionales de métiers et de l'artisanat.
+
+IV. - Un décret en Conseil d'Etat fixe les fonctions administratives qui sont exercées au niveau national ou régional.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°66-137 du 7 mars 1966 - art. 2 (V)
+	  - ORDONNANCE n°2015-1540 du 26 novembre 2015 - art. 3 (V)
+	  - Code de l'artisanat - art. 21 (V)
+
+	**Créé par**:
+
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 12
+
+
+###### Article 5-3
+
+Les chambres de métiers et de l'artisanat de région et les chambres régionales de métiers et de l'artisanat assurent la
+représentation des métiers et de l'artisanat au plan régional.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 12
+
+
+###### Article 5-4
+
+Les chambres de métiers et de l'artisanat départementales exercent leurs missions dans le respect des prérogatives reconnues
+à la chambre de métiers et de l'artisanat de région ou à la chambre régionale de métiers et de l'artisanat à laquelle elles
+sont rattachées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 12
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-1540 du 26 novembre 2015 - art. 3 (V)
+
+
+###### Article 5-5
+
+La chambre de métiers et de l'artisanat de région ou la chambre régionale de métiers et de l'artisanat : 
+
+1° Définit la stratégie pour l'activité du réseau dans sa région ou, pour la Corse, dans sa collectivité territoriale ; 
+
+2° Répartit entre les chambres départementales qui lui sont rattachées, après déduction de sa propre quote-part, les
+ressources qui lui sont affectées ; 
+
+3° Abonde, dans des conditions et limites définies par décret, le budget, au-delà du budget voté, d'une chambre qui lui est
+rattachée pour subvenir à des dépenses exceptionnelles ou faire face à des circonstances particulières.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 12
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-1540 du 26 novembre 2015 - art. 3 (V)
+	  - Code de l'artisanat - art. 82 (V)
+
+
+###### Article 5-6
+
+Les modalités d'adaptation des dispositions de l'article 5-5 dans le cas du rattachement volontaire à une chambre de métiers
+et de l'artisanat de région ou à une chambre régionale de métiers et de l'artisanat d'une chambre de métiers de droit local
+mentionnée au troisième alinéa de l'article 5-1 sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 12
+
+
+###### Article 5-7
+
+L'assemblée permanente des chambres de métiers et de l'artisanat est l'établissement public, placé à la tête du réseau défini
+à l'article 5-1, habilité à représenter les intérêts des métiers et de l'artisanat auprès de l'Etat, de l'Union européenne
+ainsi qu'au plan international. 
+
+Son organe délibérant est constitué des présidents en exercice des chambres de métiers et de l'artisanat de région et des
+chambres régionales de métiers et de l'artisanat, de ceux des chambres de métiers et de l'artisanat départementales et des
+présidents des sections constituées en application du III de l'article 5-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 12
+
+
+###### Article 5-8
+
+L'assemblée permanente des chambres de métiers et de l'artisanat assure l'animation de l'ensemble du réseau des chambres de
+métiers et de l'artisanat. Elle veille au bon fonctionnement du réseau. 
+
+A ce titre : 
+
+1° Elle élabore la stratégie nationale du réseau des chambres de métiers et de l'artisanat ; 
+
+2° Elle définit des normes d'intervention pour les établissements membres du réseau et s'assure du respect de ces normes ; 
+
+3° Elle gère les projets nationaux du réseau et elle peut en confier la maîtrise d'ouvrage à un autre établissement du
+réseau ; 
+
+4° Elle définit et suit la mise en œuvre de la politique générale du réseau en matière de gestion des personnels des
+chambres, négocie et signe les accords nationaux en matière sociale applicables aux personnels des chambres qui sont soumis à
+un agrément prévu par décret en Conseil d'Etat s'ils ont un impact sur les rémunérations ; 
+
+5° Elle décide en assemblée générale des marchés ou accords-cadres relatifs aux achats de fournitures ou de prestations de
+services qu'elle passe au nom et pour le compte des établissements du réseau des chambres de métiers et de l'artisanat. Ces
+décisions s'imposent aux établissements du réseau qui ne sont pas, à la date à laquelle ces décisions sont prises, déjà
+engagés dans un marché ou un accord-cadre portant sur les mêmes achats. Les modalités de mise en œuvre du présent 5° sont
+fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°66-137 du 7 mars 1966 - art. 1 (V)
+	  - Décret n°66-137 du 7 mars 1966 - art. 10 (V)
+	  - Décret n°66-137 du 7 mars 1966 - art. 16 (V)
+	  - Décret n°66-137 du 7 mars 1966 - art. 3 (V)
+	  - Décret n°2014-1499 du 11 décembre 2014 (V)
+	  - Code général des impôts, CGI. - art. 1601 (VT)
+
+	**Créé par**:
+
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 12
+
+
 ###### Article 6
 
 Les chambres de métiers prennent la dénomination de "chambres de métiers et de l'artisanat". Dans toutes les dispositions à
@@ -110,6 +301,26 @@ Le transfert du siège d'une chambre de métiers et de l'artisanat est autorisé
 	**Cité par**:
 
 	  - Décret n°2009-444 du 20 avril 2009 (V)
+
+
+###### Article 7
+
+Les modalités d'organisation et de fonctionnement des établissements publics constituant le réseau des chambres de métiers et
+de l'artisanat, ainsi que celles du rattachement des chambres de métiers et de l'artisanat départementales aux chambres de
+métiers et de l'artisanat de région ou aux chambres régionales de métiers et de l'artisanat sont fixées par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°83-517 du 24 juin 1983 - art. 9 (M)
+	  - ORDONNANCE n°2015-1540 du 26 novembre 2015 - art. 3 (V)
+	  - Code de l'artisanat - art. 8 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 13
 
 
 ###### Article 15
@@ -304,6 +515,32 @@ dans un délai de trente jours courant à compter de sa réception.
 
 	  - Arrêté du 17 décembre 2010 - art. 1 (V)
 	  - Code de l'artisanat - art. 81 bis (M)
+
+
+###### Article 19 ter
+
+Les établissements du réseau des chambres de métiers et de l'artisanat sont tenus de nommer au moins un commissaire aux
+comptes, choisi conformément au code des marchés publics. Ils sont nommés par l'assemblée générale de chaque établissement
+sur proposition de son président. Les conditions dans lesquelles chaque établissement du réseau publie et transmet à
+l'autorité de tutelle un bilan, un compte de résultat et une annexe sont déterminées par voie réglementaire. 
+
+La peine prévue par l'article L. 242-8 du code de commerce est applicable aux dirigeants des établissements du réseau des
+chambres de métiers et de l'artisanat qui n'établissent pas chaque année un bilan, un compte de résultat et une annexe. 
+
+Chacun des établissements du réseau des chambres de métiers et de l'artisanat tient une comptabilité analytique mise à la
+disposition des autorités de tutelle et de contrôle afin de justifier que les ressources publiques ont été employées dans le
+respect des règles de concurrence nationales et communautaires et n'ont pas financé des activités marchandes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 14
+
+	**Cite**:
+
+	  - Code des marchés publics
+	  - Code de commerce - art. L242-8
 
 
 ###### Article 20
