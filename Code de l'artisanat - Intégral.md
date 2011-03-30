@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2010-11-14
+Version Consolidée au 2011-03-31
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -54,7 +54,28 @@ attestée soit par le certificat de compagnon, soit par un apprentissage préala
 	  - Décret n°77-892 du 4 août 1977 - art. 1 (Ab)
 
 
-# Titre II : Des chambres de métiers et de l'artisanat
+# Titre II : Des       chambres de métiers et de l'artisanat de région
+
+###### Article 5
+
+Les       chambres de métiers et de l'artisanat de région sont, auprès des pouvoirs publics, les organes représentatifs des
+intérêts généraux de l'artisanat de leur circonscription.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°52-849 du 16 juillet 1952
+
+	**Modifié par**:
+
+	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Code de l'artisanat - art. 81 bis (M)
+	  - Code de l'artisanat - art. 82-1 (Ab)
+
 
 ## Chapitre I : Institution et organisation.
 
@@ -352,14 +373,18 @@ Si cette dissolution intervient dans les douze mois précédant le renouvellemen
 
 ###### Article 18
 
-Les fonctions des membres des       chambres de métiers et de l'artisanat de région sont gratuites. Toutefois, peuvent être
-prévus l'attribution d'indemnités de fonctions pour le président et les membres du bureau, de vacations pour les autres
-membres ainsi que des frais de déplacement et de représentation. Leurs modalités d'attribution sont fixées par arrêté du
-ministre chargé de l'artisanat. 
+Les fonctions des membres des chambres de métiers et de l'artisanat de région, des chambres régionales de métiers et de
+l'artisanat et des chambres de métiers et de l'artisanat départementales sont gratuites. Toutefois, une délibération peut
+prévoir l'attribution au président et au trésorier d'indemnités de fonctions, l'attribution aux autres membres de vacations,
+et le remboursement de frais de déplacement et de représentation. 
 
-Les membres associés aux       chambres de métiers et de l'artisanat de région mentionnés à l'article 21 peuvent bénéficier
-du remboursement de leurs frais de déplacement. Les modalités d'attribution de ces frais sont fixées par arrêté du ministre
-chargé de l'artisanat.
+Un arrêté conjoint du ministre chargé de l'artisanat et du ministre chargé du budget fixe le montant maximal des indemnités,
+le montant maximal unitaire et annuel et les modalités d'attribution des vacations, ainsi que les conditions de remboursement
+des frais de représentation et de déplacement. 
+
+Les membres associés aux chambres de métiers et de l'artisanat de région et aux chambres de métiers et de l'artisanat
+départementales mentionnés à l'article 21 peuvent bénéficier du remboursement de leurs frais de déplacement, selon les
+conditions fixées par l'arrêté prévu à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
@@ -369,7 +394,7 @@ chargé de l'artisanat.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+	  - Décret n°2011-350 du 30 mars 2011 - art. 1
 
 	**Cité par**:
 
@@ -966,21 +991,27 @@ prépondérante.
 
 ###### Article 21
 
-A chaque renouvellement général des chambres, des membres associés peuvent être désignés par l'assemblée générale de la
-chambre de métiers et de l'artisanat de région, après consultation des organisations professionnelles représentatives du
-secteur des métiers du département, et, le cas échéant, de la section ou de la chambre de métiers et de l'artisanat
-départementale concernée. Les membres associés conseillent et assistent les ressortissants de la chambre de métiers et de
-l'artisanat de région dans les secteurs d'activité ou les zones géographiques concernés. 
+I.-Des membres associés à la chambre de métiers et de l'artisanat de région et à la chambre de métiers et de l'artisanat
+départementale peuvent être désignés pour conseiller et assister les ressortissants dans des secteurs d'activité ou des zones
+géographiques déterminés. 
+
+II.-Auprès de la chambre de métiers et de l'artisanat de région qui le décide, les membres associés sont désignés après
+chaque renouvellement général par les membres élus au sein de chacune des sections définies au III de l'article 5-2. 
+
+Auprès de la chambre de métiers et de l'artisanat départementale qui le décide, les membres associés sont désignés après
+chaque renouvellement général par l'assemblée générale de la chambre. 
+
+Le règlement intérieur fixe le mode de désignation des membres associés et pour chaque collège intéressé leur nombre, limité,
+sauf dérogation admise par l'autorité de tutelle, à la moitié au plus du nombre des membres élus. 
 
 Les membres associés répondent aux conditions d'éligibilité prévues par l'article 6 du décret n° 99-433 du 27 mai 1999
-relatif à la composition des chambres régionales de métiers et de l'artisanat et des chambres de métiers et de l'artisanat et
-à leur élection. 
+relatif à la composition des chambres régionales de métiers et de l'artisanat et des chambres de métiers et de l'artisanat de
+région et à leur élection. 
 
-Le règlement intérieur fixe un nombre de membres associés limité à la moitié au maximum du nombre des membres élus, sauf
-dérogation admise par l'autorité de tutelle, et leur mode de désignation. Il précise leurs missions et les modalités de leur
-participation aux délibérations de l'assemblée générale avec voix consultative. 
+III.-Le règlement intérieur précise les missions des membres associés et les modalités de leur participation, à titre
+consultatif, aux délibérations de l'assemblée générale de la chambre. 
 
-Les chambres régionales de métiers et de l'artisanat ne désignent pas de membre associé.
+IV.-Les chambres régionales de métiers et de l'artisanat ne désignent pas de membre associé.
 
 **Liens relatifs à cet article**
 
@@ -990,7 +1021,8 @@ Les chambres régionales de métiers et de l'artisanat ne désignent pas de memb
 
 	**Cite**:
 
-	  - Décret n°99-433 du 27 mai 1999
+	  - Décret n°99-433 du 27 mai 1999 - art. 6
+	  - Code de l'artisanat - art. 5-2
 
 	**Cité par**:
 
@@ -999,8 +1031,7 @@ Les chambres régionales de métiers et de l'artisanat ne désignent pas de memb
 
 	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 9
+	  - Décret n°2011-350 du 30 mars 2011 - art. 2
 
 
 ## Chapitre III : Attributions.
@@ -1292,37 +1323,6 @@ date d'approbation de son budget.
 
 	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
 
-
-# Titre II : Des       chambres de métiers et de l'artisanat de région
-
-###### Article 5
-
-Les       chambres de métiers et de l'artisanat de région sont, auprès des pouvoirs publics, les organes représentatifs des
-intérêts généraux de l'artisanat de leur circonscription.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 du 16 juillet 1952
-
-	**Modifié par**:
-
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
-
-	**Cité par**:
-
-	  - Code de l'artisanat - art. 81 bis (M)
-	  - Code de l'artisanat - art. 82-1 (Ab)
-
-
-## Chapitre I : Institution et organisation.
-
-## Chapitre II : Fonctionnement.
-
-## Chapitre III : Attributions.
-
-## Chapitre IV : Ressources.
 
 ## Chapitre V : Contrôle administratif et financier.
 
@@ -2249,18 +2249,14 @@ de Lorraine.
 
 ###### Article 82-1
 
-Les articles 5, 6, 15, 17, 18, 19 bis, 20, 25, 26, 28 et 29 sont applicables aux chambres régionales de métiers et de
-l'artisanat et aux chambres de métiers et de l'artisanat départementales.
+Les articles 5, 6, 15, 17, 19 bis, 20, 25, 26, 28 et 29 sont applicables aux chambres régionales de métiers et de l'artisanat
+et aux chambres de métiers et de l'artisanat départementales.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 17
-
-	**Cite**:
-
-	  - Code de l'artisanat - art. 5
+	  - Décret n°2011-350 du 30 mars 2011 - art. 3
 
 
 ###### Article 83
