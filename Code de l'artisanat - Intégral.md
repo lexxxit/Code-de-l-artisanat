@@ -1,38 +1,7 @@
 # Code de l'artisanat  
-Version Consolidée au 2011-03-31
+Version Consolidée au 2011-05-19
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
-
-###### Article 4
-
-Aucune personne physique ou morale ne peut employer ces dénominations contrairement aux prescriptions énoncées aux articles 2
-et 3. 
-
-Quiconque contrevient sciemment auxdits articles 2 et 3 encourt les peines prévues à l'article L. 213-1 du code de la
-consommation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 du 16 juillet 1952
-
-	**Modifié par**:
-
-	  - Loi n°93-949 du 26 juillet 1993 - art. 2 (V) JORF 27 juillet 1993
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 175 (V)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L213-1
-
-	**Cité par**:
-
-	  - Code de l'artisanat - art. 21 (M)
-
 
 ###### Article 4 bis
 
