@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-06-12
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -282,9 +282,10 @@ d'Etat.
 
 Sont déclarés démissionnaires d'office par l'autorité de tutelle, après avis de l'assemblée générale de la chambre de métiers
 et de l'artisanat de région, les membres qui cessent au cours de leur mandat de répondre aux conditions d'éligibilité prévues
-par l'article 6 du décret n° 99-433 du 27 mai 1999 relatif à la composition des chambres régionales de métiers et de
-l'artisanat et des chambres de métiers et de l'artisanat de région et à leur élection et ceux qui ne relèvent plus, de la
-catégorie à laquelle ils appartenaient au moment de leur élection.
+par l'article 6 du décret n° 99-433 du 27 mai 1999 relatif à la composition des chambres de métiers et de l'artisanat de
+région et de leurs sections, des chambres régionales de métiers et de l'artisanat et des chambres de métiers et de
+l'artisanat départementales et à l'élection de leurs membres et ceux qui ne relèvent plus, de la catégorie à laquelle ils
+appartenaient au moment de leur élection.
 
 **Liens relatifs à cet article**
 
@@ -294,8 +295,7 @@ catégorie à laquelle ils appartenaient au moment de leur élection.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 2° (V)
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 2
+	  - Décret n°2011-644 du 9 juin 2011 - art. 1 (V)
 
 	**Cité par**:
 
@@ -974,8 +974,8 @@ Le règlement intérieur fixe le mode de désignation des membres associés et p
 sauf dérogation admise par l'autorité de tutelle, à la moitié au plus du nombre des membres élus. 
 
 Les membres associés répondent aux conditions d'éligibilité prévues par l'article 6 du décret n° 99-433 du 27 mai 1999
-relatif à la composition des chambres régionales de métiers et de l'artisanat et des chambres de métiers et de l'artisanat de
-région et à leur élection. 
+relatif à la composition des chambres de métiers et de l'artisanat de région et de leurs sections, des chambres régionales de
+métiers et de l'artisanat et des chambres de métiers et de l'artisanat départementales et à l'élection de leurs membres. 
 
 III.-Le règlement intérieur précise les missions des membres associés et les modalités de leur participation, à titre
 consultatif, aux délibérations de l'assemblée générale de la chambre. 
@@ -983,10 +983,6 @@ consultatif, aux délibérations de l'assemblée générale de la chambre.
 IV.-Les chambres régionales de métiers et de l'artisanat ne désignent pas de membre associé.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 du 16 juillet 1952
 
 	**Cite**:
 
@@ -1000,7 +996,7 @@ IV.-Les chambres régionales de métiers et de l'artisanat ne désignent pas de 
 
 	**Modifié par**:
 
-	  - Décret n°2011-350 du 30 mars 2011 - art. 2
+	  - Décret n°2011-644 du 9 juin 2011 - art. 1 (V)
 
 
 ## Chapitre III : Attributions.
