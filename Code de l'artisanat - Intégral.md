@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2011-06-12
+Version Consolidée au 2011-12-01
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -1317,35 +1317,30 @@ Mayotte.
 
 ###### Article 28
 
-Le budget et les comptes des       chambres de métiers et de l'artisanat de région sont établis dans les formes prescrites
-par le ministre chargé de l'artisanat et le ministre chargé du budget. 
+I. - Le budget et les comptes des chambres de métiers et de l'artisanat de région sont établis dans les formes prescrites par
+le ministre chargé de l'artisanat et le ministre chargé du budget.
 
 Ils doivent faire apparaître dans des sections distinctes les dépenses et les recettes ordinaires et celles qui, par leur
-nature, ne sont pas susceptibles de se reproduire tous les ans. 
+nature, ne sont pas susceptibles de se reproduire tous les ans.
 
-Le budget est voté par l'assemblée générale de la chambre de métiers et de l'artisanat avant le 1er décembre de chaque année.
-Il n'est exécutoire qu'après approbation expresse de l'autorité de tutelle, laquelle en transmet un exemplaire au ministre
-chargé de l'artisanat. 
+Lorsque la chambre de métiers et de l'artisanat de région gère directement un ou des centres de formation d'apprentis, elle
+présente séparément le budget de ces centres, le budget des autres services de la chambre ainsi que le budget tous services
+confondus.
 
-Lorsque l'autorité de tutelle constate la carence de la chambre de métiers et de l'artisanat, elle procède suivant le cas
-à : 
+II. - Le budget est voté par l'assemblée générale de la chambre de métiers et de l'artisanat de région avant le 1er décembre
+de chaque année. Il n'est exécutoire qu'après approbation de l'autorité de tutelle, laquelle en transmet pour information un
+exemplaire au ministre chargé de l'artisanat. L'approbation est acquise si cette autorité n'a pas, dans le mois de sa
+saisine, transmis à la chambre sa demande de procéder aux rectifications qu'elle estime nécessaires. La réponse à cette
+demande fait courir un nouveau délai d'approbation ou non du budget.
 
-1° L'établissement d'office du budget de la chambre ; 
+Lorsque l'autorité de tutelle constate la carence de la chambre de métiers et de l'artisanat de région, elle procède suivant
+le cas à :
 
-2° L'inscription d'office au budget de la chambre des dépenses obligatoires omises ; 
+1° L'établissement d'office du budget de la chambre ;
 
-3° L'ordonnancement et au mandatement d'office des dépenses obligatoires. 
+2° L'inscription d'office au budget de la chambre des dépenses obligatoires omises ;
 
-Chaque année, au cours de sa première assemblée générale ordinaire, la chambre de métiers et de l'artisanat adopte le compte
-de gestion de l'exercice précédent. 
-
-Dans les six premiers mois de chaque année, le président de la chambre de métiers et de l'artisanat adresse au préfet, pour
-approbation définitive, le compte de gestion de l'année précédente, accompagné des pièces de comptabilité ainsi que, le cas
-échéant, le tableau d'amortissement des emprunts contractés par la chambre de métiers et de l'artisanat. 
-
-Lorsque la chambre de métiers et de l'artisanat gère directement un centre de formation d'apprentis, elle présente séparément
-le budget et les comptes de ce service, le budget et les comptes de gestion des services de la chambre hors centre de
-formation d'apprentis ainsi que le budget et les comptes tous services confondus.
+3° L'ordonnancement et au mandatement d'office des dépenses obligatoires.
 
 **Liens relatifs à cet article**
 
@@ -1362,8 +1357,122 @@ formation d'apprentis ainsi que le budget et les comptes tous services confondus
 
 	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 14
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+	  - Décret n°2011-1662 du 28 novembre 2011 - art. 1
+
+
+###### Article 28-1
+
+I. ― Le compte de gestion retrace l'exécution du budget de chaque exercice, en fonctionnement et en investissement. 
+
+A l'issue de l'exercice, le président de la chambre adresse le projet de compte de gestion, assorti des pièces et
+justificatifs nécessaires, au commissaire aux comptes. Celui-ci exerce sa mission conformément aux dispositions des articles
+L. 823-9 à L. 823-18 du code de commerce. 
+
+A sa plus prochaine séance suivant le dépôt du rapport du commissaire aux comptes, l'assemblée générale de la chambre de
+métiers et de l'artisanat de région adopte le compte de gestion de l'exercice précédent. 
+
+Lorsque des chambres départementales de métiers et de l'artisanat s'unissent avec une chambre régionale de métiers et de
+l'artisanat en une seule chambre de métiers et de l'artisanat de région, l'assemblée générale de la nouvelle chambre adopte
+les comptes du dernier exercice clos de chacune des chambres qui ont fusionné. 
+
+II. ― Le compte de gestion sur lequel se prononce l'assemblée générale est complété des documents annexes suivants : 
+
+1° L'état en fin d'exercice des emplois permanents de l'établissement, mentionnant le statut, le grade et l'indice de
+rémunération de leur détenteur ; 
+
+2° Les montants d'imposition votés au titre de l'exercice par l'établissement et agréés par l'autorité de tutelle en
+application de l'article 1601 du code général des impôts ; 
+
+3° Les recettes en taxe d'apprentissage perçues au titre de l'exercice par la chambre, dont celles qu'elle a utilisées pour
+elle-même et celles reversées aux autres établissements du réseau ; 
+
+4° Le tableau de financement retraçant les variations de ressources et emplois financiers de l'exercice ; 
+
+5° La balance définitive des comptes du grand livre pour l'exercice ; 
+
+6° Le bilan en fin d'exercice ; 
+
+7° L'état des emprunts en cours en fin d'exercice, avec leur tableau d'amortissement ; 
+
+8° L'état en fin d'exercice des engagements contractés par l'établissement en crédit-bail ; 
+
+9° Le tableau financier de synthèse regroupant les principales données budgétaires et financières de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1662 du 28 novembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L823-9
+	  - Code général des impôts, CGI. - art. 1601
+
+	**Cité par**:
+
+	  - Code de l'artisanat - art. 28-2 (V)
+
+
+###### Article 28-2
+
+Avant le 1er juillet de chaque année, le président de la chambre de métiers et de l'artisanat de région adresse à l'autorité
+de tutelle le compte de gestion de l'année précédente, accompagné des annexes prévues au II de l'article 28-1 et du rapport
+du commissaire aux comptes. 
+
+Le compte de gestion de la chambre de métiers et de l'artisanat de région et ses annexes font l'objet d'une approbation de
+l'autorité de tutelle. Si cette autorité ne peut donner son approbation, elle adresse au président de la chambre, dans les
+trente jours de sa saisine, une demande de modification du ou des documents qui le justifient. La réponse à cette demande
+fait courir un nouveau délai d'approbation ou non du compte de gestion. 
+
+L'autorité de tutelle transmet au ministre chargé de l'artisanat un exemplaire du compte de gestion approuvé assorti de ses
+annexes, ou un rapport exposant les motifs l'ayant conduite à en refuser l'approbation. 
+
+Les chambres de métiers et de l'artisanat de région rendent publics sur leur site internet, dans le mois qui suit
+l'approbation de ces documents par l'autorité de tutelle, leur compte de gestion assorti de ses annexes ainsi que le rapport
+du commissaire aux comptes. Elles transmettent ces documents, dans le même délai, à l'Assemblée permanente des chambres de
+métiers et de l'artisanat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°66-137 du 7 mars 1966 - art. 1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2011-1662 du 28 novembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'artisanat - art. 28-1
+
+
+###### Article 28-3
+
+Les chambres de métiers et de l'artisanat de région peuvent contracter des emprunts en vue de subvenir ou de concourir aux
+dépenses nécessaires à l'exercice de leurs attributions, à l'exclusion de leurs dépenses ordinaires. Ces emprunts sont
+autorisés par arrêté du préfet de région. Un crédit égal à l'annuité d'amortissement devra obligatoirement être inscrit
+chaque année au budget de la chambre.
+
+L'ouverture d'une ligne de trésorerie par ces chambres peut être autorisée, à titre exceptionnel, par arrêté du préfet de
+région en vue de faire face à des besoins temporaires de trésorerie.
+
+Un arrêté du ministre chargé de l'artisanat fixe les seuils en dessous desquels l'autorisation du préfet de région pour
+contracter un emprunt et ouvrir une ligne de trésorerie n'est pas requise.
+
+Les dispositions du présent article sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 17 décembre 2010 - art. 2 (V)
+	  - Arrêté du 17 décembre 2010 - art. 4 (V)
+
+	**Créé par**:
+
+	  - Décret n°2011-1662 du 28 novembre 2011 - art. 1
 
 
 ###### Article 29
@@ -2056,11 +2165,11 @@ La création d'une caisse de cette nature par une chambre de métiers et de l'ar
 préalable du ministre chargé de l'artisanat et du ministre du travail dans le cas où la chambre de métiers et de l'artisanat
 de région solliciterait l'octroi d'une subvention du fonds national de chômage. 
 
-Un budget et un compte distincts relatifs à la gestion des caisses ainsi créées sont établis par les       chambres de
-métiers et de l'artisanat de région et soumis à l'approbation du ministre chargé de l'artisanat, dans les conditions prévues
-à l'article 28 du présent code, et à l'approbation du ministre du travail dans les cas où elles bénéficieraient d'une
-subvention du fonds national de chômage. Cette gestion pourra à tout moment faire l'objet d'un contrôle de la part des agents
-désignés par les mêmes ministres.
+Un budget et un compte distincts relatifs à la gestion des caisses ainsi créées sont établis par les chambres de métiers et
+de l'artisanat de région et soumis à l'approbation du ministre chargé de l'artisanat, dans les conditions prévues aux
+articles 28 à 28-2, et à l'approbation du ministre du travail dans les cas où elles bénéficieraient d'une subvention du fonds
+national de chômage. Cette gestion pourra à tout moment faire l'objet d'un contrôle de la part des agents désignés par les
+mêmes ministres.
 
 **Liens relatifs à cet article**
 
@@ -2070,7 +2179,7 @@ désignés par les mêmes ministres.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+	  - Décret n°2011-1662 du 28 novembre 2011 - art. 2
 
 	**Cite**:
 
@@ -2214,14 +2323,23 @@ de Lorraine.
 
 ###### Article 82-1
 
-Les articles 5, 6, 15, 17, 19 bis, 20, 25, 26, 28 et 29 sont applicables aux chambres régionales de métiers et de l'artisanat
-et aux chambres de métiers et de l'artisanat départementales.
+Les dispositions des articles 5, 6, 15, 17, 19 bis, 
+20, 25, 26, 28, 28-1, 28-2, 28-3 et 29 régissant les chambres de métiers et de l'artisanat de région sont applicables aux
+chambres régionales de métiers et de l'artisanat et, à l'exception du 2° du II de l'article 28-1, aux chambres de métiers et
+de l'artisanat départementales.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-350 du 30 mars 2011 - art. 3
+	  - Décret n°2011-1662 du 28 novembre 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de l'artisanat - art. 15
+	  - Code de l'artisanat - art. 20
+	  - Code de l'artisanat - art. 28
+	  - Code de l'artisanat - art. 5
 
 
 ###### Article 83
