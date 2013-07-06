@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2012-04-22
+Version Consolidée au 2013-07-07
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -308,15 +308,14 @@ appartenaient au moment de leur élection.
 Les chambres de métiers et de l'artisanat de région peuvent être supprimées par décret, pris sur le rapport du ministre
 chargé de l'artisanat et, le cas échéant, du ministre chargé de l'outre-mer.
 
-L'assemblée générale d'une chambre de métiers et de l'artisanat  de région peut être dissoute par décret pris sur rapport du
+L'assemblée générale d'une chambre de métiers et de l'artisanat de région peut être dissoute par décret pris sur rapport du
 ministre chargé de l'artisanat. 
 
 En cas de dissolution, une commission composée de trois à neuf membres artisans désignés par arrêté de l'autorité de tutelle
 administre provisoirement la chambre de métiers et de l'artisanat de région dans l'attente de nouvelles élections. Les
 élections pour le remplacement des membres d'une assemblée générale dissoute doivent avoir lieu dans un délai de quatre mois
-à partir de la publication du décret de dissolution. Toutefois, si une révision spéciale des listes électorales a été
-prescrite à la suite de la dissolution, le délai fixé court à partir du jour où la révision des listes électorales a pris
-fin. 
+à partir de la publication du décret de dissolution. Toutefois, si une révision de la liste électorale a été prescrite à la
+suite de la dissolution, le délai fixé court à partir du jour où la révision de cette liste a pris fin. 
 
 Si cette dissolution intervient dans les douze mois précédant le renouvellement général, il n'est procédé à aucune élection.
 
@@ -334,8 +333,7 @@ Si cette dissolution intervient dans les douze mois précédant le renouvellemen
 
 	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 3
+	  - Décret n°2013-591 du 4 juillet 2013 - art. 1
 
 
 ## Chapitre II : Fonctionnement.
@@ -1140,7 +1138,8 @@ IV.-Les chambres de métiers et de l'artisanat de région exercent les fonctions
 ###### Article 23-1
 
 I. - Les chambres régionales de métiers et de l'artisanat exercent les missions mentionnées au I de l'article 23, à
-l'exception de celles mentionnées aux 1° et 2°. 
+l'exception de celles mentionnées aux 1° et 2°.  Elles peuvent exercer les attributions mentionnées au III de l'article 23 à
+condition, pour chaque opération, d'y être autorisées par l'autorité de tutelle.
 
 II. - Les chambres régionales de métiers et de l'artisanat exercent les fonctions administratives suivantes, dans le respect
 des prérogatives de l'assemblée permanente des chambres de métiers et de l'artisanat : 
@@ -1175,9 +1174,9 @@ disposition de la chambre départementale qui exerce cette responsabilité les p
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 11
+	  - Décret n°2013-591 du 4 juillet 2013 - art. 1
 
 	**Cité par**:
 
@@ -1195,19 +1194,21 @@ disposition de la chambre départementale qui exerce cette responsabilité les p
 
 ###### Article 23-2
 
-I. - Les chambres de métiers et de l'artisanat départementales exercent, dans leur ressort territorial, les missions
-mentionnées au I de l'article 23, à l'exception de celles mentionnées aux 3°,10°,11°,13° et 14°, et peuvent être consultées
-en application du troisième alinéa du II du même article. 
+Les chambres de métiers et de l'artisanat départementales exercent, dans leur ressort territorial, les missions mentionnées
+au I de l'article 23, à l'exception de celles mentionnées aux 3°,10°,11°,13° et 14°, et peuvent être consultées en
+application du troisième alinéa du II du même article. Elles peuvent exercer les attributions mentionnées au III de l'article
+23 à condition, pour chaque opération, d'y être autorisées par l'autorité de tutelle. 
 
 Elles exercent ces prérogatives dans le respect des dispositions de l'article 5-4 et des orientations fixées par la chambre
-de métiers et de l'artisanat de région à laquelle elles sont rattachées et peuvent, dans ce cadre, mener des
-expérimentations, des actions spécifiques et conclure des partenariats locaux.
+de métiers et de l'artisanat de région ou par la chambre régionale de métiers et de l'artisanat à laquelle elles sont
+rattachées et peuvent, dans ce cadre, mener des expérimentations, des actions spécifiques et conclure des partenariats
+locaux.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 11
+	  - Décret n°2013-591 du 4 juillet 2013 - art. 1
 
 
 ###### Article 23-3
@@ -1422,9 +1423,10 @@ de tutelle le compte de gestion de l'année précédente, accompagné des annexe
 du commissaire aux comptes. 
 
 Le compte de gestion de la chambre de métiers et de l'artisanat de région et ses annexes font l'objet d'une approbation de
-l'autorité de tutelle. Si cette autorité ne peut donner son approbation, elle adresse au président de la chambre, dans les
-trente jours de sa saisine, une demande de modification du ou des documents qui le justifient. La réponse à cette demande
-fait courir un nouveau délai d'approbation ou non du compte de gestion. 
+l'autorité de tutelle.  L'autorité se prononce dans les trente jours de sa saisine ; le défaut de réponse dans ce délai vaut
+approbation. Si cette autorité ne peut donner son approbation, elle adresse au président de la chambre, dans les trente jours
+de sa saisine, une demande de modification du ou des documents qui le justifient. La réponse à cette demande fait courir un
+nouveau délai d'approbation ou non du compte de gestion. 
 
 L'autorité de tutelle transmet au ministre chargé de l'artisanat un exemplaire du compte de gestion approuvé assorti de ses
 annexes, ou un rapport exposant les motifs l'ayant conduite à en refuser l'approbation. 
@@ -1440,9 +1442,9 @@ métiers et de l'artisanat.
 
 	  - Décret n°66-137 du 7 mars 1966 - art. 1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1662 du 28 novembre 2011 - art. 1
+	  - Décret n°2013-591 du 4 juillet 2013 - art. 1
 
 	**Cite**:
 
