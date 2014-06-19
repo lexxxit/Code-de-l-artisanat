@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2014-03-07
+Version Consolidée au 2014-06-20
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -2286,6 +2286,20 @@ de la chambre de métiers et de l'artisanat de Mayotte ".
 	  - Code de l'artisanat - art. 23 (V)
 	  - Code de l'artisanat - art. 26 (V)
 	  - Code de l'artisanat - art. 5 (V)
+
+
+# Titre VIII ter : Dispositions relatives à l'artisanat à Saint-Pierre-et-Miquelon
+
+###### Article 81 ter
+
+Pour l'application du titre II à Saint-Pierre-et-Miquelon, il y a lieu de lire : "chambre d'agriculture, de commerce,
+d'industrie, de métiers et de l'artisanat de Saint-Pierre-et-Miquelon" au lieu de : "chambre de métiers et de l'artisanat".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 67
 
 
 # Titre IX : Dispositions diverses.
