@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2014-06-20
+Version Consolidée au 2014-08-06
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -276,6 +276,47 @@ d'Etat.
 	**Modifié par**:
 
 	  - Loi n°2010-853 du 23 juillet 2010 - art. 13
+
+
+###### Article 8
+
+Les membres des sections, des chambres de métiers et de l'artisanat départementales, des chambres de métiers et de
+l'artisanat de région et des chambres régionales de métiers et de l'artisanat sont élus en même temps, au scrutin de liste à
+un tour, sans adjonction ni suppression de noms et sans modification de l'ordre de présentation, par l'ensemble des
+électeurs. 
+
+Chaque liste est composée alternativement d'un candidat de chaque sexe. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Nota:**
+
+Loi n° 2014-873 du 4 août 2014 JORF du 5 août 2014 art. 73 II : Par dérogation à l'article 8 du code de l'artisanat, lors du
+prochain renouvellement suivant la promulgation de la présente loi, chaque liste est composée d'au moins un candidat de
+chaque sexe par groupe de trois candidats. 
+
+Au renouvellement suivant, chaque liste est composée d'au moins deux candidats de chaque sexe par groupe de cinq candidats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°52-849 du 16 juillet 1952
+
+	**Cité par**:
+
+	  - Décret n°59-1315 du 19 novembre 1959 - art. 15 (Ab)
+	  - Loi n°2015-991 du 7 août 2015 - art. 5
+	  - ORDONNANCE n°2015-1540 du 26 novembre 2015 - art. 3 (V)
+
+	**Cite**:
+
+	  - Décret n°62-235 du 1 mars 1962
+	  - Code de l'artisanat - art. 7
+
+	**Modifié par**:
+
+	  - Loi n°2014-873 du 4 août 2014 - art. 73 (V)
 
 
 ###### Article 15
