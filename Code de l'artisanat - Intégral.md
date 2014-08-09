@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2014-08-06
+Version Consolidée au 2014-08-10
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -221,7 +221,14 @@ un agrément prévu par décret en Conseil d'Etat s'ils ont un impact sur les r�
 services qu'elle passe au nom et pour le compte des établissements du réseau des chambres de métiers et de l'artisanat. Ces
 décisions s'imposent aux établissements du réseau qui ne sont pas, à la date à laquelle ces décisions sont prises, déjà
 engagés dans un marché ou un accord-cadre portant sur les mêmes achats. Les modalités de mise en œuvre du présent 5° sont
-fixées par décret.
+fixées par décret ;
+
+6° Elle gère, dans des conditions définies par décret en Conseil d'Etat, le fonds de financement et d'accompagnement du
+réseau des chambres de métiers et de l'artisanat. Ce fonds est destiné à fournir aux chambres de métiers et de l'artisanat
+une ressource collective pour la mise en œuvre des mutualisations et restructurations obligatoires ou décidées par son
+assemblée générale. Le fonds est alimenté par une contribution obligatoire de chaque établissement du réseau des chambres de
+métiers et de l'artisanat. Le montant global annuel de la dotation et son affectation sont définis chaque année par
+l'assemblée générale de l'Assemblée permanente des chambres de métiers et de l'artisanat.
 
 **Liens relatifs à cet article**
 
@@ -234,9 +241,9 @@ fixées par décret.
 	  - Décret n°2014-1499 du 11 décembre 2014 (V)
 	  - Code général des impôts, CGI. - art. 1601 (VT)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 12
+	  - Loi n°2014-891 du 8 août 2014 - art. 9
 
 
 ###### Article 6
