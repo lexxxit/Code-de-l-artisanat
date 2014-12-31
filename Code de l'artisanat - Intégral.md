@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2014-12-14
+Version Consolidée au 2015-01-01
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -1135,8 +1135,8 @@ professionnelle initiale et continue dans les conditions prévues par les articl
 pour la formation initiale et dans le respect des dispositions du titre V du livre III de la sixième partie du code du
 travail qui leur sont applicables pour la formation continue ; 
 
-13° D'exercer une mission d'appui et de conseil, en coordination avec l'Agence française pour le développement international
-des entreprises, pour le développement international des entreprises et l'exportation de leur production ; 
+13° D'exercer une mission d'appui et de conseil, en coordination avec l'       agence mentionnée à l'article 50 de la loi n°
+2003-721 du 1er août 2003, pour le développement international des entreprises et l'exportation de leur production ; 
 
 14° D'être autorités compétentes conformément à l'article 32 de la loi n° 2010-853 du 23 juillet 2010 relative aux réseaux
 consulaires, au commerce, à l'artisanat et aux services, au décret n° 98-246 du 2 avril 1998 relatif à la qualification
@@ -1223,7 +1223,7 @@ IV.-Les chambres de métiers et de l'artisanat de région exercent les fonctions
 
 	**Modifié par**:
 
-	  - Loi n°2014-288 du 5 mars 2014 - art. 23
+	  - ORDONNANCE n°2014-1555 du 22 décembre 2014 - art. 4
 
 
 ###### Article 23-1
