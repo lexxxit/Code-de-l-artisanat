@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2015-07-05
+Version Consolidée au 2015-08-09
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -331,9 +331,9 @@ d'Etat.
 ###### Article 8
 
 Les membres des sections, des chambres de métiers et de l'artisanat départementales, des chambres de métiers et de
-l'artisanat de région et des chambres régionales de métiers et de l'artisanat sont élus en même temps, au scrutin de liste à
-un tour, sans adjonction ni suppression de noms et sans modification de l'ordre de présentation, par l'ensemble des
-électeurs. 
+l'artisanat de région et des chambres régionales de métiers et de l'artisanat sont élus pour cinq ans en même temps, au
+scrutin de liste à un tour, sans adjonction ni suppression de noms et sans modification de l'ordre de présentation, par
+l'ensemble des électeurs. 
 
 Chaque liste est composée alternativement d'un candidat de chaque sexe. 
 
@@ -346,6 +346,11 @@ prochain renouvellement suivant la promulgation de la présente loi, chaque list
 chaque sexe par groupe de trois candidats. 
 
 Au renouvellement suivant, chaque liste est composée d'au moins deux candidats de chaque sexe par groupe de cinq candidats.
+
+Aux termes du II de l'article 5 de la loi n° 2015-991 du 7 août 2015, par dérogation à l'article 8 du code de l'artisanat,
+les mandats en cours des membres des sections, des chambres de métiers et de l'artisanat départementales, des chambres de
+métiers et de l'artisanat de région et des chambres régionales de métiers et de l'artisanat sont prorogés jusqu'à une date
+qui n'excède pas le terme de l'année 2016.
 
 **Liens relatifs à cet article**
 
@@ -366,7 +371,7 @@ Au renouvellement suivant, chaque liste est composée d'au moins deux candidats 
 
 	**Modifié par**:
 
-	  - Loi n°2014-873 du 4 août 2014 - art. 73 (V)
+	  - Loi n°2015-991 du 7 août 2015 - art. 5 (V)
 
 
 ###### Article 15
