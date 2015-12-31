@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2015-11-06
+Version Consolidée au 2016-01-01
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -149,7 +149,9 @@ sont rattachées.
 
 La chambre de métiers et de l'artisanat de région ou la chambre régionale de métiers et de l'artisanat : 
 
-1° Définit la stratégie pour l'activité du réseau dans sa région ou, pour la Corse, dans sa collectivité territoriale ; 
+1° Définit la stratégie pour l'activité du réseau dans sa région ou, pour la Corse, dans sa collectivité territoriale,
+compatible avec le schéma régional de développement économique, d'innovation et d'internationalisation prévu à l' article L.
+4251-13 du code général des collectivités territoriales ; 
 
 2° Répartit entre les chambres départementales qui lui sont rattachées, après déduction de sa propre quote-part, les
 ressources qui lui sont affectées ; 
@@ -157,16 +159,25 @@ ressources qui lui sont affectées ;
 3° Abonde, dans des conditions et limites définies par décret, le budget, au-delà du budget voté, d'une chambre qui lui est
 rattachée pour subvenir à des dépenses exceptionnelles ou faire face à des circonstances particulières.
 
+**Nota:**
+
+Conformément à l'article 2 (IV) de la loi n° 2015-991, ces dispositions sont applicables à compter du 1er janvier de l'année
+qui suit le prochain renouvellement général des conseils régionaux.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 12
+	  - Loi n°2015-991 du 7 août 2015 - art. 2
 
 	**Cité par**:
 
 	  - ORDONNANCE n°2015-1540 du 26 novembre 2015 - art. 3 (V)
 	  - Code de l'artisanat - art. 82 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L4251-13
 
 
 ###### Article 5-6
@@ -1180,7 +1191,7 @@ développement des formations et de l'orientation professionnelles mentionné à
 plus généralement, sur tout dispositif d'appui aux entreprises dont la région envisage la création. 
 
 Elles peuvent être consultées, à leur demande, sur l'élaboration des schémas de cohérence territoriale et des plans locaux
-d'urbanisme mentionnés à l'article L. 121-4 du code de l'urbanisme et peuvent réaliser, de leur propre initiative, les études
+d'urbanisme mentionnés à l'article L. 132-7 du code de l'urbanisme et peuvent réaliser, de leur propre initiative, les études
 économiques nécessaires à la préparation des documents prévisionnels d'organisation artisanale. 
 
 III.-Les chambres de métiers et de l'artisanat de région peuvent être autorisées par l'autorité de tutelle dans les domaines
@@ -1192,7 +1203,16 @@ territoriales ;
 2° Participer à des sociétés d'économie mixte et, dans les conditions prévues par la loi n° 43-612 du 17 novembre 1943 sur la
 gestion des intérêts professionnels, à des sociétés professionnelles ou à des établissements professionnels ; 
 
-3° Souscrire des parts ou des actions de sociétés s'inscrivant dans leur domaine de spécialité. 
+3° Souscrire des parts ou des actions de sociétés s'inscrivant dans leur domaine de spécialité ;
+
+4° Participer à des associations s'inscrivant dans leur domaine de spécialité. 
+
+A défaut d'approbation expresse ou d'opposition notifiée à la chambre au terme d'un délai de deux mois à compter de la
+réception de la demande par l'autorité de tutelle, ces autorisations sont réputées accordées. Les décisions de refus sont
+motivées. 
+
+Lorsque l'autorité de tutelle demande par écrit à la chambre des informations ou documents complémentaires, le délai
+mentionné à l'alinéa précédent est suspendu jusqu'à la production de ces informations ou documents. 
 
 IV.-Les chambres de métiers et de l'artisanat de région exercent les fonctions administratives prévues au II de l'article
 23-1 ci-après, y compris à l'égard des chambres de métiers et de l'artisanat départementales qui leur sont rattachées.
@@ -1213,7 +1233,6 @@ IV.-Les chambres de métiers et de l'artisanat de région exercent les fonctions
 	  - Code de l'éducation - art. L214-13
 	  - Code de l'éducation - art. L443-1
 	  - Code de l'éducation - art. L753-1
-	  - Code de l'urbanisme - art. L121-4
 
 	**Codifié par**:
 
@@ -1242,7 +1261,7 @@ IV.-Les chambres de métiers et de l'artisanat de région exercent les fonctions
 
 	**Modifié par**:
 
-	  - Décret n°2015-810 du 2 juillet 2015 - art. 26
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 
 ###### Article 23-1
