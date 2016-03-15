@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-03-16
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -52,8 +52,8 @@ intérêts généraux de l'artisanat de leur circonscription.
 
 Le réseau des chambres de métiers et de l'artisanat se compose de l'assemblée permanente des chambres de métiers et de
 l'artisanat, des chambres de métiers et de l'artisanat de région, ainsi que des chambres régionales de métiers et de
-l'artisanat et des chambres de métiers et de l'artisanat départementales, qui sont des établissements publics placés sous la
-tutelle de l'Etat et administrés par des dirigeants et collaborateurs d'entreprise élus. 
+l'artisanat et des chambres de métiers et de l'artisanat départementales et interdépartementales, qui sont des établissements
+publics placés sous la tutelle de l'Etat et administrés par des dirigeants et collaborateurs d'entreprise élus. 
 
 Le réseau des chambres de métiers et de l'artisanat contribue au développement économique des entreprises immatriculées au
 répertoire des métiers ainsi qu'au développement des territoires, en remplissant en faveur des acteurs économiques et en
@@ -69,51 +69,95 @@ législation civile française dans les départements du Bas-Rhin, du Haut-Rhin 
 
 	  - Loi du 1 juin 1924
 
-	**Créé par**:
-
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 12
-
 	**Cité par**:
 
 	  - ORDONNANCE n°2015-1540 du 26 novembre 2015 - art. 3 (V)
+	  - Code de l'artisanat - art. 5-7 (V)
 	  - Code de la sécurité sociale. - art. D311-1 (V)
 	  - Code du travail - art. L5143-1 (V)
 	  - Code du travail - art. L6323-29 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2016-298 du 14 mars 2016 - art. 3
+
 
 ###### Article 5-2
 
-I. - La circonscription de la chambre de métiers et de l'artisanat de région et de la chambre régionale de métiers et de
-l'artisanat est la région et, en Corse, celle de la collectivité territoriale. Son siège est fixé, après avis des chambres
-départementales rattachées, par décision de l'autorité administrative compétente.
+I.-Dans chaque région, il existe une chambre de métiers et de l'artisanat de région ou une chambre régionale de métiers et de
+l'artisanat. En Corse, la circonscription de l'entité de niveau régional est celle de la collectivité territoriale de Corse.
+Le siège de la chambre de métiers et de l'artisanat de région ou de la chambre régionale de métiers et de l'artisanat est
+fixé par décision de l'autorité administrative compétente. 
 
-II. - Dans chaque région comportant un seul département, la chambre de métiers et de l'artisanat devient chambre de métiers
-et de l'artisanat de région et exerce ses fonctions à une date fixée par décret.
+II.-Dans chaque région comportant un seul département, la chambre de métiers et de l'artisanat est une chambre de métiers et
+de l'artisanat de région. 
 
-III. - Si plus de la moitié des chambres de métiers et de l'artisanat d'une région le décident, elles se regroupent en une
-chambre de métiers et de l'artisanat de région. Cette chambre se substitue à la chambre régionale de métiers et de
-l'artisanat et ne peut se composer de plus de sections que de chambres entrant dans ce regroupement. Les chambres qui n'ont
-pas choisi de se regrouper deviennent des chambres de métiers et de l'artisanat départementales et sont rattachées à la
-chambre de métiers et de l'artisanat de région. Les chambres de métiers et de l'artisanat de région sont instituées par
-décret pris sur le rapport du ministre chargé de l'artisanat.
+III.-Dans chaque région où existe une chambre régionale de métiers et de l'artisanat, la majorité des chambres de métiers et
+de l'artisanat qui lui sont rattachées, représentant la majorité des ressortissants cotisants ou exonérés de la taxe prévue à
+l'article 1601 du code général des impôts, peut décider de prendre la forme d'une chambre de métiers et de l'artisanat de
+région. 
 
-Dans les circonscriptions régionales autres que celles relevant de l'alinéa précédent, les chambres de métiers et de
-l'artisanat deviennent des chambres de métiers et de l'artisanat départementales. Elles sont rattachées aux chambres
-régionales de métiers et de l'artisanat.
+Pour l'expression de ce choix, il est procédé au vote à bulletin secret des élus au sein de chaque chambre de métiers et de
+l'artisanat départementale et de chaque chambre de métiers et de l'artisanat interdépartementale. Chaque chambre de métiers
+et de l'artisanat interdépartementale dispose d'autant de voix que de délégations départementales qui la composent. 
 
-IV. - Un décret en Conseil d'Etat fixe les fonctions administratives qui sont exercées au niveau national ou régional.
+La chambre de métiers et de l'artisanat de région se substitue à la chambre régionale de métiers et de l'artisanat et à
+l'ensemble des chambres de métiers et de l'artisanat départementales et interdépartementales qui y étaient rattachées. Elle
+est constituée d'autant de délégations départementales que de départements dans la région. 
+
+Le nouvel établissement devient l'employeur des personnels employés par les anciens établissements de la circonscription
+régionale. 
+
+Il ne peut être institué une chambre régionale de métiers et de l'artisanat en lieu et place d'une chambre de métiers et de
+l'artisanat de région. Ces chambres sont exclusivement composées de délégations départementales. 
+
+Les chambres de métiers et de l'artisanat de région sont instituées par décret. 
+
+Pour l'application du présent III à la région Alsace, Champagne-Ardenne et Lorraine, le choix exprimé par les chambres de
+métiers régies par les articles 103 et suivants du code professionnel local du 26 juillet 1900 pour l'Alsace et la Moselle,
+maintenu en vigueur par la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du
+Bas-Rhin, du Haut-Rhin et de la Moselle, est pondéré du nombre de départements et des ressortissants cotisants ou exonérés de
+la taxe prévue par la loi n° 48-977 du 16 juin 1948 relative à la taxe pour frais de chambre de métiers applicable dans les
+départements du Bas-Rhin, du Haut-Rhin et de la Moselle. Le regroupement choisi est opéré sous réserve des dispositions
+régissant les chambres de métiers des départements du Bas-Rhin, du Haut-Rhin et de la Moselle. 
+
+III bis.-Si des chambres de métiers et de l'artisanat départementales d'une même région le décident, elles se regroupent en
+une chambre de métiers et de l'artisanat interdépartementale. Pour l'expression de ce choix, il est procédé au vote, à
+bulletin secret, des élus au sein de chaque chambre de métiers et de l'artisanat départementale. Cette chambre se substitue
+aux chambres de métiers et de l'artisanat départementales qu'elle regroupe et est constituée d'autant de délégations
+départementales que de départements regroupés. 
+
+Le regroupement entre chambres de métiers et de l'artisanat interdépartementales ou entre chambre de métiers et de
+l'artisanat interdépartementale et chambres de métiers et de l'artisanat départementales d'une même région intervient sur
+décision prise à la majorité des élus des établissements concernés. Pour l'expression de ce choix, la chambre de métiers et
+de l'artisanat interdépartementale dispose d'autant de voix que de délégations départementales qui la composent. 
+
+Le nouvel établissement devient l'employeur des personnels des chambres de métiers et de l'artisanat départementales
+regroupées, à l'exclusion des personnels qui occupent les fonctions exercées au niveau régional en application du IV du
+présent article et qui relèvent de la chambre régionale de métiers et de l'artisanat. 
+
+Les chambres de métiers et de l'artisanat interdépartementales sont instituées par décret. 
+
+IV.-Un décret en Conseil d'Etat fixe les fonctions qui sont exercées au niveau national ou régional.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi du 1 juin 1924
+	  - Loi n°48-977 du 16 juin 1948
+	  - Code général des impôts, CGI. - art. 1601
 
 	**Cité par**:
 
 	  - Décret n°66-137 du 7 mars 1966 - art. 2 (V)
 	  - ORDONNANCE n°2015-1540 du 26 novembre 2015 - art. 3 (V)
 	  - Code de l'artisanat - art. 21 (V)
+	  - Code de l'artisanat - art. 5-7 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 12
+	  - Loi n°2016-298 du 14 mars 2016 - art. 3
 
 
 ###### Article 5-3
@@ -130,50 +174,45 @@ représentation des métiers et de l'artisanat au plan régional.
 
 ###### Article 5-4
 
-Les chambres de métiers et de l'artisanat départementales exercent leurs missions dans le respect des prérogatives reconnues
-à la chambre de métiers et de l'artisanat de région ou à la chambre régionale de métiers et de l'artisanat à laquelle elles
-sont rattachées.
+Les chambres de métiers et de l'artisanat départementales et interdépartementales  exercent leurs missions dans le respect
+des prérogatives reconnues à la chambre régionale de métiers et de l'artisanat à laquelle elles sont rattachées.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 12
 
 	**Cité par**:
 
 	  - ORDONNANCE n°2015-1540 du 26 novembre 2015 - art. 3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-298 du 14 mars 2016 - art. 3
+
 
 ###### Article 5-5
 
-La chambre de métiers et de l'artisanat de région ou la chambre régionale de métiers et de l'artisanat : 
+La chambre régionale de métiers et de l'artisanat : 
 
 1° Définit la stratégie pour l'activité du réseau dans sa région ou, pour la Corse, dans sa collectivité territoriale,
 compatible avec le schéma régional de développement économique, d'innovation et d'internationalisation prévu à l' article L.
 4251-13 du code général des collectivités territoriales ; 
 
-2° Répartit entre les chambres départementales qui lui sont rattachées, après déduction de sa propre quote-part, les
-ressources qui lui sont affectées ; 
+2° Répartit, en fonction notamment des projets de budget départementaux et interdépartementaux, entre les chambres
+départementales et interdépartementales  qui lui sont rattachées, après déduction de sa propre quote-part, les ressources qui
+lui sont affectées ; 
 
 3° Abonde, dans des conditions et limites définies par décret, le budget, au-delà du budget voté, d'une chambre qui lui est
 rattachée pour subvenir à des dépenses exceptionnelles ou faire face à des circonstances particulières.
 
-**Nota:**
-
-Conformément à l'article 2 (IV) de la loi n° 2015-991, ces dispositions sont applicables à compter du 1er janvier de l'année
-qui suit le prochain renouvellement général des conseils régionaux.
-
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2015-991 du 7 août 2015 - art. 2
 
 	**Cité par**:
 
 	  - ORDONNANCE n°2015-1540 du 26 novembre 2015 - art. 3 (V)
 	  - Code de l'artisanat - art. 82 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-298 du 14 mars 2016 - art. 3
 
 	**Cite**:
 
@@ -201,13 +240,18 @@ ainsi qu'au plan international.
 
 Son organe délibérant est constitué des présidents en exercice des chambres de métiers et de l'artisanat de région et des
 chambres régionales de métiers et de l'artisanat, de ceux des chambres de métiers et de l'artisanat départementales et des
-présidents des sections constituées en application du III de l'article 5-2.
+présidents des délégations départementales constituées en application des III et III bis de l'article 5-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 12
+	  - Loi n°2016-298 du 14 mars 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'artisanat - art. 5-1 (V)
+	  - Code de l'artisanat - art. 5-2 (V)
 
 
 ###### Article 5-8
@@ -322,9 +366,8 @@ Le transfert du siège d'une chambre de métiers et de l'artisanat de région es
 ###### Article 7
 
 Les modalités d'organisation et de fonctionnement des établissements publics constituant le réseau des chambres de métiers et
-de l'artisanat, ainsi que celles du rattachement des chambres de métiers et de l'artisanat départementales aux chambres de
-métiers et de l'artisanat de région ou aux chambres régionales de métiers et de l'artisanat sont fixées par décret en Conseil
-d'Etat.
+de l'artisanat, ainsi que celles du rattachement des chambres de métiers et de l'artisanat départementales et
+interdépartementales aux chambres régionales de métiers et de l'artisanat sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -336,15 +379,15 @@ d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 13
+	  - Loi n°2016-298 du 14 mars 2016 - art. 3
 
 
 ###### Article 8
 
-Les membres des sections, des chambres de métiers et de l'artisanat départementales, des chambres de métiers et de
-l'artisanat de région et des chambres régionales de métiers et de l'artisanat sont élus pour cinq ans en même temps, au
-scrutin de liste à un tour, sans adjonction ni suppression de noms et sans modification de l'ordre de présentation, par
-l'ensemble des électeurs. 
+Les membres  des délégations départementales, des chambres de métiers et de l'artisanat départementales et
+interdépartementales, des chambres de métiers et de l'artisanat de région et des chambres régionales de métiers et de
+l'artisanat sont élus pour cinq ans en même temps, au scrutin de liste à un tour, sans adjonction ni suppression de noms et
+sans modification de l'ordre de présentation, par l'ensemble des électeurs. 
 
 Chaque liste est composée alternativement d'un candidat de chaque sexe. 
 
@@ -375,14 +418,9 @@ qui n'excède pas le terme de l'année 2016.
 	  - Loi n°2015-991 du 7 août 2015 - art. 5
 	  - ORDONNANCE n°2015-1540 du 26 novembre 2015 - art. 3 (V)
 
-	**Cite**:
-
-	  - Décret n°62-235 du 1 mars 1962
-	  - Code de l'artisanat - art. 7
-
 	**Modifié par**:
 
-	  - Loi n°2015-991 du 7 août 2015 - art. 5 (V)
+	  - Loi n°2016-298 du 14 mars 2016 - art. 3
 
 
 ###### Article 15
