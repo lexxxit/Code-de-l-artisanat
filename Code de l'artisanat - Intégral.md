@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2016-03-16
+Version Consolidée au 2016-08-07
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -1229,7 +1229,7 @@ développement des formations et de l'orientation professionnelles mentionné à
 plus généralement, sur tout dispositif d'appui aux entreprises dont la région envisage la création. 
 
 Elles peuvent être consultées, à leur demande, sur l'élaboration des schémas de cohérence territoriale et des plans locaux
-d'urbanisme mentionnés à l'article L. 132-7 du code de l'urbanisme et peuvent réaliser, de leur propre initiative, les études
+d'urbanisme mentionnés à l'article L. 121-4 du code de l'urbanisme et peuvent réaliser, de leur propre initiative, les études
 économiques nécessaires à la préparation des documents prévisionnels d'organisation artisanale. 
 
 III.-Les chambres de métiers et de l'artisanat de région peuvent être autorisées par l'autorité de tutelle dans les domaines
@@ -1271,6 +1271,7 @@ IV.-Les chambres de métiers et de l'artisanat de région exercent les fonctions
 	  - Code de l'éducation - art. L214-13
 	  - Code de l'éducation - art. L443-1
 	  - Code de l'éducation - art. L753-1
+	  - Code de l'urbanisme - art. L121-4
 
 	**Codifié par**:
 
@@ -1299,7 +1300,7 @@ IV.-Les chambres de métiers et de l'artisanat de région exercent les fonctions
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
+	  - Décret n°2015-1401 du 3 novembre 2015 - art. 6
 
 
 ###### Article 23-1
