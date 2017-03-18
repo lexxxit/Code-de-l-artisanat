@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2016-12-31
+Version Consolidée au 2017-03-19
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -24,27 +24,6 @@ attestée soit par le certificat de compagnon, soit par un apprentissage préala
 
 
 # Titre II : Des       chambres de métiers et de l'artisanat de région
-
-###### Article 5
-
-Les       chambres de métiers et de l'artisanat de région sont, auprès des pouvoirs publics, les organes représentatifs des
-intérêts généraux de l'artisanat de leur circonscription.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 du 16 juillet 1952
-
-	**Modifié par**:
-
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
-
-	**Cité par**:
-
-	  - Code de l'artisanat - art. 81 bis (M)
-	  - Code de l'artisanat - art. 82-1 (Ab)
-
 
 ## Chapitre I : Institution et organisation.
 
@@ -346,7 +325,7 @@ données disponibles les plus récentes concernant ces ressources et ce sous-pla
 
 ###### Article 6
 
-Le transfert du siège d'une chambre de métiers et de l'artisanat de région est autorisé par arrêté du préfet de région.
+Le transfert du siège d'une chambre de métiers et de l'artisanat est autorisé par arrêté du préfet de région.
 
 **Liens relatifs à cet article**
 
@@ -360,7 +339,7 @@ Le transfert du siège d'une chambre de métiers et de l'artisanat de région es
 
 	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 1
+	  - Décret n°2017-343 du 16 mars 2017 - art. 1
 
 
 ###### Article 7
@@ -425,22 +404,20 @@ qui n'excède pas le terme de l'année 2016.
 
 ###### Article 15
 
-Sont déclarés démissionnaires d'office par l'autorité de tutelle, après avis de l'assemblée générale de la chambre de métiers
-et de l'artisanat de région, les membres qui cessent au cours de leur mandat de répondre aux conditions d'éligibilité prévues
-par l'article 6 du décret n° 99-433 du 27 mai 1999 relatif à la composition des chambres de métiers et de l'artisanat de
-région et de leurs sections, des chambres régionales de métiers et de l'artisanat et des chambres de métiers et de
-l'artisanat départementales et à l'élection de leurs membres et ceux qui ne relèvent plus, de la catégorie à laquelle ils
-appartenaient au moment de leur élection.
+Sont déclarés démissionnaires d'office par le préfet de région, après avis de l'assemblée générale de la chambre de métiers
+et de l'artisanat, les membres qui cessent au cours de leur mandat de répondre aux conditions d'éligibilité prévues par
+l'article 6 du décret n° 99-433 du 27 mai 1999 relatif à la composition des établissements du réseau et de leurs délégations
+et à l'élection de leurs membres.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°99-433 du 27 mai 1999 - art. 6 (V)
+	  - Décret n°99-433 du 27 mai 1999 - art. 6
 
 	**Modifié par**:
 
-	  - Décret n°2011-644 du 9 juin 2011 - art. 1 (V)
+	  - Décret n°2017-343 du 16 mars 2017 - art. 2
 
 	**Cité par**:
 
@@ -450,17 +427,16 @@ appartenaient au moment de leur élection.
 
 ###### Article 17
 
-Les chambres de métiers et de l'artisanat de région peuvent être supprimées par décret, pris sur le rapport du ministre
-chargé de l'artisanat et, le cas échéant, du ministre chargé de l'outre-mer.
+Les chambres de métiers et de l'artisanat peuvent être supprimées par décret, pris sur le rapport du ministre chargé de
+l'artisanat et, le cas échéant, du ministre chargé de l'outre-mer.
 
-L'assemblée générale d'une chambre de métiers et de l'artisanat de région peut être dissoute par arrêté de l'autorité de
-tutelle. 
+L'assemblée générale d'une chambre de métiers et de l'artisanat peut être dissoute par arrêté du préfet de région.
 
-En cas de dissolution, une commission composée de trois à neuf membres artisans désignés par arrêté de l'autorité de tutelle
-administre provisoirement la chambre de métiers et de l'artisanat de région dans l'attente de nouvelles élections. Les
-élections pour le remplacement des membres d'une assemblée générale dissoute doivent avoir lieu dans un délai de quatre mois
-à partir de la publication du décret de dissolution. Toutefois, si une révision de la liste électorale a été prescrite à la
-suite de la dissolution, le délai fixé court à partir du jour où la révision de cette liste a pris fin. 
+En cas de dissolution, une commission composée de trois à neuf membres artisans désignés par arrêté du préfet de région
+administre provisoirement la chambre de métiers et de l'artisanat dans l'attente de nouvelles élections. Les élections pour
+le remplacement des membres d'une assemblée générale dissoute doivent avoir lieu dans un délai de quatre mois à partir de la
+publication de l'arrêté de dissolution. Toutefois, si une révision de la liste électorale a été prescrite à la suite de la
+dissolution, le délai fixé court à partir du jour où la révision de cette liste a pris fin.
 
 Si cette dissolution intervient dans les douze mois précédant le renouvellement général, il n'est procédé à aucune élection.
 
@@ -478,25 +454,30 @@ Si cette dissolution intervient dans les douze mois précédant le renouvellemen
 
 	**Modifié par**:
 
-	  - Décret n°2015-1401 du 3 novembre 2015 - art. 1
+	  - Décret n°2017-343 du 16 mars 2017 - art. 3
 
 
 ## Chapitre II : Fonctionnement.
 
 ###### Article 18
 
-Les fonctions des membres des chambres de métiers et de l'artisanat de région, des chambres régionales de métiers et de
-l'artisanat et des chambres de métiers et de l'artisanat départementales sont gratuites. Toutefois, une délibération peut
-prévoir l'attribution au président et au trésorier d'indemnités de fonctions, l'attribution aux autres membres de vacations,
-et le remboursement de frais de déplacement et de représentation. 
+Les fonctions des membres des chambres de métiers et de l'artisanat et de leurs délégations sont gratuites. Toutefois une
+délibération peut prévoir, outre le remboursement de frais de déplacement et de représentation, l'attribution :
+
+- d'indemnités de fonctions aux présidents et aux trésoriers des chambres, aux présidents des délégations départementales et
+aux vice-présidents des chambres de niveau régional ;
+
+- d'indemnités de vacations aux autres membres des chambres.
 
 Un arrêté conjoint du ministre chargé de l'artisanat et du ministre chargé du budget fixe le montant maximal des indemnités,
-le montant maximal unitaire et annuel et les modalités d'attribution des vacations, ainsi que les conditions de remboursement
-des frais de représentation et de déplacement. 
+le montant maximal unitaire et annuel et les modalités d'attribution des vacations, les conditions de remboursement des frais
+de représentation et de déplacement, ainsi que les règles de cumul de ceux-ci lorsqu'un élu est membre de plusieurs
+établissements du réseau des chambres de métiers et de l'artisanat.
 
-Les membres associés aux chambres de métiers et de l'artisanat de région et aux chambres de métiers et de l'artisanat
-départementales mentionnés à l'article 21 peuvent bénéficier du remboursement de leurs frais de déplacement, selon les
-conditions fixées par l'arrêté prévu à l'alinéa précédent.
+Une délibération peut prévoir l'attribution aux membres associés d'une chambre de métiers et de l'artisanat de région et
+d'une chambre de métiers et de l'artisanat départementale et interdépartementale mentionnés à l'article 21 d'indemnités de
+vacation, et le remboursement de leurs frais de déplacement, selon les conditions fixées par l'arrêté prévu à l'alinéa
+précédent.
 
 **Liens relatifs à cet article**
 
@@ -504,393 +485,274 @@ conditions fixées par l'arrêté prévu à l'alinéa précédent.
 
 	  - Décret n°52-849 du 16 juillet 1952
 
-	**Modifié par**:
-
-	  - Décret n°2011-350 du 30 mars 2011 - art. 1
-
 	**Cité par**:
 
 	  - Arrêté du 12 mai 2011 - art. 1 (V)
 	  - Code de la sécurité sociale. - art. D311-1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-343 du 16 mars 2017 - art. 4
+
 	**Cite**:
 
-	  - Code de l'artisanat - art. 21
+	  - Code de l'artisanat - art. 21 (V)
 
 
 ###### Article 19
 
-I.-L'installation de l'assemblée générale des chambres de métiers et de l'artisanat de région, des chambres régionales de
-métiers et de l'artisanat et des chambres de métiers et de l'artisanat départementales a lieu trente jours au plus tard après
-la proclamation des résultats des élections, sur convocation du président sortant ou, à défaut, de l'autorité de tutelle. 
+I.-L'installation de l'assemblée générale des chambres de métiers et de l'artisanat a lieu trente jours au plus tard après la
+proclamation des résultats des élections, sur convocation du président sortant ou, à défaut, du préfet de région.
 
-Il est procédé au cours de cette séance à l'élection des membres du bureau. 
+Il est procédé au cours de cette séance à l'élection des membres du bureau.
 
 Les assemblées générales désignent parmi leurs membres en exercice un bureau composé d'un président, d'un ou plusieurs vice-
-présidents, d'un trésorier, d'un trésorier adjoint et, le cas échéant, pour la chambre de métiers et de l'artisanat de
-région, d'un trésorier adjoint par section, dont la compétence est limitée à la section concernée, d'un secrétaire et d'un ou
-plusieurs secrétaires adjoints. 
+présidents, d'un trésorier, d'un trésorier adjoint, d'un secrétaire et d'un ou plusieurs secrétaires adjoints.
 
-Le bureau d'une chambre de métiers et de l'artisanat de région ne peut comprendre plus de membres que celui figurant sur le
-tableau suivant, y compris les membres de droit : 
+Le bureau d'une chambre de métiers et de l'artisanat départementale comprend au plus douze membres.
 
-<table>
-  <tbody>
-    <tr>
-      <th>
+Le bureau d'une chambre de métiers et de l'artisanat interdépartementale est composé d'un nombre égal de membres par
+délégation départementale. Il comprend au plus le nombre de membres du bureau de la chambre régionale de métiers et de
+l'artisanat à laquelle elle est rattachée, figurant dans la colonne 3 du tableau ci-dessous.
 
-NOMBRE 
-
-de département (s) 
-
-dans la région 
-
-</th>
-      <th>
-
-NOMBRE 
-
-de membres du bureau 
-
-de la chambre 
-
-de métiers et de 
-
-l'artisanat de région 
-
-</th>
-      <th>
-
-NOMBRE 
-
-de membres du bureau 
-
-par département 
-
-</th>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 département 
-
-</td>
-      <td align="center">
-
-Au plus 12 
-
-</td>
-      <td align="center">
-
-Au plus 12 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 départements 
-
-</td>
-      <td align="center">
-
-Au plus 24 
-
-</td>
-      <td align="center">
-
-Au plus 12 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-3 départements 
-
-</td>
-      <td align="center">
-
-Au plus 24 
-
-</td>
-      <td align="center">
-
-Au plus 8 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-4 départements 
-
-</td>
-      <td align="center">
-
-Au plus 24 
-
-</td>
-      <td align="center">
-
-Au plus 6 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-5 départements 
-
-</td>
-      <td align="center">
-
-Au plus 25 
-
-</td>
-      <td align="center">
-
-Au plus 5 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-6 départements 
-
-</td>
-      <td align="center">
-
-Au plus 24 
-
-</td>
-      <td align="center">
-
-Au plus 4 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-8 départements 
-
-</td>
-      <td align="center">
-
-Au plus 24 
-
-</td>
-      <td align="center">
-
-Au plus 3 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-Le bureau d'une chambre régionale de métiers et de l'artisanat ne peut comprendre plus de membres que celui figurant sur le
-tableau suivant, y compris les membres de droit : 
+Le bureau d'une chambre de métiers et de l'artisanat de niveau régional ne peut comprendre plus de membres que celui figurant
+sur le tableau suivant, y compris les membres de droit :
 
 <table>
   <tbody>
     <tr>
       <th>
 
-NOMBRE 
+NOMBRE DE DÉPARTEMENT (S)
 
-de département (s) 
-
-dans la région 
-
-</th>
+dans la région</th>
       <th>
 
-NOMBRE 
+NOMBRE MAXIMUM
 
-de membres du bureau 
+de membres du bureau
 
-de la chambre régionale 
-
-de métiers et de l'artisanat 
-
-</th>
+par département</th>
       <th>
 
-NOMBRE 
+NOMBRE MAXIMUM DE MEMBRES
 
-de membres du bureau 
+du bureau de la chambre de métiers
 
-par département 
+et de l'artisanat de région ou de la chambre
 
-</th>
+régionale de métiers et de l'artisanat</th>
     </tr>
     <tr>
       <td align="center">
 
-2 départements 
-
-</td>
+1 département</td>
       <td align="center">
 
-Au plus 14 
-
-</td>
+12</td>
       <td align="center">
 
-Au plus 7 
-
-</td>
+12</td>
     </tr>
     <tr>
       <td align="center">
 
-3 départements 
-
-</td>
+2 départements</td>
       <td align="center">
 
-Au plus 15 
-
-</td>
+12</td>
       <td align="center">
 
-Au plus 5 
-
-</td>
+24</td>
     </tr>
     <tr>
       <td align="center">
 
-4 départements 
-
-</td>
+3 départements</td>
       <td align="center">
 
-Au plus 16 
-
-</td>
+8</td>
       <td align="center">
 
-Au plus 4 
-
-</td>
+24</td>
     </tr>
     <tr>
       <td align="center">
 
-5 départements 
-
-</td>
+4 départements</td>
       <td align="center">
 
-Au plus 20 
-
-</td>
+6</td>
       <td align="center">
 
-Au plus 4 
-
-</td>
+24</td>
     </tr>
     <tr>
       <td align="center">
 
-6 départements 
-
-</td>
+5 départements</td>
       <td align="center">
 
-Au plus 24 
-
-</td>
+5</td>
       <td align="center">
 
-Au plus 4 
-
-</td>
+25</td>
     </tr>
     <tr>
       <td align="center">
 
-8 départements 
-
-</td>
+6 départements</td>
       <td align="center">
 
-Au plus 24 
-
-</td>
+4</td>
       <td align="center">
 
-Au plus 3 
+24</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+7 départements</td>
+      <td align="center">
+
+3</td>
+      <td align="center">
+
+21</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+8 départements</td>
+      <td align="center">
+
+3</td>
+      <td align="center">
+
+24</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 départements</td>
+      <td align="center">
+
+2</td>
+      <td align="center">
+
+18</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+10 départements</td>
+      <td align="center">
+
+2</td>
+      <td align="center">
+
+20</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+11 départements</td>
+      <td align="center">
+
+2</td>
+      <td align="center">
+
+22</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+12 départements</td>
+      <td align="center">
+
+2</td>
+      <td align="center">
+
+24</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+13 départements</td>
+      <td align="center">
+
+2</td>
+      <td align="center">
+
+26
 
 </td>
     </tr>
   </tbody>
 </table>
 
-Le bureau d'une chambre de métiers et de l'artisanat de région et d'une chambre régionale de métiers et de l'artisanat
-comprend le même nombre de membres pour chacun des départements de la circonscription régionale concernée. 
+Le bureau d'une chambre de métiers et de l'artisanat de niveau régional comprend le même nombre de membres pour chacun des
+départements de la circonscription régionale concernée.
 
-Le bureau d'une chambre de métiers et de l'artisanat départementale ne peut comprendre plus de douze membres. ; 
-
-II.-Les membres du bureau d'une chambre de métiers et de l'artisanat de région et d'une chambre régionale de métiers et de
-l'artisanat, autres que les membres de droit, sont élus à bulletin secret par les membres de l'assemblée générale de la
-chambre par un premier scrutin destiné à assurer la représentation de chacun des départements de la circonscription régionale
-concernée en application du I. Puis sont élus, parmi les membres désignés lors du premier scrutin et les membres de droit,
-les titulaires de chaque poste au sein du bureau. Un scrutin distinct est organisé pour chaque poste. Pour chacun de ces
-scrutins, l'élection a lieu à la majorité absolue des suffrages exprimés par les membres présents aux deux premiers tours et
-à la majorité relative au troisième tour. En cas d'égalité des voix, le plus jeune est élu. 
+II.-Les membres du bureau d'une chambre de métiers et de l'artisanat de région, d'une chambre régionale de métiers et de
+l'artisanat et d'une chambre de métiers et de l'artisanat interdépartementale, autres que les membres de droit, sont élus à
+bulletin secret par les membres de l'assemblée générale de la chambre par un premier scrutin destiné à assurer la
+représentation de chacun des départements de la circonscription régionale concernée en application du I. Puis sont élus,
+parmi les membres désignés lors du premier scrutin et les membres de droit, les titulaires de chaque poste au sein du bureau.
+Un scrutin distinct est organisé pour chaque poste. Pour chacun de ces scrutins, l'élection a lieu à la majorité absolue des
+suffrages exprimés par les membres présents aux deux premiers tours et à la majorité relative au troisième tour. En cas
+d'égalité des voix, le plus jeune est élu.
 
 Les membres du bureau d'une chambre de métiers et de l'artisanat départementale sont élus à bulletin secret par les membres
 de l'assemblée générale par un scrutin distinct pour chaque poste. L'élection des membres du bureau a lieu à la majorité
 absolue des suffrages exprimés aux deux premiers tours et à la majorité relative au troisième. En cas d'égalité des voix, le
-plus jeune est élu. 
+plus jeune est élu.
 
-Le bureau se réunit au moins tous les deux mois sur convocation de son président. 
+Le bureau se réunit au moins tous les deux mois sur convocation de son président.
 
-Le bureau est élu après chaque renouvellement général ou intégral de la chambre de métiers et de l'artisanat de région, des
-chambres régionales de métiers et de l'artisanat et des chambres de métiers et de l'artisanat départementales. Les membres
-sortants sont rééligibles. Ils demeurent en fonction jusqu'à la date d'installation des membres proclamés élus. A compter de
-la date des élections, le bureau sortant ne peut procéder qu'aux actes conservatoires et urgents. 
+Le bureau est élu après chaque renouvellement quinquennal ou intégral de la chambre de métiers et de l'artisanat. Ils
+demeurent en fonction jusqu'à la date d'installation des membres proclamés élus. A compter de la date des élections, le
+bureau sortant ne peut procéder qu'aux actes conservatoires et urgents.
 
-Lorsque le bureau n'est plus en mesure d'exercer ses attributions, l'autorité de tutelle peut procéder, par arrêté, à sa
-dissolution. Une assemblée générale extraordinaire est convoquée par l'autorité de tutelle pour procéder au renouvellement du
-bureau dans les quinze jours suivant cette décision. 
+Lorsque le bureau n'est plus en mesure d'exercer ses attributions, le préfet de région peut procéder, par arrêté motivé, à sa
+dissolution. Une assemblée générale extraordinaire est convoquée par le préfet de région pour procéder au renouvellement du
+bureau dans les quinze jours suivant cette décision.
+
+Le cas échéant, les votes prévus au présent II peuvent s'exercer par voie électronique au moyen d'un procédé préservant le
+secret du vote.
 
 III.-Les fonctions d'ordonnateur des dépenses sont exercées par le président qui peut, avec l'agrément du bureau, les
-déléguer à un vice-président. Les fonctions de comptable sont exercées par le trésorier qui peut, avec l'agrément du bureau,
-les déléguer au trésorier adjoint. Les conditions dans lesquelles le président et le trésorier peuvent déléguer leur
-signature au secrétaire général ou, sur sa proposition, à d'autres agents permanents de la chambre sont fixées par le
-règlement intérieur prévu à l'article 8 bis du décret du 30 décembre 1964. 
+déléguer à un ou plusieurs élus membres du bureau, à l'exception du trésorier et du trésorier adjoint. Les fonctions de
+comptable sont exercées par le trésorier qui peut, avec l'agrément du bureau, les déléguer au trésorier adjoint.
 
-En cas d'absence ou d'empêchement du président, les fonctions d'ordonnateur sont exercées par un vice-président dans l'ordre
-du tableau. En cas d'absence ou d'empêchement du trésorier, les fonctions de comptable sont assurées par le trésorier
-adjoint. En cas d'empêchement du trésorier et du trésorier adjoint, une assemblée générale extraordinaire est convoquée par
-le président, le premier vice-président ou, à défaut, par l'autorité de tutelle pour élire leurs remplaçants. 
+Hors les cas de délégation ou d'absence du délégataire, en cas d'absence ou d'empêchement du président, les fonctions
+d'ordonnateur sont exercées par un vice-président dans l'ordre du tableau. En cas d'absence ou d'empêchement du trésorier,
+les fonctions de comptable sont assurées par le trésorier adjoint. En cas d'empêchement du trésorier et du trésorier adjoint,
+une assemblée générale extraordinaire est convoquée par le président, le premier vice-président ou, à défaut, par le préfet
+de région pour élire leurs remplaçants.
 
 Les autres fonctions du président peuvent faire l'objet d'une délégation de signature à un ou plusieurs membres élus de la
 chambre.
 
-Les délégations sont écrites et indiquent leur durée. Elles sont transmises à l'autorité de tutelle et publiées.
+Les conditions dans lesquelles le président et le trésorier peuvent déléguer leur signature au secrétaire général ou, sur sa
+proposition, à d'autres agents permanents de la chambre sont fixées par le règlement intérieur prévu à l'article 22.
+
+Les délégations sont écrites et indiquent leur durée. Elles sont transmises au préfet de région et publiées.
 
 Des régies de recettes et des régies d'avances destinées à traiter des opérations de faible importance, urgentes ou
 répétitives peuvent être instituées par le président, avec l'accord du trésorier, dans des conditions déterminées par arrêté
-conjoint des ministres chargés de l'artisanat et du budget. 
+conjoint des ministres chargés de l'artisanat et du budget.
 
-IV.-La démission du président, des membres du bureau et des autres membres de la chambre est adressée à l'autorité de tutelle
-par lettre recommandée avec accusé de réception ou tout autre moyen permettant d'en attester la réception par son
-destinataire.
+IV.-La démission du président, des membres du bureau et des autres membres de la chambre est adressée au préfet de région par
+lettre recommandée avec accusé de réception ou tout autre moyen permettant d'en attester la réception par son destinataire.
 
-La démission d'un membre de la chambre de métiers et de l'artisanat de région ou de la chambre régionale de métiers et de
-l'artisanat entraîne sa démission de la chambre de métiers et de l'artisanat départementale au titre de laquelle il a été élu
-ou sa démission de la section dont il est membre. 
+La démission d'un membre de la chambre régionale de métiers et de l'artisanat entraîne sa démission de la chambre de métiers
+et de l'artisanat départementale ou de la délégation de la chambre de métiers et de l'artisanat interdépartementale au titre
+de laquelle il a été élu.
 
-La démission d'un membre de droit du bureau d'une chambre régionale de métiers et de l'artisanat ou d'une chambre de métiers
-et de l'artisanat de région de son poste détenu au sein du bureau ne vaut pas démission du bureau.
+La démission d'un membre de droit du bureau d'une chambre régionale de métiers et de l'artisanat, d'une chambre de métiers et
+de l'artisanat de région ou d'une chambre de métiers et de l'artisanat interdépartementale de son poste détenu au sein du
+bureau ne vaut pas démission du bureau.
 
 Les autres membres du bureau qui démissionnent de leur poste détenu au sein du bureau démissionnent également du bureau. En
 ce cas, un scrutin est organisé pour désigner un remplaçant au sein du bureau conformément au premier alinéa du II.
@@ -898,19 +760,20 @@ ce cas, un scrutin est organisé pour désigner un remplaçant au sein du bureau
 En cas de démission d'un poste au sein du bureau, un scrutin est organisé pour désigner le titulaire du poste libéré au sein
 du bureau conformément au deuxième alinéa du II.
 
-Les candidats pour le remplacement du membre démissionnaire doivent être des élus du département de ce membre.
+Les candidats pour le remplacement du membre démissionnaire doivent être des élus du département ou de la même délégation que
+ce membre.
 
-Les membres du bureau, autres que les membres de droit, qui se sont abstenus, sans motif légitime, d'assister à trois séances
-consécutives auxquelles ils étaient régulièrement convoqués sont déclarés démissionnaires du bureau par l'autorité de
-tutelle, après avis de l'assemblée générale de la chambre. 
+Les membres du bureau, autres que les membres de droit, qui se sont abstenus, sans motif légitime, d'assister à deux séances
+consécutives auxquelles ils étaient régulièrement convoqués sont déclarés démissionnaires du bureau par le préfet de région,
+après avis de l'assemblée générale de la chambre.
 
-L'autorité de tutelle peut, en cas de faute grave dans l'exercice des fonctions et par arrêté motivé pris après que
-l'intéressé a été mis à même de faire valoir ses observations, suspendre ou mettre fin aux fonctions d'un membre de la
-chambre, d'un membre du bureau ou du président. 
+Le préfet de région peut, en cas de faute grave dans l'exercice des fonctions et par arrêté motivé pris après que l'intéressé
+a été mis à même de faire valoir ses observations, suspendre ou mettre fin aux fonctions d'un membre de la chambre, d'un
+membre du bureau ou du président.
 
 En cas de vacance pour quelque cause que ce soit d'un membre du bureau, il est pourvu à son remplacement au cours de la
 première réunion de l'assemblée générale de la chambre qui suit la vacance. En cas d'urgence, une assemblée générale
-extraordinaire peut être convoquée par son président, son premier vice-président ou, à défaut, par l'autorité de tutelle dans
+extraordinaire peut être convoquée par son président, son premier vice-président ou, à défaut, par le préfet de région dans
 le délai d'un mois pour élire le remplaçant.
 
 **Liens relatifs à cet article**
@@ -927,17 +790,17 @@ le délai d'un mois pour élire le remplaçant.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1401 du 3 novembre 2015 - art. 2
+	  - Décret n°2017-343 du 16 mars 2017 - art. 5
 
 
 ###### Article 19 bis
 
-Sous réserve des dispositions du statut du personnel des       chambres de métiers et de l'artisanat de région établi en
-application de la loi n° 52-1311 du 10 décembre 1952, le président peut conclure des transactions, après y avoir été autorisé
-pour chaque affaire, par délibération de l'assemblée générale de la chambre de métiers et de l'artisanat de région ou, en cas
-d'urgence, après autorisation du bureau. Le projet de transaction est soumis à l'approbation du préfet au-delà d'un seuil
-fixé par le ministre chargé de l'artisanat. Il est réputé approuvé si une décision contraire motivée du préfet n'a pas été
-notifiée au président dans un délai de trente jours courant à compter de sa réception.
+Sous réserve des dispositions du statut du personnel des chambres de métiers et de l'artisanat établi en application de la
+loi n° 52-1311 du 10 décembre 1952, le président peut conclure des transactions, après y avoir été autorisé pour chaque
+affaire, par délibération de l'assemblée générale de la chambre de métiers et de l'artisanat de région ou, en cas d'urgence,
+après autorisation du bureau. Le projet de transaction est soumis à l'approbation du préfet de région au-delà d'un seuil fixé
+par le ministre chargé de l'artisanat. Il est réputé approuvé si une décision contraire motivée du préfet de région n'a pas
+été notifiée au président dans un délai de trente jours courant à compter de sa réception.
 
 **Liens relatifs à cet article**
 
@@ -949,63 +812,59 @@ notifiée au président dans un délai de trente jours courant à compter de sa 
 
 	  - Loi n°52-1311 du 10 décembre 1952
 
-	**Modifié par**:
-
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
-
 	**Cité par**:
 
 	  - Arrêté du 17 décembre 2010 - art. 1 (V)
 	  - Code de l'artisanat - art. 81 bis (M)
 
+	**Modifié par**:
+
+	  - Décret n°2017-343 du 16 mars 2017 - art. 6
+
 
 ###### Article 19 quater
 
-L'élection du président et du bureau des chambres de métiers et de l'artisanat départementales précède celle du président et
-du bureau de la chambre de métiers et de l'artisanat de région ou de la chambre régionale de métiers et de l'artisanat à
-laquelle elles sont rattachées. 
+I.-Les élections du président et du bureau des chambres de métiers et de l'artisanat départementales et des chambres de
+métiers et de l'artisanat interdépartementales précèdent celles du président et du bureau des chambres régionales de métiers
+et de l'artisanat.
 
-Les présidents des chambres de métiers et de l'artisanat départementales sont élus parmi les membres de la chambre de métiers
-et de l'artisanat de région ou de la chambre régionale de métiers et de l'artisanat à laquelle ces chambres sont rattachées. 
+Les présidents des chambres de métiers et de l'artisanat départementales et des chambres de métiers et de l'artisanat
+interdépartementales sont élus parmi les membres siégeant à la chambre régionale de métiers et de l'artisanat.
 
-Ils sont membres de droit du bureau de la chambre de métiers et de l'artisanat de région ou de la chambre régionale de
-métiers et de l'artisanat à laquelle ces chambres sont rattachées.
+Chaque président de chambre de métiers et de l'artisanat départementale et chaque président de chambre de métiers et de
+l'artisanat interdépartementale est membre de droit du bureau de la chambre régionale de métiers et de l'artisanat.
 
-**Liens relatifs à cet article**
+II.-Les délégations départementales ne disposent pas de la personnalité morale.
 
-	**Créé par**:
+Elles élisent un président et un vice-président en leur sein.
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 5
+L'élection du président de délégation de chambre de métiers et de l'artisanat interdépartementale précède celle des membres
+du bureau de la chambre de métiers et de l'artisanat interdépartementale et de la chambre régionale de métiers et de
+l'artisanat.
 
+L'élection du président de délégation de chambre de métiers et de l'artisanat de région précède celle des membres du bureau
+de la chambre de métiers et de l'artisanat de région.
 
-###### Article 19 quinquies
+Les présidents des délégations départementales de chambre de métiers et de l'artisanat interdépartementale sont élus parmi
+les membres de leur délégation départementale siégeant à la chambre de métiers et de l'artisanat interdépartementale et à la
+chambre régionale de métiers et de l'artisanat.
 
-Les sections départementales constituées au sein de la chambre de métiers et de l'artisanat de région ne disposent pas de la
-personnalité morale. 
+Les présidents des délégations départementales de chambre de métiers et de l'artisanat de région sont élus parmi les membres
+de la chambre de métiers et de l'artisanat de région.
 
-Les sections élisent un conseil de section, composé du président de section et d'un vice-président de section. Il comporte au
-plus six membres. 
+Chaque président de délégation de chambre de métiers et de l'artisanat interdépartementale est membre de droit du bureau de
+la chambre de métiers et de l'artisanat interdépartementale et du bureau de la chambre régionale de métiers et de
+l'artisanat.
 
-Chaque président de section est membre de droit du bureau de la chambre de métiers et de l'artisanat de région. 
+Chaque président de délégation de chambre de métiers et de l'artisanat de région est membre de droit du bureau de la chambre
+de métiers et de l'artisanat de région.
 
-Le secrétariat d'une section est assuré par le directeur départemental mentionné par le statut du personnel administratif des
-chambres de métiers et de l'artisanat de région, sous l'autorité du secrétaire général de la chambre de métiers et de
-l'artisanat de région. 
-
-Les règles de fonctionnement des sections sont fixées par le règlement intérieur de la chambre de métiers et de l'artisanat
-de région.
+Les règles de fonctionnement des délégations sont fixées par le règlement intérieur de la chambre de métiers et de
+l'artisanat de région ou de la chambre de métiers et de l'artisanat interdépartementale.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
-
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
-
-	**Créé par**:
-
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 6
-
-	**Abrogé par**:
 
 	  - Décret n°2017-343 du 16 mars 2017 - art. 7
 
@@ -1038,37 +897,37 @@ respect des règles de concurrence nationales et communautaires et n'ont pas fin
 
 ###### Article 20
 
-Les chambres de métiers et de l'artisanat de région se réunissent en assemblée générale au moins deux fois par an sur
-convocation du président de la chambre ou, à défaut, de l'autorité de tutelle. Toutefois, sur proposition du bureau ou sur
-demande d'un tiers des membres, elles sont convoquées pour une assemblée générale extraordinaire par le président ou, en cas
-de refus de celui-ci, par l'autorité de tutelle. 
+Les chambres de métiers et de l'artisanat se réunissent en assemblée générale au moins deux fois par an sur convocation du
+président de la chambre ou, à défaut, du préfet de région. Toutefois, sur proposition du bureau ou sur demande d'un tiers des
+membres, elles sont convoquées pour une assemblée générale extraordinaire par le président ou, en cas de refus de celui-ci,
+par le préfet de région.
 
 Les membres de l'assemblée générale sont informés au moins huit jours avant la date de la réunion. La convocation, adressée
-au domicile des intéressés, indique l'ordre du jour de la séance. 
+au domicile des intéressés, indique l'ordre du jour de la séance.
 
-Participent aux séances de l'assemblée générale de la chambre de métiers et de l'artisanat de région avec voix
-consultative : 
+Participent aux séances de l'assemblée générale de la chambre de métiers et de l'artisanat de région avec voix consultative :
 
-Les ministres chargés de l'artisanat et le ministre chargé de l'outre-mer, pour les chambres de métiers et de l'artisanat de
-région d'outre-mer ; 
+- le ministre chargé de l'artisanat et le ministre chargé de l'outre-mer, pour les chambres de métiers et de l'artisanat de
+région d'outre-mer ;
 
-L'autorité de tutelle, laquelle se fait assister de fonctionnaires appartenant aux administrations compétentes.
+- le préfet de région, ou son représentant, qui peut se faire assister des agents appartenant aux administrations
+compétentes.
 
 L'assemblée générale ne peut délibérer que si le quorum des membres présents constaté en début de séance dépasse la moitié du
 nombre des membres en exercice. Si le quorum n'est pas atteint, il est procédé, dans le mois qui suit, à une deuxième
 assemblée générale, convoquée au moins huit jours avant la date de sa réunion et avec le même ordre du jour. Cette assemblée
-générale se tient valablement si le nombre de membres présents atteint le tiers du nombre des membres en exercice. 
+générale se tient valablement si le nombre de membres présents atteint le tiers du nombre des membres en exercice.
 
 Les décisions sont prises à la majorité absolue des suffrages exprimés par les membres présents. En cas de partage des voix,
-celle du président est prépondérante. 
+celle du président est prépondérante.
 
 Les membres sortants siègent jusqu'à l'installation de leurs successeurs. Toutefois, à compter du jour de l'élection et
 jusqu'à celui de l'installation des nouveaux membres, la chambre ne peut se réunir que pour procéder à des actes
 conservatoires et urgents. La chambre ne peut modifier le règlement intérieur ni prendre aucune décision concernant le
-personnel pendant cette période. 
+personnel pendant cette période.
 
 Les membres qui se sont abstenus de se rendre à deux assemblées générales successives sans motif légitime sont déclarés
-démissionnaires par l'autorité de tutelle, après délibération de l'assemblée générale de la chambre.
+démissionnaires par le préfet de région, après délibération de l'assemblée générale de la chambre.
 
 **Liens relatifs à cet article**
 
@@ -1078,7 +937,7 @@ démissionnaires par l'autorité de tutelle, après délibération de l'assembl�
 
 	**Modifié par**:
 
-	  - Décret n°2015-1401 du 3 novembre 2015 - art. 3
+	  - Décret n°2017-343 du 16 mars 2017 - art. 8
 
 	**Cité par**:
 
@@ -1088,55 +947,43 @@ démissionnaires par l'autorité de tutelle, après délibération de l'assembl�
 
 ###### Article 20-1
 
-Lorsque l'assemblée générale d'une chambre de métiers et de l'artisanat de région, composée de sections et de chambres de
-métiers et de l'artisanat départementales qui lui sont rattachées, examine des questions propres aux sections qui la
-composent, tenant notamment à leur organisation, leur fonctionnement, leurs missions, ou des questions tenant à l'exercice
-des missions de la chambre de métiers et de l'artisanat de région dans les seules circonscriptions géographiques de ces
-sections, seuls les membres de la chambre de métiers et de l'artisanat de région élus dans les circonscriptions de ces
-sections siègent, prennent part aux débats et votent. 
+Il est tenu par chaque chambre de métiers et de l'artisanat de région un registre spécial sur lequel sont inscrites, par
+ordre de date, les délibérations de l'assemblée générale.
 
-L'assemblée générale ne peut alors délibérer que si le quorum des membres présents élus dans les circonscriptions des
-sections qui composent la chambre de métiers et de l'artisanat de région dépasse la moitié du nombre de membres en exercice
-élus dans ces circonscriptions. 
-
-Si le quorum n'est pas atteint, il est procédé, dans le mois qui suit, à une deuxième assemblée générale, convoquée au moins
-huit jours avant la date de sa réunion et avec le même ordre du jour. Cette assemblée générale se tient valablement si le
-nombre de membres présents atteint le tiers du nombre de membres en exercice élus dans les circonscriptions des sections qui
-composent la chambre de métiers et de l'artisanat de région. 
-
-Les décisions sont alors prises à la majorité absolue des suffrages exprimés par les membres présents élus dans les
-circonscriptions des sections qui composent la chambre de métiers et de l'artisanat de région. En cas de partage des voix,
-celle du président est prépondérante.
+Il est dressé un compte rendu de chaque séance de l'assemblée générale auquel est annexé un procès-verbal de présence
+indiquant les motifs des empêchés. Un exemplaire du compte rendu est adressé dans la quinzaine au ministre chargé de
+l'artisanat et au préfet de région. Le ministre chargé de l'outre-mer est également destinataire d'un exemplaire du compte
+rendu de chaque séance des assemblées des chambres de métiers et de l'artisanat d'outre-mer.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-1401 du 3 novembre 2015 - art. 4
+	  - Décret n°2017-343 du 16 mars 2017 - art. 9
 
 
 ###### Article 21
 
 I.-Des membres associés à la chambre de métiers et de l'artisanat de région et à la chambre de métiers et de l'artisanat
-départementale peuvent être désignés pour conseiller et assister les ressortissants dans des secteurs d'activité ou des zones
-géographiques déterminés. 
+départementale ou interdépartementale peuvent être désignés pour conseiller et assister les ressortissants dans des secteurs
+d'activité ou des zones géographiques déterminés.
 
-II.-Auprès de la chambre de métiers et de l'artisanat de région qui le décide, les membres associés sont désignés après
-chaque renouvellement général ou intégral par les membres élus au sein de chacune des sections définies au III de l'article
-5-2. 
+II.-Auprès de la chambre de métiers et de l'artisanat de région ou interdépartementale qui le décide, les membres associés
+sont désignés après chaque renouvellement quinquennal ou intégral par les membres élus au sein de chacune des délégations
+définies au III de l'article 5-2. 
 
 Auprès de la chambre de métiers et de l'artisanat départementale qui le décide, les membres associés sont désignés après
-chaque renouvellement général ou intégral par l'assemblée générale de la chambre. 
+chaque renouvellement quinquennal ou intégral par l'assemblée générale de la chambre.
 
-Le règlement intérieur fixe le mode de désignation des membres associés et pour chaque collège intéressé leur nombre, limité,
-sauf dérogation admise par l'autorité de tutelle, à la moitié au plus du nombre des membres élus. 
+Le règlement intérieur fixe le mode de désignation des membres associés et leur nombre, limité, sauf dérogation admise par le
+préfet de région, à la moitié au plus du nombre des membres élus.
 
 Les membres associés répondent aux conditions d'éligibilité prévues par l'article 6 du décret n° 99-433 du 27 mai 1999
-relatif à la composition des chambres de métiers et de l'artisanat de région et de leurs sections, des chambres régionales de
-métiers et de l'artisanat et des chambres de métiers et de l'artisanat départementales et à l'élection de leurs membres. 
+relatif à la composition des établissements du réseau des chambres de métiers et de l'artisanat et de leurs délégations et à
+l'élection de leurs membres.
 
 III.-Le règlement intérieur précise les missions des membres associés et les modalités de leur participation, à titre
-consultatif, aux délibérations de l'assemblée générale de la chambre. 
+consultatif, aux délibérations de l'assemblée générale de la chambre.
 
 IV.-Les chambres régionales de métiers et de l'artisanat ne désignent pas de membre associé.
 
@@ -1150,119 +997,216 @@ IV.-Les chambres régionales de métiers et de l'artisanat ne désignent pas de 
 	**Cité par**:
 
 	  - Décret n°2006-379 du 27 mars 2006 - art. 30 (V)
-	  - Code de l'artisanat - art. 18 (M)
+	  - Code de l'artisanat - art. 18 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2015-1401 du 3 novembre 2015 - art. 5
+	  - Décret n°2017-343 du 16 mars 2017 - art. 10
+
+
+###### Article 22
+
+Les chambres de métiers et de l'artisanat adoptent, sur proposition du bureau, leur règlement intérieur et son annexe, qui
+sont transmis, pour approbation, au préfet de région. A défaut d'approbation expresse ou d'opposition notifiée à la chambre
+au terme d'un délai de deux mois à compter de la réception de la demande par le préfet de région, cette autorisation est
+réputée accordée. La décision de refus est motivée.
+
+Lorsque le préfet de région demande par écrit à la chambre des informations ou documents complémentaires, le délai mentionné
+à l'alinéa précédent est suspendu jusqu'à la production de ces informations ou documents.
+
+Le règlement intérieur prévoit notamment la création des cinq commissions suivantes, dont il fixe les règles d'organisation
+et de fonctionnement :
+
+La commission des affaires générales, chargée notamment des questions relatives au fonctionnement et à l'organisation de la
+chambre à laquelle elle appartient.
+
+La commission de prévention des conflits d'intérêts, chargée notamment d'examiner et de donner un avis sur toute situation
+susceptible de créer un conflit d'intérêts entre la chambre et l'un de ses membres.
+
+La commission des finances, chargée notamment de l'examen des documents comptables et financiers préparés par le président et
+les membres du bureau ainsi que de la vérification et de l'apurement des comptes dressés par le trésorier.
+
+La commission du développement économique et territorial, chargée notamment des questions relatives à l'accompagnement des
+entreprises dans les différentes phases de leur développement, de l'aménagement et du développement économique des
+territoires.
+
+La commission de la formation professionnelle, chargée de l'étude de toutes les questions d'apprentissage et de
+perfectionnement professionnel.
+
+Les chambres de métiers et de l'artisanat départementales et interdépartementales peuvent créer une commission du
+développement économique et territorial et une commission de la formation professionnelle. Ces commissions se prononcent sur
+les questions qui relèvent de leurs compétences dans le cadre des orientations fixées par la chambre régionale de métiers et
+de l'artisanat à laquelle elles sont rattachées.
+
+Les membres des commissions sont désignés par l'assemblée générale.
+
+Le président et le trésorier de la chambre ne peuvent faire partie de la commission des finances. Le président de la chambre
+est membre de droit de toutes les autres commissions et peut les présider.
+
+Le règlement intérieur comporte un chapitre particulier concernant l'organisation des services de la chambre. Une annexe du
+règlement intérieur fixe la grille des emplois de la chambre et détermine le nombre, la nature et l'indice de base des
+emplois permanents.
+
+La chambre élabore également un règlement relatif au fonctionnement de ses services. Ce règlement est transmis au préfet de
+région pour information.
+
+Les services de la chambre sont dirigés par un secrétaire général, placé sous l'autorité du président.
+
+Le règlement intérieur comporte l'emploi correspondant, qui doit être pourvu en permanence dans les conditions prévues au
+statut du personnel des chambres de métiers et de l'artisanat établi en application de la loi n° 52-1311 du 10 décembre 1952.
+
+En cas de vacance, si le remplacement ne peut être immédiat, un agent est désigné à titre intérimaire par le président de la
+chambre de métiers et de l'artisanat. La nomination du secrétaire général doit alors intervenir dans le délai d'un an à
+compter de la vacance du poste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°52-849 du 16 juillet 1952
+
+	**Cite**:
+
+	  - Loi n°52-1311 du 10 décembre 1952
+
+	**Modifié par**:
+
+	  - Décret n°2017-343 du 16 mars 2017 - art. 11
+
+
+###### Article 22-1
+
+Dans les chambres de métiers et de l'artisanat de région et chambres de métiers et de l'artisanat interdépartementales, des
+commissions territoriales composées de membres élus peuvent être constituées au sein de chaque délégation départementale.
+
+Le territoire et les conditions de son animation sont définis par l'assemblée générale. Chaque commission territoriale
+présente un rapport annuel à l'assemblée générale rendant compte des résultats de son action sur son territoire qui est
+soumis à l'avis du bureau de la chambre de métiers et de l'artisanat de région ou interdépartementale dans les conditions
+fixées par le règlement intérieur de la chambre.
+
+Sur convocation du président de la chambre de métiers et de l'artisanat de région ou interdépartementale, les membres de la
+commission territoriale se réunissent pour se prononcer sur les questions relatives à leur territoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-343 du 16 mars 2017 - art. 12
+
+
+###### Article 22-2
+
+Les chambres des métiers et de l'artisanat de région et les chambres régionales de métiers et de l'artisanat peuvent
+s'entendre pour organiser un ou plusieurs services en commun. Les modalités de gestion et de financement de ce ou ces
+services sont fixées d'un commun accord.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-343 du 16 mars 2017 - art. 13
 
 
 ## Chapitre III : Attributions.
 
 ###### Article 23
 
-I.-Les chambres de métiers et de l'artisanat de région ont pour attributions : 
+I.-Les chambres de métiers et de l'artisanat de région ont pour attributions :
 
-1° De tenir le répertoire des métiers ; 
+1° De tenir le répertoire des métiers ;
 
 2° D'attribuer les titres de maître artisan dans les conditions prévues au premier alinéa de l'article 3 et au second alinéa
-de l'article 3 bis du décret n° 98-247 du 2 avril 1998 relatif à la qualification artisanale et au répertoire des métiers ; 
+de l'article 3 bis du décret n° 98-247 du 2 avril 1998 relatif à la qualification artisanale et au répertoire des métiers ;
 
-3° D'organiser l'apprentissage dans le secteur des métiers ; 
+3° D'organiser l'apprentissage dans le secteur des métiers ; d'encourager la coopération entre les organismes de formation
+initiale et continue dans le secteur des métiers sous la forme d'une université régionale des métiers et de l'artisanat ; de
+conclure avec la région la convention de création et de financement des centres de formation des apprentis de son ressort ;
 
-4° De favoriser la promotion professionnelle des chefs d'entreprise et des salariés de ce secteur ; 
+4° De favoriser la promotion professionnelle des chefs d'entreprise et des salariés de ce secteur ;
 
 4° bis D'évaluer les conditions d'aptitude professionnelle prévues à l'article L. 3120-2-1 du code des transports par un
 examen. Un comité national comprenant notamment des représentants de l'Etat et des représentants des professionnels
 intervenant dans le secteur du transport public particulier de personnes effectue le bilan de la mise en œuvre de cet examen,
-dans des conditions définies par décret en Conseil d'Etat. Il peut formuler des recommandations ; 
+dans des conditions définies par décret en Conseil d'Etat. Il peut formuler des recommandations ;
 
 5° Dans le cadre de la politique de l'aménagement du territoire et conformément aux directives du plan de contribuer, le cas
 échéant, à l'expansion du secteur des métiers et au maintien ou à l'élargissement des débouchés, notamment par l'organisation
-d'expositions ; 
+d'expositions ;
 
 6° D'améliorer la rentabilité des entreprises, la qualité des produits et des services, les techniques et les méthodes de
-production et de commercialisation en favorisant la collaboration entre entreprises et la création de services communs ; 
+production et de commercialisation en favorisant la collaboration entre entreprises et la création de services communs ;
 
-7° De créer des oeuvres d'entraide et d'assistance ou de concourir au fonctionnement de telles oeuvres ; 
+7° De créer des oeuvres d'entraide et d'assistance ou de concourir au fonctionnement de telles oeuvres ;
 
 8° De procéder à toutes études utiles intéressant le secteur des métiers et d'émettre des voeux ou des avis sur les matières
-relevant de leur compétence ; 
+relevant de leur compétence ;
 
 9° De participer à la prévention et au traitement des difficultés des entreprises artisanales, en liaison avec les services
 financiers de l'Etat, les organismes de recouvrement des cotisations sociales et toutes personnes morales, publiques ou
-privées concernées ; 
+privées concernées ;
 
-10° D'animer et de coordonner les actions en faveur des métiers d'art à l'échelon régional ; 
+10° D'animer et de coordonner les actions en faveur des métiers d'art à l'échelon régional ;
 
 11° De définir les orientations et de coordonner l'action des chambres de métiers et de l'artisanat départementales qui leur
-sont rattachées et celle de leurs sections afin de contribuer au développement économique du territoire régional et de fixer,
-dans le respect des dispositions de la sixième partie du code du travail et en application du décret n° 2004-1165 du 2
-novembre 2004, les priorités en matière d'actions de formation en faveur des chefs d'entreprise exerçant une activité
-artisanale, de leurs conjoints collaborateurs ou associés et de leurs auxiliaires familiaux dans le seul domaine de la
-gestion et du développement des entreprises, et d'assurer le traitement des demandes de financement de ces actions ; 
+sont rattachées et celle de leurs délégations afin de contribuer au développement économique du territoire régional et de
+fixer, dans le respect des dispositions de la sixième partie du code du travail, les priorités en matière d'actions de
+formation en faveur des chefs d'entreprise exerçant une activité artisanale, de leurs conjoints collaborateurs ou associés et
+de leurs auxiliaires familiaux dans le seul domaine de la gestion et du développement des entreprises, et d'assurer le
+traitement des demandes de financement de ces actions ;
 
 12° De participer au développement de la formation professionnelle initiale ou continue. A ce titre, chaque établissement du
 réseau peut, seul ou en collaboration avec d'autres partenaires, créer et gérer des établissements de formation
 professionnelle initiale et continue dans les conditions prévues par les articles L. 443-1 et L. 753-1 du code de l'éducation
 pour la formation initiale et dans le respect des dispositions du titre V du livre III de la sixième partie du code du
-travail qui leur sont applicables pour la formation continue ; 
+travail qui leur sont applicables pour la formation continue ;
 
 13° D'exercer une mission d'appui et de conseil, en coordination avec l'agence mentionnée à l'article 50 de la loi n°
-2003-721 du 1er août 2003, pour le développement international des entreprises et l'exportation de leur production ; 
+2003-721 du 1er août 2003, pour le développement international des entreprises et l'exportation de leur production ;
 
 14° D'être autorités compétentes conformément à l'article 32 de la loi n° 2010-853 du 23 juillet 2010 relative aux réseaux
 consulaires, au commerce, à l'artisanat et aux services, au décret n° 98-246 du 2 avril 1998 relatif à la qualification
 professionnelle exigée pour l'exercice des activités prévues à l'article 16 de la loi n° 96-603 du 5 juillet 1996 relative au
 développement et à la promotion du commerce et de l'artisanat et au décret n° 97-558 du 29 mai 1997 relatif aux conditions
 d'accès à la profession de coiffeur, et de coopérer à ce titre avec les autorités compétentes des autres Etats membres de
-l'Union européenne ou des Etats parties à l'accord sur l'Espace économique européen. 
+l'Union européenne ou des Etats parties à l'accord sur l'Espace économique européen.
 
 Ces attributions s'exercent, conformément à la réglementation propre à chaque matière, sous le contrôle du ministre chargé de
-l'artisanat et également, pour les questions relevant de sa compétence, du ministre de l'éducation nationale. 
+l'artisanat et également, pour les questions relevant de sa compétence, du ministre de l'éducation nationale.
 
 Les chambres de métiers et de l'artisanat de région peuvent également prêter leur concours aux organisations professionnelles
-du secteur des métiers. 
+du secteur des métiers.
 
 II.-Les chambres de métiers et de l'artisanat de région peuvent être consultées par les pouvoirs publics sur toute question
 relative à l'artisanat, au développement économique, à la formation professionnelle et à l'aménagement du territoire dans
-leur région. Elles peuvent, de leur propre initiative, émettre des avis et des vœux sur ces questions. 
+leur région. Elles peuvent, de leur propre initiative, émettre des avis sur ces questions.
 
 Elles peuvent être consultées par le conseil régional sur le contrat de plan régional de développement des formations et de
 l'orientation professionnelles mentionné à l'article L. 214-13 du code de l'éducation et, plus généralement, sur tout
-dispositif d'appui aux entreprises dont la région envisage la création. 
+dispositif d'appui aux entreprises dont la région envisage la création.
 
 Elles peuvent être consultées, à leur demande, sur l'élaboration des schémas de cohérence territoriale et des plans locaux
 d'urbanisme mentionnés à l'article L. 132-7 du code de l'urbanisme et peuvent réaliser, de leur propre initiative, les études
-économiques nécessaires à la préparation des documents prévisionnels d'organisation artisanale. 
+économiques nécessaires à la préparation des documents prévisionnels d'organisation artisanale.
 
-III.-Les chambres de métiers et de l'artisanat de région peuvent être autorisées par l'autorité de tutelle dans les domaines
-relevant de leur compétence à : 
+III.-Les chambres de métiers et de l'artisanat de région peuvent être autorisées par le préfet de région dans les domaines
+relevant de leur compétence à :
 
 1° Adhérer à des syndicats mixtes créés en application des articles L. 5721-1 et suivants du code général des collectivités
-territoriales ; 
+territoriales ;
 
 2° Participer à des sociétés d'économie mixte et, dans les conditions prévues par la loi n° 43-612 du 17 novembre 1943 sur la
-gestion des intérêts professionnels, à des sociétés professionnelles ou à des établissements professionnels ; 
+gestion des intérêts professionnels, à des sociétés professionnelles ou à des établissements professionnels ;
 
 3° Souscrire des parts ou des actions de sociétés s'inscrivant dans leur domaine de spécialité ;
 
-4° Participer à des associations s'inscrivant dans leur domaine de spécialité. 
+4° Participer à des associations s'inscrivant dans leur domaine de spécialité.
 
 A défaut d'approbation expresse ou d'opposition notifiée à la chambre au terme d'un délai de deux mois à compter de la
 réception de la demande par l'autorité de tutelle, ces autorisations sont réputées accordées. Les décisions de refus sont
-motivées. 
+motivées.
 
 Lorsque l'autorité de tutelle demande par écrit à la chambre des informations ou documents complémentaires, le délai
-mentionné à l'alinéa précédent est suspendu jusqu'à la production de ces informations ou documents. 
-
-IV.-Les chambres de métiers et de l'artisanat de région exercent les fonctions administratives prévues au II de l'article
-23-1 ci-après, y compris à l'égard des chambres de métiers et de l'artisanat départementales qui leur sont rattachées.
-
-**Nota:**
-
-Aux termes du VII de l'article 10 de la loi n° 2015-991 du 7 août 2015, ces dispositions entrent en vigueur à la date de
-publication de l'ordonnance prévue au III de l'article 13 de ladite loi.
+mentionné à l'alinéa précédent est suspendu jusqu'à la production de ces informations ou documents.
 
 **Liens relatifs à cet article**
 
@@ -1272,14 +1216,14 @@ publication de l'ordonnance prévue au III de l'article 13 de ladite loi.
 	  - Loi n°96-603 du 5 juillet 1996 - art. 16
 	  - Décret n°97-558 du 29 mai 1997
 	  - Décret n°98-246 du 2 avril 1998
-	  - Décret n°98-247 du 2 avril 1998 - art. 3 bis (V)
+	  - Décret n°98-247 du 2 avril 1998 - art. 3 bis
 	  - Décret n°2004-1165 du 2 novembre 2004
 	  - Loi n°2010-853 du 23 juillet 2010 - art. 32
 	  - Code général des collectivités territoriales - art. L5721-1
-	  - Code de l'éducation - art. L214-13 (V)
+	  - Code de l'éducation - art. L214-13
 	  - Code de l'éducation - art. L443-1
 	  - Code de l'éducation - art. L753-1
-	  - Code de l'urbanisme - art. L132-7 (V)
+	  - Code de l'urbanisme - art. L132-7
 	  - Code des transports - art. L3120-2-1
 
 	**Cité par**:
@@ -1305,7 +1249,7 @@ publication de l'ordonnance prévue au III de l'article 13 de ladite loi.
 
 	**Modifié par**:
 
-	  - Loi n°2016-1920 du 29 décembre 2016 - art. 10
+	  - Décret n°2017-343 du 16 mars 2017 - art. 14
 
 
 ###### Article 23-1
@@ -1313,25 +1257,29 @@ publication de l'ordonnance prévue au III de l'article 13 de ladite loi.
 I. - Les chambres régionales de métiers et de l'artisanat exercent les missions mentionnées au I de l'article 23, à
 l'exception de celles mentionnées aux 1°, 2° et 14°. Elles peuvent exercer les attributions mentionnées au II de l'article
 23. Elles peuvent exercer les attributions mentionnées au III de l'article 23 à condition, pour chaque opération, d'y être
-autorisées par l'autorité de tutelle.
+autorisées par le préfet de région.
 
 II. - Les chambres régionales de métiers et de l'artisanat exercent, pour leur propre compte et celui des chambres de métiers
-et de l'artisanat départementales qui leur sont rattachées, les fonctions suivantes, dans le respect des prérogatives de
-l'assemblée permanente des chambres de métiers et de l'artisanat :
+et de l'artisanat départementales et interdépartementales qui leur sont rattachées, les fonctions suivantes, dans le respect
+des prérogatives de l'assemblée permanente des chambres de métiers et de l'artisanat fixées par le décret n° 66-137 du 7 mars
+1966 modifié :
 
 1° Elles réalisent et mettent en œuvre les actions de communication du réseau régional, sans préjudice des actions
-événementielles locales spécifiques aux chambres de métiers et de l'artisanat départementales qui leur sont rattachées ;
+événementielles locales spécifiques aux chambres de métiers et de l'artisanat départementales et interdépartementales qui
+leur sont rattachées ;
 
 2° Elles tiennent les comptabilités générale, auxiliaire, budgétaire et analytique. Elles remplissent les formalités fiscales
 et sont responsables de tous les processus associés, pour le compte des chambres de métiers et de l'artisanat départementales
 qui leur sont rattachées. Elles gèrent les moyens humains, administratifs et informatiques de la fonction comptabilité
 finance des chambres de métiers et de l'artisanat départementales qui leur sont rattachées. Elles sont garantes de
 l'application des règles et normes comptables et budgétaires du réseau régional et assurent les paramétrages régionaux et
-départementaux des outils informatiques ;
+départementaux des outils informatiques. Les chambres de métiers et de l'artisanat départementales et interdépartementales
+transmettent leurs projets de budgets à la chambre régionale de métiers et de l'artisanat en vue de leur prise en compte dans
+l'élaboration de son budget, voté avant le 1er décembre de chaque année ;
 
 3° Elles mutualisent et passent les marchés et accords-cadres dont le montant est supérieur au seuil de publicité obligatoire
-mentionné au III de l'article 40 du code des marchés publics. A cet effet, elles procèdent chaque année au recensement des
-besoins de chacun des établissements de la région ;
+mentionné au b du 1° du I de l'article 34 du décret n° 2016-360 du 25 mars 2016 relatif aux marchés publics. A cet effet,
+elles procèdent chaque année au recensement des besoins de chacun des établissements de la région ;
 
 4° Elles effectuent l'ensemble des opérations liées à la rémunération des agents des chambres de métiers et de l'artisanat
 départementales qui leur sont rattachées, à partir des éléments transmis par ces établissements ;
@@ -1344,15 +1292,11 @@ b) Elles assurent la gestion administrative et informatique des centres de forma
 métiers tenus par les chambres départementales qui leur sont rattachées ; cette compétence exclut l'accueil du public ;
 
 6° Elles assurent une mission d'appui et de conseil pour la gestion du personnel auprès des chambres de métiers et de
-l'artisanat départementales qui leur sont rattachées ;
+l'artisanat départementales et interdépartementales qui leur sont rattachées ;
 
 7° Elles emploient et gèrent l'ensemble des personnels exerçant les fonctions mentionnées ci-dessus.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2015-1401 du 3 novembre 2015 - art. 7
 
 	**Cité par**:
 
@@ -1367,14 +1311,19 @@ l'artisanat départementales qui leur sont rattachées ;
 	  - Décret n°2016-168 du 18 février 2016 - art. 3 (V)
 	  - Code de l'artisanat - art. 23 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-343 du 16 mars 2017 - art. 15
+
 
 ###### Article 23-2
 
-Les chambres de métiers et de l'artisanat départementales exercent, dans leur ressort territorial, les missions mentionnées
-au I de l'article 23, à l'exception de celles mentionnées aux 3°, 10°, 11° et 13°, et peuvent être consultées en application
-du troisième alinéa du II du même article. Les missions mentionnées au 12° ne peuvent être exercées qu'après accord de la
-chambre de niveau régional. Les chambres de métiers et de l'artisanat départementales exercent les attributions mentionnées
-au III de l'article 23 à condition, pour chaque opération, d'y être autorisées par l'autorité de tutelle.
+Les chambres de métiers et de l'artisanat départementales et interdépartementales exercent, dans leur ressort territorial,
+les missions mentionnées au I de l'article 23, à l'exception de celles mentionnées aux 3°, 10°, 11° et 13°, et peuvent être
+consultées en application du troisième alinéa du II du même article. Les missions mentionnées au 12° ne peuvent être exercées
+qu'après accord de la chambre de niveau régional. Les chambres de métiers et de l'artisanat départementales et
+interdépartementales exercent les attributions mentionnées au III de l'article 23 à condition, pour chaque opération, d'y
+être autorisées par le préfet de région.
 
 Elles exercent ces prérogatives dans le respect des dispositions de l'article 5-4.
 
@@ -1382,24 +1331,26 @@ Elles exercent ces prérogatives dans le respect des dispositions de l'article 5
 
 	**Modifié par**:
 
-	  - Décret n°2015-1401 du 3 novembre 2015 - art. 8
+	  - Décret n°2017-343 du 16 mars 2017 - art. 16
 
 
 ###### Article 23-3
 
-La chambre de métiers et de l'artisanat de région peut confier des missions de proximité aux sections qui la composent,
-notamment celles prévues aux 1°, 2° et 14° du I de l'article 23 , et la gestion des centres de formalités des entreprises
-mentionnée aux articles R. 123-1 à R. 123-3 du code de commerce. 
+La chambre de métiers et de l'artisanat de région et la chambre de métiers et de l'artisanat interdépartementale peuvent
+confier des missions de proximité aux délégations qui la composent, notamment celles prévues aux 1°, 2° et 14° du I de
+l'article 23 , et la gestion des centres de formalités des entreprises mentionnée aux articles R. 123-1 à R. 123-3 du code de
+commerce.
 
-Les sections peuvent être consultées sur les questions relatives à l'exercice des missions qui peuvent leur être confiées ou
-à leur circonscription territoriale par la chambre des métiers et de l'artisanat de région. Elles peuvent formuler des
-propositions ou émettre des recommandations sur ces questions.
+Les délégations peuvent être consultées sur les questions relatives à l'exercice des missions qui peuvent leur être confiées,
+ou relatives à leur circonscription territoriale par la chambre des métiers et de l'artisanat de région ou la chambre de
+métiers et de l'artisanat interdépartementale. Elles peuvent formuler des propositions ou émettre des recommandations sur ces
+questions.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-1401 du 3 novembre 2015 - art. 9
+	  - Décret n°2017-343 du 16 mars 2017 - art. 17
 
 	**Cite**:
 
@@ -1410,18 +1361,19 @@ propositions ou émettre des recommandations sur ces questions.
 
 ###### Article 25
 
-Il est pourvu aux dépenses des chambres de métiers et de l'artisanat de région au moyen des ressources prévues et recouvrées
-conformément aux dispositions de l'article 1601 du code général des impôts.
+Il est pourvu aux dépenses des chambres de métiers et de l'artisanat de région et des chambres régionales de métiers et de
+l'artisanat au moyen des ressources prévues et recouvrées conformément aux dispositions de l'article 1601 du code général des
+impôts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+	  - Décret n°2017-343 du 16 mars 2017 - art. 18
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1601 (V)
+	  - Code général des impôts, CGI. - art. 1601
 
 	**Cité par**:
 
@@ -1430,17 +1382,17 @@ conformément aux dispositions de l'article 1601 du code général des impôts.
 
 ###### Article 26
 
-I.-Les chambres de métiers et de l'artisanat de région peuvent recevoir : 
+I.-Les chambres de métiers et de l'artisanat peuvent recevoir :
 
-1. Des subventions publiques et privées ; 
+1. Des subventions publiques et privées ;
 
-2. Des dons et des legs. 
+2. Des dons et des legs.
 
-II.-Les chambres de métiers et de l'artisanat de région peuvent percevoir, en outre, des redevances, dans le respect des
-règles de concurrence, pour des prestations de services fournies aux entreprises artisanales. Le montant de ces redevances
-est établi en prenant en compte l'intérêt personnel et spécial qu'en retire l'entreprise artisanale et les charges exposées
-au titre de ce service. La chambre de métiers et de l'artisanat de région arrête les tarifs de ces redevances, lesquels font
-l'objet d'une information auprès des ressortissants. 
+II.-Les chambres de métiers et de l'artisanat peuvent percevoir, en outre, des redevances, dans le respect des règles de
+concurrence, pour des prestations de services fournies aux entreprises artisanales. Le montant de ces redevances est établi
+en prenant en compte l'intérêt personnel et spécial qu'en retire l'entreprise artisanale et les charges exposées au titre de
+ce service. La chambre arrête les tarifs de ces redevances, lesquels font l'objet d'une information auprès des
+ressortissants.
 
 Le montant de chaque redevance, les conditions de sa perception ainsi que les recettes correspondantes figurent en annexe du
 budget prévisionnel et des comptes de la chambre. Aucune autre redevance ne peut être perçue par la chambre à compter de la
@@ -1462,16 +1414,15 @@ date d'approbation de son budget.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1401 du 3 novembre 2015 - art. 10
+	  - Décret n°2017-343 du 16 mars 2017 - art. 19
 
 
 ## Chapitre V : Contrôle administratif et financier.
 
 ###### Article 27
 
-Le contrôle administratif et financier des chambres de métiers et de l'artisanat de région, des chambres régionales de
-métiers et de l'artisanat et des chambres de métiers et de l'artisanat départementales est exercé par le préfet de région
-assisté par le responsable régional des finances publiques.
+Le contrôle administratif et financier des chambres de métiers et de l'artisanat est exercé par le préfet de région assisté
+par le responsable régional des finances publiques.
 
 **Liens relatifs à cet article**
 
@@ -1485,18 +1436,18 @@ assisté par le responsable régional des finances publiques.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1401 du 3 novembre 2015 - art. 11
+	  - Décret n°2017-343 du 16 mars 2017 - art. 20
 
 
 ###### Article 28
 
-I. - Les budgets et les comptes des chambres de métiers et de l'artisanat de région sont établis dans les formes prescrites
-par le ministre chargé de l'artisanat et le ministre chargé du budget.
+I. - Les budgets et les comptes des chambres de métiers et de l'artisanat sont établis dans les formes prescrites par le
+ministre chargé de l'artisanat et le ministre chargé du budget.
 
 Ils doivent faire apparaître dans des sections distinctes les dépenses et les recettes ordinaires et celles qui, par leur
 nature, ne sont pas susceptibles de se reproduire tous les ans.
 
-Les chambres de métiers et de l'artisanat de région présentent, selon les cas, séparément les budgets et les comptes :
+Les chambres de métiers et de l'artisanat présentent, selon les cas, séparément les budgets et les comptes :
 
 i) des conseils de la formation ;
 
@@ -1505,7 +1456,7 @@ ii) des centres de formation d'apprentis gérés directement ;
 iii) des autres services des chambres.
 
 L'ensemble de ces comptes doivent également être présentés sous une forme agrégée, par addition des comptes et, le cas
-échéant, suppression des imputations comptables enregistrées en double dans les comptes susmentionnés. 
+échéant, suppression des imputations comptables enregistrées en double dans les comptes susmentionnés.
 
 II. - Le budget primitif ou rectificatif comprend :
 
@@ -1513,34 +1464,33 @@ II. - Le budget primitif ou rectificatif comprend :
 
 - les états prévisionnels correspondant au tableau de financement et aux 4° à 11° du II de l'article 28-1.
 
-Le budget primitif est voté par l'assemblée générale de la chambre de métiers et de l'artisanat de région, et transmis à
-l'autorité de tutelle, avant le 1er décembre de chaque année.
+Le budget primitif est voté par l'assemblée générale de la chambre, et transmis au préfet de région, avant le 1er décembre de
+chaque année.
 
 Le budget primitif peut faire l'objet, en cas de nécessité, de budgets rectificatifs. Un budget rectificatif ne peut être
 voté après l'adoption du budget primitif de l'année suivante. Le budget primitif ou rectificatif est voté par l'assemblée
-générale et transmis, ainsi que la délibération correspondante, pour approbation, à l'autorité de tutelle dans les huit jours
+générale et transmis, ainsi que la délibération correspondante, pour approbation, au préfet de région dans les huit jours
 suivant son adoption.
 
-La délibération et le budget primitif ou rectificatif correspondant sont exécutoires dès leur approbation tacite par
-l'autorité de tutelle, à l'expiration d'un délai d'un mois à compter de leur date de réception par l'autorité de tutelle, à
-défaut d'approbation expresse ou d'opposition notifiée à la chambre pendant ce délai. Les décisions de refus sont motivées.
+La délibération et le budget primitif ou rectificatif correspondant sont exécutoires dès leur approbation tacite par le
+préfet de région, à l'expiration d'un délai d'un mois à compter de leur date de réception par le préfet de région, à défaut
+d'approbation expresse ou d'opposition notifiée à la chambre pendant ce délai. Les décisions de refus sont motivées.
 
-Lorsque l'autorité de tutelle demande par écrit à la chambre des informations ou documents complémentaires, le délai
-mentionné à l'alinéa précédent est suspendu jusqu'à la production de ces informations ou documents.
+Lorsque le préfet de région demande par écrit à la chambre des informations ou documents complémentaires, le délai mentionné
+à l'alinéa précédent est suspendu jusqu'à la production de ces informations ou documents.
 
 Le budget de la chambre doit être présenté sur des bases sincères et, sauf cas exceptionnels et justifiés, il doit être
 présenté en équilibre. Au cas où la réduction des charges ne serait pas suffisante pour assurer l'équilibre, un prélèvement
 sur le fonds de roulement peut être envisagé à condition que son niveau se maintienne à au moins deux mois de fonctionnement
 et que la trésorerie reste positive.
 
-Lorsque le budget n'est pas adopté par l'assemblée générale ou n'a pas été approuvé par l'autorité de tutelle à la date
+Lorsque le budget n'est pas adopté par l'assemblée générale ou n'a pas été approuvé par le préfet de région à la date
 d'ouverture de l'exercice, le président de la chambre peut, dans la limite du douzième du budget primitif ou du dernier
-budget rectificatif approuvé l'année précédente par l'autorité de tutelle, mettre en recouvrement les recettes et engager,
+budget rectificatif approuvé l'année précédente par le préfet de région, mettre en recouvrement les recettes et engager,
 liquider et mandater les dépenses de la section de fonctionnement, et mandater les dépenses afférentes au remboursement en
 capital des annuités de la dette venant à échéance avant l'approbation du budget.
 
-Lorsque l'autorité de tutelle constate la carence de la chambre de métiers et de l'artisanat de région, elle procède suivant
-le cas :
+Lorsque le préfet de région constate la carence de la chambre, elle procède suivant le cas :
 
 1° A l'établissement d'office du budget de la chambre ;
 
@@ -1569,25 +1519,24 @@ pour les comptes de l'exercice 2016.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1401 du 3 novembre 2015 - art. 12
+	  - Décret n°2017-343 du 16 mars 2017 - art. 21
 
 
 ###### Article 28-1
 
-I. ― Le compte de gestion retrace l'exécution du budget de chaque exercice, en fonctionnement et en investissement. 
+I. - Le compte de gestion retrace l'exécution du budget de chaque exercice, en fonctionnement et en investissement.
 
-A l'issue de l'exercice, le président de la chambre adresse au commissaire aux comptes le projet de compte de gestion et les
-comptes annuels dans les formes prescrites par le ministre chargé de l'artisanat et le ministre chargé du budget en
-application de l'article 28, assortis des pièces et justificatifs nécessaires. Le commissaire aux comptes exerce sa mission
-conformément aux dispositions des articles L. 823-9 et L. 823-18 du code de commerce, en veillant au respect de l'ensemble
-des dispositions comptables définies par l'arrêté susmentionné. 
+A l'issue de l'exercice, le président de la chambre adresse au commissaire aux comptes le projet de compte de gestion dans
+les formes prescrites par le ministre chargé de l'artisanat et le ministre chargé du budget en application de l'article 28,
+assortis des pièces et justificatifs nécessaires. Le commissaire aux comptes exerce sa mission conformément aux dispositions
+des articles L. 823-9 et L. 823-18 du code de commerce, en veillant au respect de l'ensemble des dispositions comptables
+définies par l'arrêté susmentionné.
 
-A sa plus prochaine séance suivant le dépôt du rapport du commissaire aux comptes, l'assemblée générale de la chambre de
-métiers et de l'artisanat de région adopte le compte de gestion de l'exercice précédent. 
+A sa plus prochaine séance suivant le dépôt du rapport du commissaire aux comptes, l'assemblée générale de chaque chambre de
+métiers et de l'artisanat adopte le compte de gestion de l'exercice précédent.
 
-Lorsque des chambres départementales de métiers et de l'artisanat s'unissent avec une chambre régionale de métiers et de
-l'artisanat en une seule chambre de métiers et de l'artisanat de région, l'assemblée générale de la nouvelle chambre adopte
-les comptes du dernier exercice clos de chacune des chambres qui ont fusionné. 
+Lorsque des établissements du réseau se regroupent en un seul établissement, l'assemblée générale de la nouvelle chambre
+adopte les comptes du dernier exercice clos de chacune des chambres qui ont fusionné.
 
 II. - Le compte de gestion sur lequel se prononce l'assemblée générale comprend :
 
@@ -1604,8 +1553,8 @@ l'exercice ainsi qu'avec le budget réalisé de l'exercice antérieur ;
 4° L'état en fin d'exercice des emplois permanents et non permanents de l'établissement, mentionnant le statut, la catégorie,
 le niveau ou le rang et l'indice de rémunération de leur détenteur ;
 
-5° Les montants d'imposition votés au titre de l'exercice par l'établissement et agréés par l'autorité de tutelle en
-application de l'article 1601 du code général des impôts ;
+5° Les montants d'imposition votés au titre de l'exercice par la chambre de métiers et de l'artisanat de niveau régional et
+agréés par le préfet de région en application de l'article 1601 du code général des impôts ;
 
 6° Les recettes en taxe d'apprentissage perçues au titre de l'exercice par la chambre, dont celles qu'elle a utilisées pour
 elle-même et celles reversées aux autres établissements du réseau ;
@@ -1629,7 +1578,7 @@ nomenclature prescrites par le ministre chargé de l'artisanat et le ministre ch
 
 	**Modifié par**:
 
-	  - Décret n°2015-1401 du 3 novembre 2015 - art. 13
+	  - Décret n°2017-343 du 16 mars 2017 - art. 22
 
 	**Cite**:
 
@@ -1645,22 +1594,22 @@ nomenclature prescrites par le ministre chargé de l'artisanat et le ministre ch
 ###### Article 28-2
 
 Avant le 1er juillet de chaque année, et dans les quinze jours suivant son adoption, le président de la chambre de métiers et
-de l'artisanat de région adresse à l'autorité de tutelle le compte de gestion et les comptes annuels de l'année précédente,
-accompagnés des annexes prévues au II de l'article 28-1 et le rapport du commissaire aux comptes. 
+de l'artisanat adresse au préfet de région le compte de gestion et les comptes annuels de l'année précédente, accompagnés des
+annexes prévues au II de l'article 28-1 et le rapport du commissaire aux comptes.
 
 A défaut d'approbation expresse ou d'opposition notifiée à la chambre au terme d'un délai de deux mois à compter de la
-réception de la demande par l'autorité de tutelle, ces autorisations sont réputées accordées. Les décisions de refus sont
+réception de la demande par le préfet de région, ces autorisations sont réputées accordées. Les décisions de refus sont
 motivées.
 
-Lorsque l'autorité de tutelle demande par écrit à la chambre des informations ou documents complémentaires, le délai
-mentionné à l'alinéa précédent est suspendu jusqu'à la production de ces informations ou documents.
+Lorsque le préfet de région demande par écrit à la chambre des informations ou documents complémentaires, le délai mentionné
+à l'alinéa précédent est suspendu jusqu'à la production de ces informations ou documents.
 
-L'autorité de tutelle transmet au ministre chargé de l'artisanat un exemplaire du compte de gestion approuvé assorti de ses
-annexes, ou un rapport exposant les motifs l'ayant conduite à en refuser l'approbation. 
+Le préfet de région transmet, pour information, au ministre chargé de l'artisanat un exemplaire du compte de gestion approuvé
+assorti de ses annexes, ou un rapport exposant les motifs l'ayant conduite à en refuser l'approbation.
 
 Les chambres de métiers et de l'artisanat de région rendent publics sur leur site internet, dans le mois qui suit
-l'approbation de ces documents par l'autorité de tutelle, leur compte de gestion assorti de ses annexes ainsi que le rapport
-du commissaire aux comptes. Elles transmettent ces documents, dans le même délai, à l'Assemblée permanente des chambres de
+l'approbation de ces documents par le préfet de région, leur compte de gestion assorti de ses annexes ainsi que le rapport du
+commissaire aux comptes. Elles transmettent ces documents, dans le même délai, à l'Assemblée permanente des chambres de
 métiers et de l'artisanat.
 
 **Liens relatifs à cet article**
@@ -1671,7 +1620,7 @@ métiers et de l'artisanat.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1401 du 3 novembre 2015 - art. 14
+	  - Décret n°2017-343 du 16 mars 2017 - art. 23
 
 	**Cite**:
 
@@ -1680,10 +1629,10 @@ métiers et de l'artisanat.
 
 ###### Article 28-3
 
-Les chambres de métiers et de l'artisanat de région peuvent contracter des emprunts en vue de subvenir ou de concourir aux
-dépenses nécessaires à l'exercice de leurs attributions, à l'exclusion de leurs dépenses ordinaires. Ces emprunts sont
-autorisés par arrêté du préfet de région. Un crédit égal à l'annuité d'amortissement devra obligatoirement être inscrit
-chaque année au budget de la chambre.
+Les chambres de métiers et de l'artisanat peuvent contracter des emprunts en vue de subvenir ou de concourir aux dépenses
+nécessaires à l'exercice de leurs attributions, à l'exclusion de leurs dépenses ordinaires. Ces emprunts sont autorisés par
+arrêté du préfet de région. Un crédit égal à l'annuité d'amortissement devra obligatoirement être inscrit chaque année au
+budget de la chambre.
 
 L'ouverture d'une ligne de trésorerie par ces chambres peut être autorisée, à titre exceptionnel, par arrêté du préfet de
 région en vue de faire face à des besoins temporaires de trésorerie.
@@ -1700,7 +1649,7 @@ contracter un emprunt et ouvrir une ligne de trésorerie n'est pas requise.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1401 du 3 novembre 2015 - art. 15
+	  - Décret n°2017-343 du 16 mars 2017 - art. 24
 
 
 ###### Article 28-4
@@ -1735,10 +1684,8 @@ Toutefois, le trésorier ne peut déférer à l'ordre de réquisition lorsque la
 
 ###### Article 29
 
-Les       chambres de métiers et de l'artisanat de région peuvent affecter tout ou partie des excédents de recettes provenant
-de la gestion de leur service ordinaire à la constitution d'un fonds de réserve qui doit être mentionné dans les comptes du
-budget de ce service à un chapitre spécial et ne peut, en aucun cas, être supérieur à la moitié de la totalité des ressources
-annuelles dudit budget.
+Les chambres de métiers et de l'artisanat peuvent affecter tout ou partie des excédents de ressources à la constitution d'un
+fonds de roulement qui ne peut être supérieur à six mois de charges de fonctionnement.
 
 **Liens relatifs à cet article**
 
@@ -1748,22 +1695,26 @@ annuelles dudit budget.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+	  - Décret n°2017-343 du 16 mars 2017 - art. 25
 
 
 ###### Article 30
 
-En application du 3° de l'article 5-5, les chambres de métiers et de l'artisanat de région et les chambres régionales des
-métiers et de l'artisanat abondent le budget des chambres de métiers et de l'artisanat départementales qui leur sont
-rattachées, au-delà du budget voté, dans les conditions et limites suivantes : 
+En application du 3° de l'article 5-5, les chambres régionales des métiers et de l'artisanat abondent le budget des chambres
+de métiers et de l'artisanat départementales et interdépartementales qui leur sont rattachées, au-delà du budget voté, dans
+les conditions et limites suivantes :
 
-La chambre de métiers et de l'artisanat départementale présente une demande d'abondement, justifiée par des dépenses
-exceptionnelles ou des circonstances particulières, à la chambre de métiers et de l'artisanat de région ou à la chambre
-régionale de métiers et de l'artisanat à laquelle elle est rattachée. 
+La chambre de métiers et de l'artisanat départementale ou interdépartementales présente une demande d'abondement, justifiée
+par des dépenses exceptionnelles ou des circonstances particulières, à la chambre de métiers et de l'artisanat de région ou à
+la chambre régionale de métiers et de l'artisanat à laquelle elle est rattachée.
 
-Cette demande est approuvée par l'assemblée générale de la chambre de métiers et de l'artisanat départementale puis transmise
-pour approbation à la chambre de métiers et de l'artisanat de région ou à la chambre régionale de métiers et de l'artisanat.
-Elle est transmise pour information à l'autorité de tutelle.
+Cette demande est approuvée par l'assemblée générale de la chambre de métiers et de l'artisanat départementale ou
+interdépartementale puis transmise pour approbation à la chambre de métiers et de l'artisanat de région ou à la chambre
+régionale de métiers et de l'artisanat. Elle est transmise pour information au préfet de région.
+
+**Nota:**
+
+Conformément à l'article 40 du décret n° 2017-343 du 16 mars 2017, ces dispositions peuvent être modifiés par décret.
 
 **Liens relatifs à cet article**
 
@@ -1773,7 +1724,7 @@ Elle est transmise pour information à l'autorité de tutelle.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 15
+	  - Décret n°2017-343 du 16 mars 2017 - art. 26
 
 	**Cité par**:
 
@@ -1783,13 +1734,18 @@ Elle est transmise pour information à l'autorité de tutelle.
 ###### Article 31
 
 Sont considérées comme des dépenses exceptionnelles au sens de l'article 5-5 les dépenses exposées par la chambre de métiers
-et de l'artisanat départementale dans l'exercice de ses missions et qui : 
+et de l'artisanat départementale ou interdépartementale dans l'exercice de ses missions et qui :
 
 1° Soit, du fait d'événements imprévisibles et indépendants de sa volonté, excèdent ses capacités propres de financement au
-titre de l'exercice budgétaire en cours ; 
+titre de l'exercice budgétaire en cours ;
 
 2° Soit correspondent à un investissement présentant un caractère de nécessité absolue pour l'exercice de ses missions, mais
-ne peuvent, du fait de leur ampleur et de leur montant, être assurées par la chambre départementale seule.
+ne peuvent, du fait de leur ampleur et de leur montant, être assurées par la chambre départementale ou interdépartementale
+seule.
+
+**Nota:**
+
+Conformément à l'article 40 du décret n° 2017-343 du 16 mars 2017, ces dispositions peuvent être modifiés par décret.
 
 **Liens relatifs à cet article**
 
@@ -1799,27 +1755,27 @@ ne peuvent, du fait de leur ampleur et de leur montant, être assurées par la c
 
 	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 15
+	  - Décret n°2017-343 du 16 mars 2017 - art. 27
 
 
 ###### Article 32
 
-Sont considérées comme des circonstances particulières au sens de l'article 5-5 : 
+Sont considérées comme des circonstances particulières au sens du 3° de l'article 5-5 :
 
 1° Une diminution des ressources issues de la taxe additionnelle à la cotisation foncière des entreprises affectées à la
-chambre de métiers et de l'artisanat départementale telle que cette chambre soit dans l'impossibilité d'établir l'équilibre
-de son budget par une augmentation d'autres recettes ou par une diminution des dépenses non nécessaires à son
-fonctionnement ; 
+chambre de métiers et de l'artisanat départementale ou interdépartementale telle que cette chambre soit dans l'impossibilité
+d'établir l'équilibre de son budget par une augmentation d'autres recettes ou par une diminution des dépenses non nécessaires
+à son fonctionnement ;
 
-2° La mise en œuvre de la procédure d'établissement d'office du budget par l'autorité de tutelle de la chambre de métiers et
-de l'artisanat départementale, lorsque les conditions mentionnées au 1° sont satisfaites ; 
+2° La mise en œuvre de la procédure d'établissement d'office du budget de la chambre de métiers et de l'artisanat
+départementale ou interdépartementale par le préfet de région, lorsque les conditions mentionnées au 1° sont satisfaites ;
 
-3° L'exécution d'une fonction dont la responsabilité a été confiée à une chambre de métiers et de l'artisanat départementale
-par la chambre de métiers et de l'artisanat de région ou par la chambre régionale de métiers et de l'artisanat dont la
-chambre départementale ne peut assurer par elle-même la totalité du financement ; 
+3° Les mesures de rétablissement de la situation financière d'une chambre de métiers et de l'artisanat départementale ou
+interdépartementale gravement affectée par une forte réduction ou par la disparition de l'une de ses activités.
 
-4° Les mesures de rétablissement de la situation financière d'une chambre de métiers et de l'artisanat départementale
-gravement affectée par une forte réduction ou par la disparition de l'une de ses activités.
+**Nota:**
+
+Conformément à l'article 40 du décret n° 2017-343 du 16 mars 2017, ces dispositions peuvent être modifiés par décret.
 
 **Liens relatifs à cet article**
 
@@ -1829,17 +1785,21 @@ gravement affectée par une forte réduction ou par la disparition de l'une de s
 
 	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 15
+	  - Décret n°2017-343 du 16 mars 2017 - art. 28
 
 
 ###### Article 33
 
-En application de l'article 30, le président de la chambre de métiers et de l'artisanat de région ou le président de la
-chambre régionale de métiers et de l'artisanat informe l'assemblée générale de la chambre de la demande qui lui a été
-présentée. 
+En application de l'article 30, le président de la chambre régionale de métiers et de l'artisanat informe l'assemblée
+générale de la chambre de la demande qui lui a été présentée.
 
-Il notifie la décision d'abondement à la chambre de métiers et de l'artisanat départementale et transmet cette décision pour
-information à l'autorité de tutelle, dans le délai d'un mois à compter de la date de la décision d'abondement.
+Il notifie la décision d'abondement à la chambre de métiers et de l'artisanat départementale ou interdépartementale et
+transmet cette décision pour information au préfet de région, dans le délai d'un mois à compter de la date de la décision
+d'abondement.
+
+**Nota:**
+
+Conformément à l'article 40 du décret n° 2017-343 du 16 mars 2017, ces dispositions peuvent être modifiés par décret.
 
 **Liens relatifs à cet article**
 
@@ -1849,8 +1809,41 @@ information à l'autorité de tutelle, dans le délai d'un mois à compter de la
 
 	**Modifié par**:
 
-	  - Décret n°2010-1356 du 11 novembre 2010 - art. 15
+	  - Décret n°2017-343 du 16 mars 2017 - art. 29
 
+
+# Titre II : Des chambres de métiers et de l'artisanat
+
+###### Article 5
+
+Les chambres de métiers et de l'artisanat sont, auprès des pouvoirs publics, les organes représentatifs des intérêts généraux
+de l'artisanat de leur circonscription.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°52-849 du 16 juillet 1952
+
+	**Modifié par**:
+
+	  - Décret n°2017-343 du 16 mars 2017 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'artisanat - art. 81 bis (M)
+	  - Code de l'artisanat - art. 82-1 (Ab)
+
+
+## Chapitre I : Institution et organisation.
+
+## Chapitre II : Fonctionnement.
+
+## Chapitre III : Attributions.
+
+## Chapitre IV : Ressources.
+
+## Chapitre V : Contrôle administratif et financier.
 
 # Titre IV : De l'apprentissage artisanal.
 
@@ -2567,9 +2560,8 @@ d'industrie, de métiers et de l'artisanat de Saint-Pierre-et-Miquelon" au lieu 
 
 ###### Article 82
 
-Ne sont applicables aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle que les articles 53 à 71 inclus, relatifs au
-crédit aux artisans, les articles 73 à 75 inclus, relatifs aux adjudications et marchés et les articles 76 à 80 inclus,
-relatifs à l'assistance aux artisans sans travail.
+Ne sont applicables aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle que les articles 73 à 75 inclus, relatifs aux
+adjudications et marchés et les articles 76 à 80 inclus, relatifs à l'assistance aux artisans sans travail.
 
 Les 2° et 3° de l'article 5-5 du code de l'artisanat ne s'appliquent pas aux chambres de métiers de la Moselle et d'Alsace.
 
@@ -2590,37 +2582,12 @@ mentionnées au II de l'article 23-1 à la chambre régionale de métiers et de 
 
 	**Modifié par**:
 
-	  - Décret n°2015-1401 du 3 novembre 2015 - art. 18
+	  - Décret n°2017-343 du 16 mars 2017 - art. 30
 
 	**Cite**:
 
 	  - Code de l'artisanat - art. 5-5
 	  - Code de l'artisanat - art. 53
-
-
-###### Article 82-1
-
-Les dispositions des articles 5, 6, 15, 17, 19 bis, 20, 25, 26, 28, 28-1, 28-2, 28-3 et 29 régissant les chambres de métiers
-et de l'artisanat de région sont applicables aux chambres régionales de métiers et de l'artisanat. Les dispositions de ces
-articles sont également applicables aux chambres de métiers et de l'artisanat départementales, à l'exception de l'article 25
-et du 5° du II de l'article 28-1.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2015-1401 du 3 novembre 2015 - art. 19
-
-	**Abrogé par**:
-
-	  - Décret n°2017-343 du 16 mars 2017 - art. 31
-
-	**Cite**:
-
-	  - Code de l'artisanat - art. 15
-	  - Code de l'artisanat - art. 20
-	  - Code de l'artisanat - art. 28
-	  - Code de l'artisanat - art. 5
 
 
 ###### Article 83
