@@ -1,5 +1,5 @@
 # Code de l'artisanat  
-Version Consolidée au 2017-03-19
+Version Consolidée au 2017-04-08
 
 # Titre I : De l'artisan, du maître artisan et du compagnon.
 
@@ -23,7 +23,28 @@ attestée soit par le certificat de compagnon, soit par un apprentissage préala
 	  - Décret n°77-892 du 4 août 1977 - art. 1 (Ab)
 
 
-# Titre II : Des       chambres de métiers et de l'artisanat de région
+# Titre II : Des chambres de métiers et de l'artisanat
+
+###### Article 5
+
+Les chambres de métiers et de l'artisanat sont, auprès des pouvoirs publics, les organes représentatifs des intérêts généraux
+de l'artisanat de leur circonscription.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°52-849 du 16 juillet 1952
+
+	**Modifié par**:
+
+	  - Décret n°2017-343 du 16 mars 2017 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'artisanat - art. 81 bis (M)
+	  - Code de l'artisanat - art. 82-1 (Ab)
+
 
 ## Chapitre I : Institution et organisation.
 
@@ -1357,6 +1378,194 @@ questions.
 	  - Code de commerce - art. R123-1
 
 
+###### Article 24
+
+Les chambres des métiers et de l'artisanat organisent les sessions d'examen dans le cadre d'un calendrier national fixé par
+l'assemblée permanente des chambres de métiers et de l'artisanat. Les chambres régionales de métiers et de l'artisanat
+assurent la coordination des examens au niveau régional et perçoivent les droits d'inscriptions mentionnés à l'article 24-1.
+
+L'organisation des examens respecte les règles de confidentialité, d'impartialité et de déport fixées dans un règlement
+d'examen approuvé par l'assemblée permanente des chambres de métiers et de l'artisanat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°52-849 du 16 juillet 1952
+
+	**Cité par**:
+
+	  - Décret n°66-137 du 7 mars 1966 - art. 11 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-483 du 6 avril 2017 - art. 10
+
+
+###### Article 24-1
+
+L'inscription aux sessions de l'examen est subordonnée au paiement par le candidat de droits d'inscription. Par dérogation au
+second alinéa du II de l'article 26, le montant de ces droits est fixé pour l'ensemble du territoire par arrêté conjoint des
+ministres chargés respectivement des finances, des transports et de l'artisanat, pris après avis de l'assemblée permanente
+des chambres de métiers et de l'artisanat.
+
+Ces droits couvrent les coûts supportés au titre de l'inscription, de l'organisation de la session et de la délivrance de
+l'attestation.
+
+Ils sont acquittés préalablement à l'inscription à l'examen.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-483 du 6 avril 2017 - art. 10
+
+
+###### Article 24-2
+
+Les chambres des métiers et de l'artisanat publient sur un site dédié :
+
+1° La programmation des sessions et les lieux des épreuves dans chaque département, au moins un mois avant la date prévue ;
+
+2° Pour chaque session, au plus tard un mois après cette dernière, le nombre de candidats, les moyennes des résultats pour
+chaque épreuve et, pour l'ensemble de l'examen, le taux de réussite et, le cas échéant, le nombre de candidats ajournés par
+manque de places. Ces données sont détaillées par département ;
+
+3° Les autres données précisées par un arrêté conjoint des ministres chargés, respectivement, des transports et de
+l'artisanat.
+
+**Nota:**
+
+Conformément au II de l'article 14 du décret n° 2017-483 du 6 avril 2017, par dérogation aux dispositions du 1° de l'article
+24-2 du code de l'artisanat dans sa rédaction résultant de l'article 10 dudit décret, la date et les lieux de la première
+session des examens peuvent être publiée moins d'un mois avant le déroulement de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-483 du 6 avril 2017 - art. 10
+
+
+###### Article 24-3
+
+Le Comité national des transports publics particuliers de personnes mentionné à l'article D. 3120-16 du code des transports
+désigne en son sein une formation spécialisée, dénommée Comité national de suivi des examens des professions du transport
+public particulier de personnes. Cette formation est chargée d'assurer le suivi de ces examens et de réaliser le bilan prévu
+au 4° bis de l'article 23 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-483 du 6 avril 2017 - art. 10
+
+	**Cite**:
+
+	  - Code des transports - art. D3120-16 (V)
+
+
+###### Article 24-4
+
+La formation spécialisée prévue à l'article 24-3 comporte au plus 27 membres dont un président et un vice-président. Ses
+membres sont répartis dans trois sections, chacune propre à l'une des professions du transport public particulier de
+personnes.
+
+Chaque section est composée à part égales :
+
+1° De représentants des ministres chargés, respectivement, des transports, de l'économie et de l'artisanat ;
+
+2° De représentants de la profession du transport public particulier de personnes concernée ;
+
+3° De représentants des collectivités territoriales.
+
+Un arrêté conjoint des ministres chargés, respectivement, des transports, de l'économie et de l'artisanat fixe le nombre des
+représentants de chacune de ces catégories, nomme les représentants de l'Etat, les autres représentants désignés sur
+proposition du Comité national des transports publics particuliers de personnes ainsi que le président qui est choisi parmi
+les représentants de l'Etat et le vice-président, choisi parmi les autres membres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-483 du 6 avril 2017 - art. 10
+
+
+###### Article 24-5
+
+Le Comité national de suivi des examens des professions du transport public particulier de personnes établit son règlement
+intérieur. Son fonctionnement et ses délibérations sont soumis aux dispositions des articles R. 133-3 à R. 133-13 du code des
+relations entre le public et l'administration. 
+
+Ses membres exercent leurs fonctions à titre gratuit. Ils peuvent bénéficier du remboursement de leurs frais de déplacement
+et de séjour dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-483 du 6 avril 2017 - art. 10
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'adminis... - art. R133-13 (V)
+	  - Code des relations entre le public et l'adminis... - art. R133-3 (V)
+
+
+###### Article 24-6
+
+Pour l'accomplissement de leur mission de suivi des examens, les membres de chacune des sections et les personnes qu'elles
+désignent, disposent d'un droit d'accès aux lieux où se déroulent les épreuves.
+
+Les personnes participant à la préparation ou à l'organisation des examens communiquent à ces derniers, à leur demande, toute
+information ou document utile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-483 du 6 avril 2017 - art. 10
+
+
+###### Article 24-7
+
+Les membres des sections ne doivent ni avoir exercé d'activité au sein des organismes mentionnés au premier alinéa de
+l'article 5-1 dans les trois années précédant leur nomination, ni exercer d'activités au sein de ces mêmes organismes dans
+les trois ans suivant la fin de leur fonction.
+
+Ces membres et leurs proches ne doivent exercer aucune activité au sein du réseau consulaire des chambres des métiers et de
+l'artisanat mentionné au premier alinéa de l'article 5-1 ou des prestataires auxquels ce réseau recourt pour l'organisation
+des examens de conducteurs du transport public particulier de personnes. Pour l'application du présent alinéa, un proche
+s'entend comme un conjoint, un partenaire d'un pacte civil de solidarité, un ascendant, un descendant au premier degré ou un
+collatéral au deuxième degré.
+
+Ces membres ne peuvent recevoir d'instructions de la part de personnes exerçant une activité dans les organismes mentionnés
+au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-483 du 6 avril 2017 - art. 10
+
+
+###### Article 24-8
+
+Chaque section de la formation spécialisée rend public, au plus tard le 1er janvier de chaque année, un rapport sur les
+conditions de déroulement de l'examen qui la concerne et formule des propositions d'amélioration, au bénéfice des candidats.
+
+Les sections peuvent également, à la demande d'au moins un de leurs membres ou des ministres chargés respectivement des
+transports et de l'artisanat, établir des rapports intermédiaires.
+
+En cas de désaccord sur les recommandations formulées, ces rapports font état de l'opinion de chaque membre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-483 du 6 avril 2017 - art. 10
+
+
 ## Chapitre IV : Ressources.
 
 ###### Article 25
@@ -1389,10 +1598,12 @@ I.-Les chambres de métiers et de l'artisanat peuvent recevoir :
 2. Des dons et des legs.
 
 II.-Les chambres de métiers et de l'artisanat peuvent percevoir, en outre, des redevances, dans le respect des règles de
-concurrence, pour des prestations de services fournies aux entreprises artisanales. Le montant de ces redevances est établi
-en prenant en compte l'intérêt personnel et spécial qu'en retire l'entreprise artisanale et les charges exposées au titre de
-ce service. La chambre arrête les tarifs de ces redevances, lesquels font l'objet d'une information auprès des
-ressortissants.
+concurrence, pour des prestations de services fournies aux entreprises artisanales ou aux candidats à une profession
+d'artisan. Le montant de ces redevances est établi en prenant en compte l'intérêt personnel et spécial qu'en retire
+l'entreprise artisanale ou le candidat à une profession d'artisan et les charges exposées au titre de ce service.
+
+Sous réserve des dispositions de l'article 24-1, la chambre arrête les tarifs des redevances qu'elle perçoit. Ces tarifs font
+l'objet d'une information auprès des ressortissants et, le cas échéant, des candidats mentionnés à l'alinéa précédent.
 
 Le montant de chaque redevance, les conditions de sa perception ainsi que les recettes correspondantes figurent en annexe du
 budget prévisionnel et des comptes de la chambre. Aucune autre redevance ne peut être perçue par la chambre à compter de la
@@ -1411,10 +1622,11 @@ date d'approbation de son budget.
 	  - Décret n°2017-483 du 6 avril 2017 - art. 2
 	  - Code de l'artisanat - art. 77 (V)
 	  - Code de l'artisanat - art. 81 bis (M)
+	  - Code des transports - art. R3120-7 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2017-343 du 16 mars 2017 - art. 19
+	  - Décret n°2017-483 du 6 avril 2017 - art. 10
 
 
 ## Chapitre V : Contrôle administratif et financier.
@@ -1811,39 +2023,6 @@ Conformément à l'article 40 du décret n° 2017-343 du 16 mars 2017, ces dispo
 
 	  - Décret n°2017-343 du 16 mars 2017 - art. 29
 
-
-# Titre II : Des chambres de métiers et de l'artisanat
-
-###### Article 5
-
-Les chambres de métiers et de l'artisanat sont, auprès des pouvoirs publics, les organes représentatifs des intérêts généraux
-de l'artisanat de leur circonscription.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-849 du 16 juillet 1952
-
-	**Modifié par**:
-
-	  - Décret n°2017-343 du 16 mars 2017 - art. 1
-
-	**Cité par**:
-
-	  - Code de l'artisanat - art. 81 bis (M)
-	  - Code de l'artisanat - art. 82-1 (Ab)
-
-
-## Chapitre I : Institution et organisation.
-
-## Chapitre II : Fonctionnement.
-
-## Chapitre III : Attributions.
-
-## Chapitre IV : Ressources.
-
-## Chapitre V : Contrôle administratif et financier.
 
 # Titre IV : De l'apprentissage artisanal.
 
